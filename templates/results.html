@@ -3,6 +3,7 @@
 {% block title %}Resultados - CrocPredict{% endblock %}
 
 {% block content %}
+<div id="results-page">
 <!-- Header -->
 <div class="row mb-4">
     <div class="col-lg-12">
@@ -18,46 +19,6 @@
             </div>
         </div>
         <hr>
-    </div>
-</div>
-
-<!-- Métricas Principais -->
-<div class="row mb-4">
-    <div class="col-md-3 mb-3">
-        <div class="card border-0 shadow-sm h-100">
-            <div class="card-body text-center bg-gradient" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
-                <i class="bi bi-bullseye text-white fs-1 mb-2"></i>
-                <h2 class="text-white mb-2 fw-bold">{{ "%.1f"|format(metrics.accuracy * 100) }}%</h2>
-                <p class="text-white-50 mb-0 fw-semibold">Acurácia</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-md-3 mb-3">
-        <div class="card border-0 shadow-sm h-100">
-            <div class="card-body text-center bg-gradient" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
-                <i class="bi bi-crosshair text-white fs-1 mb-2"></i>
-                <h2 class="text-white mb-2 fw-bold">{{ "%.1f"|format(metrics.precision_weighted * 100) }}%</h2>
-                <p class="text-white-50 mb-0 fw-semibold">Precisão</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-md-3 mb-3">
-        <div class="card border-0 shadow-sm h-100">
-            <div class="card-body text-center bg-gradient" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
-                <i class="bi bi-arrow-repeat text-white fs-1 mb-2"></i>
-                <h2 class="text-white mb-2 fw-bold">{{ "%.1f"|format(metrics.recall_weighted * 100) }}%</h2>
-                <p class="text-white-50 mb-0 fw-semibold">Recall</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-md-3 mb-3">
-        <div class="card border-0 shadow-sm h-100">
-            <div class="card-body text-center bg-gradient" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);">
-                <i class="bi bi-star-fill text-white fs-1 mb-2"></i>
-                <h2 class="text-white mb-2 fw-bold">{{ "%.1f"|format(metrics.f1_weighted * 100) }}%</h2>
-                <p class="text-white-50 mb-0 fw-semibold">F1-Score</p>
-            </div>
-        </div>
     </div>
 </div>
 
@@ -153,9 +114,8 @@
                         <div class="card border h-100">
                             <div class="card-body p-2">
                                 <img src="{{ url_for('serve_chart', filename=chart) }}" 
-                                     class="img-fluid rounded" 
-                                     alt="{{ chart }}"
-                                     style="width: 100%; object-fit: contain;">
+                                     class="img-fluid rounded results-chart-img" 
+                                     alt="{{ chart }}">
                             </div>
                             <div class="card-footer bg-light text-center">
                                 <small class="text-muted">{{ chart.replace('_', ' ').replace('.png', '').title() }}</small>
@@ -197,28 +157,9 @@
     </div>
 </div>
 
+</div>
 {% endblock %}
 
 {% block extra_css %}
-<style>
-    .bg-gradient {
-        transition: transform 0.3s ease;
-    }
-    
-    .bg-gradient:hover {
-        transform: translateY(-5px);
-    }
-    
-    .card {
-        transition: box-shadow 0.3s ease;
-    }
-    
-    .card:hover {
-        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
-    }
-    
-    .badge {
-        font-weight: 500;
-    }
-</style>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/results.css') }}">
 {% endblock %}
