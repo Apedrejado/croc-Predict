@@ -1,0 +1,224 @@
+{% extends "base.html" %}
+
+{% block title %}Resultados - CrocPredict{% endblock %}
+
+{% block content %}
+<!-- Header -->
+<div class="row mb-4">
+    <div class="col-lg-12">
+        <div class="d-flex justify-content-between align-items-center">
+            <div>
+                <h2><i class="bi bi-trophy-fill text-warning"></i> Resultados do Treinamento</h2>
+                <p class="text-muted mb-0">Análise completa do desempenho do modelo</p>
+            </div>
+            <div>
+                <span class="badge bg-success fs-6 p-3">
+                    <i class="bi bi-check-circle"></i> Treinamento Concluído
+                </span>
+            </div>
+        </div>
+        <hr>
+    </div>
+</div>
+
+<!-- Métricas Principais -->
+<div class="row mb-4">
+    <div class="col-md-3 mb-3">
+        <div class="card border-0 shadow-sm h-100">
+            <div class="card-body text-center bg-gradient" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+                <i class="bi bi-bullseye text-white fs-1 mb-2"></i>
+                <h2 class="text-white mb-2 fw-bold">{{ "%.1f"|format(metrics.accuracy * 100) }}%</h2>
+                <p class="text-white-50 mb-0 fw-semibold">Acurácia</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3 mb-3">
+        <div class="card border-0 shadow-sm h-100">
+            <div class="card-body text-center bg-gradient" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
+                <i class="bi bi-crosshair text-white fs-1 mb-2"></i>
+                <h2 class="text-white mb-2 fw-bold">{{ "%.1f"|format(metrics.precision_weighted * 100) }}%</h2>
+                <p class="text-white-50 mb-0 fw-semibold">Precisão</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3 mb-3">
+        <div class="card border-0 shadow-sm h-100">
+            <div class="card-body text-center bg-gradient" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
+                <i class="bi bi-arrow-repeat text-white fs-1 mb-2"></i>
+                <h2 class="text-white mb-2 fw-bold">{{ "%.1f"|format(metrics.recall_weighted * 100) }}%</h2>
+                <p class="text-white-50 mb-0 fw-semibold">Recall</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3 mb-3">
+        <div class="card border-0 shadow-sm h-100">
+            <div class="card-body text-center bg-gradient" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);">
+                <i class="bi bi-star-fill text-white fs-1 mb-2"></i>
+                <h2 class="text-white mb-2 fw-bold">{{ "%.1f"|format(metrics.f1_weighted * 100) }}%</h2>
+                <p class="text-white-50 mb-0 fw-semibold">F1-Score</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Informações do Modelo -->
+<div class="row mb-4">
+    <div class="col-lg-12">
+        <div class="card border-0 shadow-sm">
+            <div class="card-header bg-white border-bottom">
+                <h5 class="mb-0">
+                    <i class="bi bi-cpu text-primary"></i> Detalhes do Modelo
+                </h5>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-4 mb-3">
+                        <div class="d-flex align-items-center p-3 bg-light rounded">
+                            <i class="bi bi-diagram-3 text-primary fs-3 me-3"></i>
+                            <div>
+                                <small class="text-muted d-block">Tipo de Modelo</small>
+                                <strong class="text-capitalize">{{ model_type.replace('_', ' ').title() }}</strong>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="p-3 bg-light rounded h-100">
+                            <small class="text-muted d-block mb-2">
+                                <i class="bi bi-sliders"></i> Parâmetros de Treinamento
+                            </small>
+                            <div class="d-flex flex-wrap gap-2">
+                                {% for key, value in params.items() %}
+                                <span class="badge bg-secondary">
+                                    {{ key.replace('_', ' ').title() }}: <strong>{{ value }}</strong>
+                                </span>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Métricas Macro -->
+<div class="row mb-4">
+    <div class="col-lg-12">
+        <div class="card border-0 shadow-sm">
+            <div class="card-header bg-white border-bottom">
+                <h5 class="mb-0">
+                    <i class="bi bi-bar-chart-line text-success"></i> Métricas Macro (Média entre Classes)
+                </h5>
+            </div>
+            <div class="card-body">
+                <div class="row text-center">
+                    <div class="col-md-4 mb-3">
+                        <div class="p-3 border rounded">
+                            <h4 class="text-primary mb-2">{{ "%.1f"|format(metrics.precision_macro * 100) }}%</h4>
+                            <small class="text-muted">Precisão Macro</small>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3">
+                        <div class="p-3 border rounded">
+                            <h4 class="text-info mb-2">{{ "%.1f"|format(metrics.recall_macro * 100) }}%</h4>
+                            <small class="text-muted">Recall Macro</small>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3">
+                        <div class="p-3 border rounded">
+                            <h4 class="text-success mb-2">{{ "%.1f"|format(metrics.f1_macro * 100) }}%</h4>
+                            <small class="text-muted">F1-Score Macro</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Visualizações -->
+{% if chart_files %}
+<div class="row mb-4">
+    <div class="col-lg-12">
+        <div class="card border-0 shadow-sm">
+            <div class="card-header bg-white border-bottom">
+                <h5 class="mb-0">
+                    <i class="bi bi-graph-up text-warning"></i> Visualizações de Performance
+                </h5>
+            </div>
+            <div class="card-body">
+                <div class="row g-3">
+                    {% for chart in chart_files %}
+                    <div class="col-lg-6 mb-3">
+                        <div class="card border h-100">
+                            <div class="card-body p-2">
+                                <img src="{{ url_for('serve_chart', filename=chart) }}" 
+                                     class="img-fluid rounded" 
+                                     alt="{{ chart }}"
+                                     style="width: 100%; object-fit: contain;">
+                            </div>
+                            <div class="card-footer bg-light text-center">
+                                <small class="text-muted">{{ chart.replace('_', ' ').replace('.png', '').title() }}</small>
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endif %}
+
+<!-- Ações -->
+<div class="row">
+    <div class="col-lg-12">
+        <div class="card border-0 shadow-sm">
+            <div class="card-body">
+                <div class="d-flex flex-wrap justify-content-between align-items-center gap-2">
+                    <div>
+                        <h6 class="mb-1">Próximos Passos</h6>
+                        <small class="text-muted">Continue o fluxo de trabalho</small>
+                    </div>
+                    <div class="d-flex flex-wrap gap-2">
+                        <a href="{{ url_for('upload.upload_page') }}" class="btn btn-outline-secondary">
+                            <i class="bi bi-arrow-left"></i> Novo Dataset
+                        </a>
+                        <a href="{{ url_for('train.train_page') }}" class="btn btn-outline-primary">
+                            <i class="bi bi-arrow-clockwise"></i> Treinar Novo Modelo
+                        </a>
+                        <a href="{{ url_for('predict.predict_page') }}" class="btn btn-success">
+                            <i class="bi bi-lightning-fill"></i> Fazer Predições
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
+
+{% block extra_css %}
+<style>
+    .bg-gradient {
+        transition: transform 0.3s ease;
+    }
+    
+    .bg-gradient:hover {
+        transform: translateY(-5px);
+    }
+    
+    .card {
+        transition: box-shadow 0.3s ease;
+    }
+    
+    .card:hover {
+        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+    }
+    
+    .badge {
+        font-weight: 500;
+    }
+</style>
+{% endblock %}

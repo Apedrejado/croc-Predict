@@ -1,0 +1,204 @@
+{% extends "base.html" %}
+
+{% block title %}Predição - CrocPredict{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-lg-12">
+        <h2><i class="bi bi-bullseye"></i> Predição de Espécie</h2>
+        <p class="text-muted">Insira as características do crocodilo para prever sua espécie</p>
+        <hr>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-header bg-success text-white">
+                <h5 class="mb-0"><i class="bi bi-pencil-square"></i> Dados do Crocodilo</h5>
+            </div>
+            <div class="card-body">
+                <form action="{{ url_for('predict.predict_species') }}" method="POST">
+                    
+                    <!-- Medidas Físicas -->
+                    <h6 class="text-primary mb-3"><i class="bi bi-rulers"></i> Medidas Físicas</h6>
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label class="form-label">Comprimento Observado (m)</label>
+                            <input type="number" class="form-control" name="length" 
+                                   step="0.01" min="0" required placeholder="Ex: 3.5">
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <label class="form-label">Peso Observado (kg)</label>
+                            <input type="number" class="form-control" name="weight" 
+                                   step="0.1" min="0" required placeholder="Ex: 150.5">
+                        </div>
+                    </div>
+
+                    <hr>
+
+                    <!-- Informações Biológicas -->
+                    <h6 class="text-warning mb-3"><i class="bi bi-tree"></i> Informações Biológicas</h6>
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label class="form-label">Gênero (Genus)</label>
+                            <input type="text" class="form-control" name="genus" 
+                                   required placeholder="Ex: Crocodylus">
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <label class="form-label">Família (Family)</label>
+                            <input type="text" class="form-control" name="family" 
+                                   required placeholder="Ex: Crocodylidae">
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <label class="form-label">Classe de Idade (Age Class)</label>
+                            <select class="form-select" name="age_class" required>
+                                <option value="">Selecione...</option>
+                                <option value="Adult">Adult</option>
+                                <option value="Juvenile">Juvenile</option>
+                                <option value="Subadult">Subadult</option>
+                            </select>
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <label class="form-label">Sexo</label>
+                            <select class="form-select" name="sex" required>
+                                <option value="">Selecione...</option>
+                                <option value="Male">Male</option>
+                                <option value="Female">Female</option>
+                                <option value="Unknown">Unknown</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <hr>
+
+                    <!-- Habitat e Localização -->
+                    <h6 class="text-info mb-3"><i class="bi bi-globe"></i> Habitat e Localização</h6>
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label class="form-label">País/Região</label>
+                            <input type="text" class="form-control" name="country" 
+                                   required placeholder="Ex: Australia">
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <label class="form-label">Tipo de Habitat</label>
+                            <select class="form-select" name="habitat" required>
+                                <option value="">Selecione...</option>
+                                <option value="Rivers">Rivers</option>
+                                <option value="Lakes">Lakes</option>
+                                <option value="Swamps">Swamps</option>
+                                <option value="Estuaries">Estuaries</option>
+                                <option value="Mangroves">Mangroves</option>
+                                <option value="Coastal">Coastal</option>
+                            </select>
+                        </div>
+                        <div class="col-md-12 mb-3">
+                            <label class="form-label">Status de Conservação</label>
+                            <select class="form-select" name="status" required>
+                                <option value="">Selecione...</option>
+                                <option value="Least Concern">Least Concern</option>
+                                <option value="Near Threatened">Near Threatened</option>
+                                <option value="Vulnerable">Vulnerable</option>
+                                <option value="Endangered">Endangered</option>
+                                <option value="Critically Endangered">Critically Endangered</option>
+                                <option value="Data Deficient">Data Deficient</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <hr>
+
+                    <div class="d-grid">
+                        <button type="submit" class="btn btn-success btn-lg">
+                            <i class="bi bi-search"></i> Prever Espécie
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <!-- Prediction Results -->
+        {% if prediction %}
+        <div class="card border-success mb-3">
+            <div class="card-header bg-success text-white">
+                <h5 class="mb-0"><i class="bi bi-check-circle"></i> Resultado</h5>
+            </div>
+            <div class="card-body">
+                <div class="alert alert-success text-center">
+                    <h4 class="mb-0">{{ prediction }}</h4>
+                    <small class="text-muted">Espécie Prevista</small>
+                </div>
+
+                {% if predictions %}
+                <h6 class="text-muted mb-3">Top 3 Espécies Mais Prováveis:</h6>
+                <div class="list-group">
+                    {% for pred in predictions %}
+                    <div class="list-group-item">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <span>{{ pred.species }}</span>
+                            <span class="badge bg-primary rounded-pill">
+                                {{ "%.1f"|format(pred.probability * 100) }}%
+                            </span>
+                        </div>
+                        <div class="progress mt-2" style="height: 5px;">
+                            <div class="progress-bar" role="progressbar" 
+                                 style="width: {{ pred.probability * 100 }}%"></div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+                {% endif %}
+            </div>
+        </div>
+
+        <!-- Input Summary -->
+        {% if input_data %}
+        <div class="card border-info">
+            <div class="card-header bg-info text-white">
+                <h6 class="mb-0"><i class="bi bi-list-check"></i> Dados Informados</h6>
+            </div>
+            <div class="card-body">
+                <small>
+                    <ul class="list-unstyled mb-0">
+                        <li><strong>Comprimento:</strong> {{ input_data.get('Observed Length (m)') }} m</li>
+                        <li><strong>Peso:</strong> {{ input_data.get('Observed Weight (kg)') }} kg</li>
+                        <li><strong>Habitat:</strong> {{ input_data.get('Habitat Type') }}</li>
+                        <li><strong>Região:</strong> {{ input_data.get('Country/Region') }}</li>
+                    </ul>
+                </small>
+            </div>
+        </div>
+        {% endif %}
+        {% else %}
+        <!-- Help Card -->
+        <div class="card border-info">
+            <div class="card-header bg-info text-white">
+                <h6 class="mb-0"><i class="bi bi-question-circle"></i> Como Usar</h6>
+            </div>
+            <div class="card-body">
+                <ol class="small">
+                    <li>Preencha todos os campos do formulário</li>
+                    <li>Clique em "Prever Espécie"</li>
+                    <li>Visualize o resultado e as probabilidades</li>
+                </ol>
+                <hr>
+                <p class="small mb-0">
+                    <strong>Dica:</strong> Quanto mais preciso os dados, melhor a predição!
+                </p>
+            </div>
+        </div>
+        {% endif %}
+
+        <!-- Back Button -->
+        <div class="card mt-3">
+            <div class="card-body text-center">
+                <a href="{{ url_for('train.results') }}" class="btn btn-outline-secondary">
+                    <i class="bi bi-arrow-left"></i> Ver Resultados do Modelo
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

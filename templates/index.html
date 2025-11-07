@@ -1,0 +1,215 @@
+{% extends "base.html" %}
+
+{% block title %}CrocPredict - Home{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-lg-12">
+        <!-- Hero Section -->
+        <div class="jumbotron bg-success text-white p-5 rounded mb-4">
+            <h1 class="display-4">
+                <i class="bi bi-graph-up-arrow"></i> 
+                Bem-vindo ao CrocPredict!
+            </h1>
+            <p class="lead">Sistema inteligente para predição de espécies de crocodilos usando Machine Learning</p>
+            <hr class="my-4 bg-white">
+            <p>Carregue seu dataset, treine modelos e faça predições precisas!</p>
+        </div>
+    </div>
+</div>
+
+<!-- Status Cards -->
+<div class="row mb-4">
+    <div class="col-md-4">
+        <div class="card border-primary">
+            <div class="card-body text-center">
+                <i class="bi bi-database fs-1 text-primary"></i>
+                <h5 class="card-title mt-3">Dataset</h5>
+                {% if has_data %}
+                    <p class="text-success"><i class="bi bi-check-circle-fill"></i> Carregado</p>
+                    <small class="text-muted">
+                        {{ session.get('dataset_filename') }}<br>
+                        {{ session.get('dataset_rows') }} linhas x {{ session.get('dataset_cols') }} colunas
+                    </small>
+                {% else %}
+                    <p class="text-muted"><i class="bi bi-x-circle"></i> Nenhum dataset</p>
+                    <a href="{{ url_for('upload.upload_page') }}" class="btn btn-primary btn-sm">
+                        <i class="bi bi-upload"></i> Carregar Dataset
+                    </a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card border-warning">
+            <div class="card-body text-center">
+                <i class="bi bi-cpu fs-1 text-warning"></i>
+                <h5 class="card-title mt-3">Modelo</h5>
+                {% if has_model %}
+                    <p class="text-success"><i class="bi bi-check-circle-fill"></i> Treinado</p>
+                    <small class="text-muted">
+                        Tipo: {{ session.get('model_type', 'N/A').replace('_', ' ').title() }}<br>
+                        Accuracy: {{ "%.2f"|format(session.get('model_metrics', {}).get('accuracy', 0) * 100) }}%
+                    </small>
+                {% else %}
+                    <p class="text-muted"><i class="bi bi-x-circle"></i> Nenhum modelo</p>
+                    {% if has_data %}
+                    <a href="{{ url_for('train.train_page') }}" class="btn btn-warning btn-sm">
+                        <i class="bi bi-cpu"></i> Treinar Modelo
+                    </a>
+                    {% else %}
+                    <small class="text-muted">Carregue um dataset primeiro</small>
+                    {% endif %}
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card border-success">
+            <div class="card-body text-center">
+                <i class="bi bi-bullseye fs-1 text-success"></i>
+                <h5 class="card-title mt-3">Predição</h5>
+                {% if has_model %}
+                    <p class="text-success"><i class="bi bi-check-circle-fill"></i> Disponível</p>
+                    <a href="{{ url_for('predict.predict_page') }}" class="btn btn-success btn-sm">
+                        <i class="bi bi-bullseye"></i> Fazer Predição
+                    </a>
+                {% else %}
+                    <p class="text-muted"><i class="bi bi-x-circle"></i> Indisponível</p>
+                    <small class="text-muted">Treine um modelo primeiro</small>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Quick Actions -->
+<div class="row">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-header bg-dark text-white">
+                <h5 class="mb-0"><i class="bi bi-lightning-fill"></i> Ações Rápidas</h5>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <div class="d-grid">
+                            <a href="{{ url_for('upload.upload_page') }}" class="btn btn-outline-primary btn-lg">
+                                <i class="bi bi-upload"></i> Carregar Novo Dataset
+                            </a>
+                        </div>
+                    </div>
+                    {% if datasets %}
+                    <div class="col-md-6 mb-3">
+                        <div class="d-grid">
+                            <a href="{{ url_for('upload.use_example') }}" class="btn btn-outline-info btn-lg">
+                                <i class="bi bi-file-earmark-spreadsheet"></i> Usar Dataset de Exemplo
+                            </a>
+                        </div>
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Available Models Info -->
+<div class="row mt-4">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-header bg-info text-white">
+                <h5 class="mb-0"><i class="bi bi-info-circle"></i> Modelos Disponíveis</h5>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-4 mb-3">
+                        <div class="card h-100 border-primary">
+                            <div class="card-body">
+                                <h6 class="card-title text-primary">
+                                    <i class="bi bi-tree"></i> Random Forest
+                                </h6>
+                                <p class="card-text small">
+                                    Ensemble de árvores de decisão. Robusto, preciso e lida bem com features categóricas.
+                                </p>
+                                <ul class="small">
+                                    <li>Alta precisão</li>
+                                    <li>Menos overfitting</li>
+                                    <li>Importância de features</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3">
+                        <div class="card h-100 border-warning">
+                            <div class="card-body">
+                                <h6 class="card-title text-warning">
+                                    <i class="bi bi-arrow-up-right"></i> Gradient Boosting
+                                </h6>
+                                <p class="card-text small">
+                                    Boosting sequencial de árvores. Excelente performance em competições.
+                                </p>
+                                <ul class="small">
+                                    <li>Alta performance</li>
+                                    <li>Flexível</li>
+                                    <li>Lida com desbalanceamento</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3">
+                        <div class="card h-100 border-success">
+                            <div class="card-body">
+                                <h6 class="card-title text-success">
+                                    <i class="bi bi-intersect"></i> SVM
+                                </h6>
+                                <p class="card-text small">
+                                    Classificação por hiperplanos. Eficiente em alta dimensionalidade.
+                                </p>
+                                <ul class="small">
+                                    <li>Versátil (múltiplos kernels)</li>
+                                    <li>Eficaz em alta dimensão</li>
+                                    <li>Robusto</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Workflow Steps -->
+<div class="row mt-4">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-header bg-secondary text-white">
+                <h5 class="mb-0"><i class="bi bi-list-ol"></i> Como Usar</h5>
+            </div>
+            <div class="card-body">
+                <ol class="list-group list-group-numbered">
+                    <li class="list-group-item">
+                        <strong>Upload de Dados:</strong> Carregue seu dataset CSV ou Excel com informações dos crocodilos
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Visualização:</strong> Analise os dados carregados e visualize gráficos exploratórios
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Treinamento:</strong> Escolha um modelo (RF, GB ou SVM) e configure os parâmetros
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Avaliação:</strong> Visualize métricas, matriz de confusão e importância de features
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Predição:</strong> Use o modelo treinado para prever espécies de novos crocodilos
+                    </li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

@@ -1,0 +1,18 @@
+
+version: '3.8'
+
+services:
+  crocpredict:
+    build: .
+    container_name: crocpredict-app
+    ports:
+      - "5000:5000"
+    volumes:
+      # Persistir dados entre restarts
+      - ./data/uploads:/app/data/uploads
+      - ./data/models:/app/data/models
+      - ./data/charts:/app/data/charts
+    environment:
+      - FLASK_ENV=development
+      - DEBUG=True
+    restart: unless-stopped
