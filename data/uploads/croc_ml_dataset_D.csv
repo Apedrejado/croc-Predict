@@ -1,0 +1,801 @@
+Observation ID,Common Name,Scientific Name,Family,Genus,Observed Length (m),Observed Weight (kg),Age Class,Sex,Date of Observation,Country/Region,Habitat Type,Conservation Status,Observer Name,Notes
+1,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.45,691.5,Adult,Female,14-12-2017,Australia,Rivers,Least Concern,Avery Price,Active at dawn
+2,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,2.98,299.9,Juvenile,Female,10-01-2009,Philippines,Coastal,Least Concern,Scarlett Reed,Nest building
+3,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.31,715.1,Adult,Male,02-06-2010,Indonesia,Rivers,Least Concern,Zoey Bell,Active at dawn
+4,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.13,448.5,Subadult,Male,15-09-2014,Australia,Estuaries,Least Concern,Avery Price,Feeding on fish
+5,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.53,576.3,Adult,Unknown,22-11-2017,Australia,Estuaries,Least Concern,Zoey Bell,Active at dawn
+6,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.57,311.1,Juvenile,Male,19-01-2016,Kenya,Estuaries,Least Concern,Scarlett Reed,Nest building
+7,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.84,469.9,Adult,Male,29-01-2025,Côte d'Ivoire,Estuaries,Least Concern,Daniel Perez,Tagged female
+8,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.11,491.7,Adult,Unknown,04-09-2020,Australia,Estuaries,Least Concern,Zoey Bell,Active at dawn
+9,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.12,433.8,Hatchling,Female,07-06-2009,Australia,Lakes,Least Concern,Daniel Perez,Nest building
+10,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.51,471.6,Adult,Unknown,08-03-2022,Philippines,Rivers,Least Concern,Nathan Ward,Feeding on fish
+11,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.44,498.6,Hatchling,Unknown,30-09-2016,Indonesia,Lakes,Least Concern,Avery Price,Observed basking on rocks
+12,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.12,535.3,Subadult,Female,30-04-2021,Guatemala,Rivers,Least Concern,Ella Cooper,Observed basking on rocks
+13,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.82,655.8,Subadult,Male,31-12-2020,Philippines,Coastal,Least Concern,Ella Cooper,Tagged female
+14,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.21,470.1,Juvenile,Unknown,22-06-2017,Indonesia,Rivers,Least Concern,Daniel Perez,Active at dawn
+15,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.43,502.7,Subadult,Male,04-05-2010,Philippines,Coastal,Least Concern,Ella Cooper,Observed basking on rocks
+16,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.95,675.6,Hatchling,Male,09-06-2012,Indonesia,Coastal,Least Concern,Zoey Bell,Calm adult
+17,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.55,342.5,Juvenile,Female,01-02-2016,Australia,Coastal,Least Concern,Scarlett Reed,Tagged female
+18,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.18,306.5,Hatchling,Unknown,08-01-2005,Cambodia,Rivers,Least Concern,Daniel Perez,Observed in shallow water
+19,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.59,659.7,Juvenile,Unknown,28-11-2014,Australia,Estuaries,Least Concern,Mason Gray,Nest building
+20,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.35,485.2,Hatchling,Male,24-06-2017,Indonesia,Rivers,Least Concern,Avery Price,Observed in shallow water
+21,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.84,390.6,Hatchling,Unknown,02-01-2016,Indonesia,Lakes,Least Concern,Daniel Perez,Active at dawn
+22,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.67,644.4,Adult,Male,26-04-2020,Colombia,Forest Swamps,Least Concern,Ella Cooper,Observed in shallow water
+23,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.32,387.5,Subadult,Unknown,20-02-2015,Philippines,Estuaries,Least Concern,Mason Gray,Nest building
+24,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.91,731.9,Hatchling,Female,23-04-2017,Australia,Coastal,Least Concern,Scarlett Reed,Calm adult
+25,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.17,581.8,Adult,Unknown,19-11-2024,Philippines,Rivers,Least Concern,Daniel Perez,Tagged female
+26,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.53,626.2,Hatchling,Unknown,09-06-2009,Tanzania,Coastal,Least Concern,Leo Torres,Observed basking on rocks
+27,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.75,625.3,Hatchling,Female,07-11-2012,Indonesia,Coastal,Least Concern,Leo Torres,Nest building
+28,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.6,453.4,Juvenile,Unknown,18-11-2014,Indonesia,Estuaries,Least Concern,Zoey Bell,Observed in shallow water
+29,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.99,599.7,Juvenile,Female,01-03-2017,Mexico,Coastal,Least Concern,Mason Gray,Tagged female
+30,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.18,558.8,Juvenile,Female,16-12-2012,Philippines,Rivers,Least Concern,Zoey Bell,Calm adult
+31,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.96,539.6,Hatchling,Unknown,20-04-2024,Indonesia,Estuaries,Least Concern,Scarlett Reed,Unusual vocalization
+32,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.06,328.0,Subadult,Female,07-11-2016,Philippines,Estuaries,Least Concern,Scarlett Reed,Observed in shallow water
+33,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.88,411.6,Adult,Male,11-02-2005,Cambodia,Estuaries,Least Concern,Zoey Bell,Nest building
+34,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.2,478.0,Juvenile,Female,10-01-2014,Australia,Coastal,Least Concern,Mason Gray,Tagged female
+35,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.39,553.7,Juvenile,Male,23-03-2023,Australia,Estuaries,Least Concern,Avery Price,Active at dawn
+36,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.41,483.8,Hatchling,Unknown,18-08-2017,Indonesia,Small Streams,Least Concern,Zoey Bell,Active at dawn
+37,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.33,296.0,Adult,Unknown,15-01-2021,Philippines,Estuaries,Least Concern,Scarlett Reed,Active at dawn
+38,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.99,741.1,Adult,Male,19-09-2022,Australia,Rivers,Least Concern,Zoey Bell,Observed basking on rocks
+39,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.68,568.5,Hatchling,Female,15-07-2017,Indonesia,Coastal,Least Concern,Zoey Bell,Calm adult
+40,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,2.95,309.7,Subadult,Male,03-09-2024,Australia,Lakes,Least Concern,Avery Price,Observed in shallow water
+41,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,2.64,208.4,Adult,Male,02-04-2016,Philippines,Swamps,Least Concern,Scarlett Reed,Tagged female
+42,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.17,575.5,Juvenile,Unknown,07-05-2025,Philippines,Estuaries,Least Concern,Avery Price,Active at dawn
+43,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.65,353.6,Juvenile,Male,01-09-2006,Philippines,Estuaries,Least Concern,Daniel Perez,Unusual vocalization
+44,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.82,492.0,Juvenile,Female,29-07-2024,Indonesia,Coastal,Least Concern,Nathan Ward,Tagged female
+45,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.46,839.9,Adult,Female,21-05-2007,Sudan,Coastal,Least Concern,Nathan Ward,Feeding on fish
+46,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.78,374.3,Subadult,Male,19-08-2014,Philippines,Forest Swamps,Least Concern,Avery Price,Tagged female
+47,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.31,308.3,Juvenile,Unknown,08-12-2020,Australia,Coastal,Least Concern,Daniel Perez,Nest building
+48,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.53,353.4,Hatchling,Female,04-09-2022,Liberia,Estuaries,Least Concern,Ella Cooper,Nest building
+49,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.85,564.2,Hatchling,Unknown,09-02-2022,Australia,Swamps,Least Concern,Scarlett Reed,Active at dawn
+50,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.21,829.0,Adult,Male,21-08-2016,Philippines,Estuaries,Least Concern,Nathan Ward,Calm adult
+51,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.37,579.4,Hatchling,Unknown,25-09-2020,Australia,Swamps,Least Concern,Nathan Ward,Tagged female
+52,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.33,415.4,Subadult,Female,11-09-2017,Philippines,Rivers,Least Concern,Avery Price,Active at dawn
+53,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.3,448.4,Adult,Male,12-07-2020,Indonesia,Coastal,Least Concern,Leo Torres,Unusual vocalization
+54,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.02,534.2,Adult,Female,06-03-2008,Indonesia,Coastal,Least Concern,Mason Gray,Observed basking on rocks
+55,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.56,609.6,Adult,Male,04-02-2012,Indonesia,Swamps,Least Concern,Daniel Perez,Unusual vocalization
+56,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.73,577.0,Adult,Female,11-02-2016,Indonesia,Coastal,Least Concern,Ella Cooper,Calm adult
+57,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.75,497.0,Juvenile,Unknown,09-09-2013,Indonesia,Coastal,Least Concern,Ella Cooper,Tagged female
+58,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.81,573.7,Subadult,Unknown,16-09-2016,Cuba,Estuaries,Least Concern,Ella Cooper,Unusual vocalization
+59,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.18,808.6,Hatchling,Female,16-04-2013,Côte d'Ivoire,Coastal,Least Concern,Scarlett Reed,Feeding on fish
+60,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.75,438.9,Adult,Male,17-08-2009,Philippines,Rivers,Least Concern,Nathan Ward,Feeding on fish
+61,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.26,682.5,Hatchling,Male,08-09-2016,Indonesia,Swamps,Least Concern,Avery Price,Unusual vocalization
+62,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.01,315.4,Hatchling,Unknown,27-01-2013,Australia,Estuaries,Least Concern,Daniel Perez,Observed in shallow water
+63,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.04,400.3,Subadult,Unknown,08-08-2023,Indonesia,Coastal,Least Concern,Daniel Perez,Unusual vocalization
+64,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.17,656.8,Juvenile,Unknown,28-01-2011,Australia,Coastal,Least Concern,Mason Gray,Nest building
+65,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.51,700.9,Adult,Unknown,28-12-2009,Australia,Coastal,Least Concern,Mason Gray,Nest building
+66,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.97,418.0,Hatchling,Male,03-03-2007,Philippines,Rivers,Least Concern,Nathan Ward,Calm adult
+67,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.96,457.8,Hatchling,Unknown,18-09-2017,Australia,Coastal,Least Concern,Scarlett Reed,Feeding on fish
+68,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.55,853.6,Subadult,Unknown,15-08-2015,Gabon,Rivers,Least Concern,Leo Torres,Unusual vocalization
+69,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.81,347.2,Juvenile,Unknown,25-12-2021,Indonesia,Estuaries,Least Concern,Leo Torres,Feeding on fish
+70,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.12,574.1,Adult,Unknown,29-03-2020,Philippines,Coastal,Least Concern,Ella Cooper,Active at dawn
+71,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.29,439.4,Juvenile,Male,17-11-2010,Philippines,Rivers,Least Concern,Leo Torres,Calm adult
+72,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.68,439.3,Subadult,Female,07-11-2020,Philippines,Rivers,Least Concern,Leo Torres,Observed basking on rocks
+73,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.41,492.9,Adult,Unknown,27-01-2013,Australia,Estuaries,Least Concern,Daniel Perez,Observed basking on rocks
+74,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.99,384.5,Hatchling,Female,23-09-2022,Australia,Rivers,Least Concern,Mason Gray,Nest building
+75,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.41,419.4,Juvenile,Unknown,08-09-2022,Indonesia,Rivers,Least Concern,Scarlett Reed,Unusual vocalization
+76,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.54,324.0,Hatchling,Male,01-05-2020,Australia,Flooded Savannas,Least Concern,Avery Price,Nest building
+77,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.2,669.7,Adult,Male,26-01-2007,Venezuela,Rivers,Least Concern,Zoey Bell,Active at dawn
+78,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.2,368.9,Adult,Unknown,18-07-2006,Mexico,Rivers,Least Concern,Nathan Ward,Tagged female
+79,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.1,646.5,Adult,Unknown,22-09-2010,Philippines,Estuaries,Least Concern,Daniel Perez,Tagged female
+80,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.48,502.6,Juvenile,Male,21-08-2007,Indonesia,Coastal,Least Concern,Ella Cooper,Feeding on fish
+81,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.39,592.0,Juvenile,Unknown,22-08-2007,Guatemala,Coastal,Least Concern,Mason Gray,Nest building
+82,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,7.13,808.6,Hatchling,Male,12-01-2014,Belize,Swamps,Least Concern,Scarlett Reed,Calm adult
+83,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.03,510.1,Juvenile,Unknown,14-02-2024,Australia,Estuaries,Least Concern,Ella Cooper,Observed basking on rocks
+84,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.74,400.0,Adult,Unknown,13-09-2008,Australia,Estuaries,Least Concern,Leo Torres,Unusual vocalization
+85,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.43,506.1,Subadult,Unknown,24-06-2022,Philippines,Coastal,Least Concern,Avery Price,Calm adult
+86,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.74,516.5,Subadult,Male,14-02-2007,Cuba,Rivers,Least Concern,Ella Cooper,Nest building
+87,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.38,320.2,Hatchling,Unknown,03-10-2019,Indonesia,Coastal,Least Concern,Mason Gray,Calm adult
+88,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.64,561.9,Hatchling,Female,25-12-2021,Indonesia,Swamps,Least Concern,Zoey Bell,Unusual vocalization
+89,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.99,377.4,Subadult,Unknown,04-11-2012,Australia,Estuaries,Least Concern,Avery Price,Observed in shallow water
+90,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.7,393.6,Adult,Male,27-05-2025,Philippines,Estuaries,Least Concern,Scarlett Reed,Observed in shallow water
+91,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.21,442.8,Juvenile,Female,06-09-2022,Cuba,Rivers,Least Concern,Scarlett Reed,Observed basking on rocks
+92,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.62,428.0,Hatchling,Unknown,20-08-2019,Australia,Estuaries,Least Concern,Mason Gray,Feeding on fish
+93,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,2.89,282.6,Adult,Male,24-02-2013,Australia,Swamps,Least Concern,Zoey Bell,Active at dawn
+94,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.22,502.3,Juvenile,Female,20-08-2010,Australia,Estuaries,Least Concern,Leo Torres,Feeding on fish
+95,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.25,411.7,Hatchling,Female,08-06-2022,Australia,Lakes,Least Concern,Mason Gray,Tagged female
+96,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.2,631.8,Juvenile,Unknown,02-11-2019,Australia,Estuaries,Least Concern,Zoey Bell,Calm adult
+97,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.46,430.8,Adult,Male,05-01-2006,Colombia,Coastal,Least Concern,Ella Cooper,Nest building
+98,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.81,564.5,Adult,Male,03-02-2025,Indonesia,Rivers,Least Concern,Mason Gray,Observed in shallow water
+99,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,2.9,251.4,Juvenile,Male,26-03-2022,Indonesia,Estuaries,Least Concern,Leo Torres,Tagged female
+100,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.43,484.7,Adult,Male,10-01-2019,Australia,Swamps,Least Concern,Ella Cooper,Calm adult
+101,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.42,573.6,Subadult,Unknown,27-07-2018,Venezuela,Rivers,Least Concern,Leo Torres,Nest building
+102,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.7,242.4,Adult,Female,03-02-2011,Tanzania,Lakes,Least Concern,Leo Torres,Active at dawn
+103,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.73,404.4,Adult,Female,30-06-2021,Cuba,Swamps,Least Concern,Avery Price,Tagged female
+104,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.66,694.3,Subadult,Female,20-11-2023,Tanzania,Rivers,Least Concern,Daniel Perez,Unusual vocalization
+105,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.28,367.0,Juvenile,Female,09-02-2016,Kenya,Swamps,Least Concern,Ella Cooper,Active at dawn
+106,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.76,436.7,Subadult,Female,06-09-2024,Guatemala,Lakes,Least Concern,Zoey Bell,Nest building
+107,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.76,390.2,Hatchling,Female,24-02-2010,Sudan,Lakes,Least Concern,Daniel Perez,Nest building
+108,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.72,272.6,Subadult,Unknown,09-10-2016,Sudan,Swamps,Least Concern,Zoey Bell,Unusual vocalization
+109,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.4,242.8,Adult,Male,18-12-2008,Tanzania,Rivers,Least Concern,Mason Gray,Active at dawn
+110,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.3,396.0,Adult,Male,14-07-2009,Tanzania,Rivers,Least Concern,Mason Gray,Calm adult
+111,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.32,406.7,Juvenile,Male,31-01-2024,Gabon,Rivers,Least Concern,Ella Cooper,Tagged female
+112,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.5,273.1,Subadult,Male,14-03-2006,Tanzania,Rivers,Least Concern,Nathan Ward,Active at dawn
+113,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.27,386.0,Hatchling,Female,16-09-2011,Sudan,Swamps,Least Concern,Mason Gray,Tagged female
+114,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.18,488.6,Adult,Male,30-11-2010,Kenya,Rivers,Least Concern,Mason Gray,Nest building
+115,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.88,277.5,Subadult,Male,19-02-2023,Tanzania,Lakes,Least Concern,Avery Price,Feeding on fish
+116,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.21,352.3,Hatchling,Female,29-11-2006,Thailand,Estuaries,Least Concern,Nathan Ward,Feeding on fish
+117,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.29,503.3,Juvenile,Female,11-05-2015,Kenya,Lakes,Least Concern,Mason Gray,Observed in shallow water
+118,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.26,438.7,Juvenile,Female,23-03-2014,Sudan,Lakes,Least Concern,Leo Torres,Active at dawn
+119,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.62,383.8,Subadult,Male,18-11-2024,Sudan,Swamps,Least Concern,Zoey Bell,Calm adult
+120,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.66,401.6,Juvenile,Male,11-02-2010,Tanzania,Swamps,Least Concern,Mason Gray,Observed in shallow water
+121,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.53,417.4,Juvenile,Female,22-02-2009,Sudan,Swamps,Least Concern,Zoey Bell,Active at dawn
+122,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.95,423.2,Subadult,Male,01-08-2021,Kenya,Lakes,Least Concern,Nathan Ward,Calm adult
+123,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.62,452.1,Hatchling,Unknown,09-08-2017,Tanzania,Swamps,Least Concern,Avery Price,Nest building
+124,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.09,364.7,Juvenile,Female,22-11-2018,Tanzania,Swamps,Least Concern,Zoey Bell,Observed basking on rocks
+125,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.9,499.0,Adult,Male,29-11-2009,Kenya,Flooded Savannas,Least Concern,Zoey Bell,Feeding on fish
+126,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.46,361.0,Adult,Unknown,01-06-2019,Sudan,Rivers,Least Concern,Nathan Ward,Observed in shallow water
+127,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.68,389.5,Hatchling,Male,10-04-2008,Sudan,Lakes,Least Concern,Avery Price,Nest building
+128,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.8,308.5,Hatchling,Unknown,29-02-2024,Kenya,Lakes,Least Concern,Scarlett Reed,Feeding on fish
+129,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.61,324.8,Subadult,Female,26-11-2016,Sudan,Rivers,Least Concern,Mason Gray,Tagged female
+130,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.74,305.8,Subadult,Unknown,23-05-2012,Cuba,Lakes,Least Concern,Avery Price,Nest building
+131,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.13,463.0,Juvenile,Female,25-11-2025,Guatemala,Lakes,Least Concern,Mason Gray,Feeding on fish
+132,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.68,484.5,Adult,Unknown,28-07-2022,Tanzania,Coastal,Least Concern,Nathan Ward,Observed in shallow water
+133,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.23,318.4,Subadult,Female,21-08-2021,Sudan,Swamps,Least Concern,Leo Torres,Calm adult
+134,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.82,262.1,Hatchling,Unknown,17-12-2023,Tanzania,Swamps,Least Concern,Avery Price,Active at dawn
+135,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.3,333.5,Hatchling,Female,03-12-2025,Tanzania,Swamps,Least Concern,Scarlett Reed,Observed in shallow water
+136,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.65,430.1,Hatchling,Male,22-05-2016,Kenya,Swamps,Least Concern,Ella Cooper,Feeding on fish
+137,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.23,351.2,Subadult,Female,19-11-2017,Vietnam,Flooded Savannas,Least Concern,Ella Cooper,Observed in shallow water
+138,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.52,501.8,Adult,Unknown,17-07-2015,Kenya,Lakes,Least Concern,Zoey Bell,Active at dawn
+139,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.74,283.1,Adult,Female,08-02-2025,Tanzania,Swamps,Least Concern,Mason Gray,Observed basking on rocks
+140,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.37,203.4,Hatchling,Male,26-05-2012,Venezuela,Swamps,Least Concern,Avery Price,Nest building
+141,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.43,428.2,Adult,Female,13-10-2007,Belize,Rivers,Least Concern,Ella Cooper,Feeding on fish
+142,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.51,413.6,Hatchling,Unknown,29-01-2019,Sudan,Swamps,Least Concern,Daniel Perez,Unusual vocalization
+143,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.06,540.4,Subadult,Unknown,26-05-2010,Tanzania,Swamps,Least Concern,Mason Gray,Observed in shallow water
+144,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.11,514.8,Adult,Unknown,19-11-2019,Venezuela,Rivers,Least Concern,Daniel Perez,Nest building
+145,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.68,405.3,Subadult,Male,07-10-2011,Cambodia,Rivers,Least Concern,Nathan Ward,Active at dawn
+146,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.29,456.3,Adult,Unknown,15-03-2012,Kenya,Swamps,Least Concern,Ella Cooper,Observed basking on rocks
+147,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.3,595.1,Hatchling,Unknown,02-04-2020,Kenya,Lakes,Least Concern,Scarlett Reed,Active at dawn
+148,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.76,272.9,Hatchling,Male,08-04-2013,Tanzania,Rivers,Least Concern,Avery Price,Nest building
+149,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.55,577.8,Hatchling,Male,16-09-2018,Sudan,Swamps,Least Concern,Daniel Perez,Nest building
+150,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,6.1,600.5,Juvenile,Unknown,28-07-2017,Sudan,Rivers,Least Concern,Leo Torres,Feeding on fish
+151,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.08,336.3,Adult,Unknown,25-03-2007,Kenya,Swamps,Least Concern,Scarlett Reed,Tagged female
+152,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.34,395.5,Subadult,Unknown,08-09-2020,Kenya,Lakes,Least Concern,Nathan Ward,Feeding on fish
+153,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.03,430.4,Subadult,Female,10-01-2024,Tanzania,Rivers,Least Concern,Zoey Bell,Unusual vocalization
+154,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.27,442.8,Adult,Male,03-12-2014,Vietnam,Flooded Savannas,Least Concern,Avery Price,Observed basking on rocks
+155,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.94,449.1,Subadult,Female,22-10-2016,Tanzania,Lakes,Least Concern,Leo Torres,Observed basking on rocks
+156,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.94,302.6,Subadult,Female,18-01-2014,Tanzania,Swamps,Least Concern,Mason Gray,Feeding on fish
+157,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.07,462.8,Subadult,Unknown,19-09-2013,Sudan,Swamps,Least Concern,Scarlett Reed,Calm adult
+158,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.74,326.9,Juvenile,Unknown,27-04-2022,Kenya,Lakes,Least Concern,Ella Cooper,Unusual vocalization
+159,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.89,367.4,Subadult,Male,04-09-2013,Philippines,Lakes,Least Concern,Nathan Ward,Nest building
+160,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.57,526.6,Hatchling,Female,28-08-2022,Tanzania,Lakes,Least Concern,Avery Price,Observed in shallow water
+161,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.81,469.8,Adult,Unknown,23-08-2013,Mexico,Swamps,Least Concern,Zoey Bell,Active at dawn
+162,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.33,279.3,Adult,Female,03-05-2019,Indonesia,Swamps,Least Concern,Mason Gray,Unusual vocalization
+163,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.33,188.4,Adult,Female,30-04-2009,Tanzania,Swamps,Least Concern,Mason Gray,Unusual vocalization
+164,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.07,338.6,Hatchling,Female,30-01-2008,Gabon,Swamps,Least Concern,Zoey Bell,Nest building
+165,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.62,429.7,Subadult,Female,23-05-2013,Tanzania,Rivers,Least Concern,Nathan Ward,Nest building
+166,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.24,462.0,Juvenile,Male,30-11-2020,Sudan,Lakes,Least Concern,Leo Torres,Calm adult
+167,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.01,521.9,Juvenile,Male,16-04-2017,Sudan,Lakes,Least Concern,Nathan Ward,Active at dawn
+168,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.11,404.6,Hatchling,Male,26-02-2013,Sudan,Swamps,Least Concern,Ella Cooper,Feeding on fish
+169,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.22,494.4,Subadult,Unknown,05-06-2018,Tanzania,Rivers,Least Concern,Zoey Bell,Observed in shallow water
+170,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.72,462.4,Subadult,Male,07-02-2012,Venezuela,Rivers,Least Concern,Daniel Perez,Active at dawn
+171,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.57,310.9,Adult,Male,30-03-2005,Tanzania,Rivers,Least Concern,Ella Cooper,Feeding on fish
+172,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.48,205.9,Subadult,Female,14-05-2010,Kenya,Rivers,Least Concern,Ella Cooper,Active at dawn
+173,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.3,339.1,Adult,Female,06-12-2013,Sudan,Rivers,Least Concern,Zoey Bell,Feeding on fish
+174,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.49,375.9,Juvenile,Female,06-03-2015,Tanzania,Rivers,Least Concern,Avery Price,Observed in shallow water
+175,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.32,352.3,Hatchling,Male,14-03-2015,Kenya,Coastal,Least Concern,Avery Price,Observed basking on rocks
+176,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.36,695.7,Adult,Unknown,23-01-2005,Thailand,Rivers,Least Concern,Avery Price,Tagged female
+177,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.16,342.1,Juvenile,Male,28-05-2010,Sudan,Swamps,Least Concern,Avery Price,Nest building
+178,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.55,248.6,Subadult,Male,14-07-2024,Tanzania,Swamps,Least Concern,Scarlett Reed,Observed in shallow water
+179,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.84,408.6,Hatchling,Male,02-02-2011,Kenya,Lakes,Least Concern,Ella Cooper,Calm adult
+180,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.82,463.9,Juvenile,Unknown,10-10-2005,Tanzania,Rivers,Least Concern,Mason Gray,Observed basking on rocks
+181,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.38,302.2,Hatchling,Unknown,19-12-2009,Sudan,Rivers,Least Concern,Daniel Perez,Unusual vocalization
+182,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.09,321.6,Subadult,Female,23-11-2020,Kenya,Rivers,Least Concern,Avery Price,Unusual vocalization
+183,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.96,334.9,Juvenile,Female,02-11-2025,Tanzania,Swamps,Least Concern,Leo Torres,Active at dawn
+184,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.72,658.5,Juvenile,Female,14-10-2020,Tanzania,Rivers,Least Concern,Ella Cooper,Nest building
+185,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.64,359.1,Adult,Unknown,08-06-2007,Guatemala,Swamps,Least Concern,Leo Torres,Calm adult
+186,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.41,592.4,Hatchling,Unknown,21-07-2006,Kenya,Lakes,Least Concern,Zoey Bell,Observed in shallow water
+187,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.59,278.4,Adult,Unknown,02-10-2009,Kenya,Rivers,Least Concern,Scarlett Reed,Unusual vocalization
+188,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.3,519.9,Subadult,Female,29-07-2023,Tanzania,Swamps,Least Concern,Ella Cooper,Observed in shallow water
+189,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.2,201.1,Subadult,Male,07-12-2017,Australia,Swamps,Least Concern,Mason Gray,Calm adult
+190,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.39,231.6,Adult,Male,12-01-2018,Colombia,Lakes,Least Concern,Ella Cooper,Calm adult
+191,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.62,351.5,Hatchling,Unknown,13-10-2014,Colombia,Rivers,Least Concern,Zoey Bell,Observed basking on rocks
+192,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.34,431.0,Subadult,Unknown,29-01-2005,Sudan,Rivers,Least Concern,Nathan Ward,Tagged female
+193,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.43,646.6,Subadult,Unknown,17-12-2019,Mexico,Rivers,Least Concern,Leo Torres,Tagged female
+194,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.93,530.2,Juvenile,Male,12-05-2007,Philippines,Rivers,Least Concern,Avery Price,Calm adult
+195,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.64,473.8,Adult,Male,05-04-2019,Cuba,Coastal,Least Concern,Avery Price,Observed in shallow water
+196,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.08,573.8,Hatchling,Male,06-04-2013,Kenya,Swamps,Least Concern,Scarlett Reed,Nest building
+197,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.35,274.6,Subadult,Male,04-02-2006,Thailand,Lakes,Least Concern,Leo Torres,Observed in shallow water
+198,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.88,388.0,Subadult,Unknown,16-09-2007,Cuba,Lakes,Least Concern,Ella Cooper,Observed basking on rocks
+199,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.84,251.0,Subadult,Unknown,29-10-2025,Tanzania,Lakes,Least Concern,Avery Price,Unusual vocalization
+200,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.67,266.0,Subadult,Male,04-05-2022,Venezuela,Lakes,Least Concern,Zoey Bell,Observed basking on rocks
+201,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.46,182.3,Hatchling,Unknown,31-12-2006,Mexico,Rivers,Vulnerable,Scarlett Reed,Nest building
+202,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.16,432.5,Juvenile,Male,14-03-2012,Venezuela,Swamps,Vulnerable,Scarlett Reed,Feeding on fish
+203,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.53,324.7,Juvenile,Female,19-06-2020,Venezuela,Coastal,Vulnerable,Ella Cooper,Active at dawn
+204,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.03,355.7,Hatchling,Male,12-07-2017,Cuba,Mangroves,Vulnerable,Ella Cooper,Calm adult
+205,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.27,298.5,Juvenile,Male,27-12-2017,Mexico,Estuaries,Vulnerable,Daniel Perez,Observed basking on rocks
+206,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.22,304.6,Adult,Female,06-10-2023,Mexico,Coastal,Vulnerable,Zoey Bell,Observed in shallow water
+207,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.75,234.1,Hatchling,Male,06-01-2020,Mexico,Estuaries,Vulnerable,Mason Gray,Nest building
+208,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.41,292.1,Adult,Female,17-09-2005,Mexico,Coastal,Vulnerable,Ella Cooper,Tagged female
+209,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.06,293.3,Adult,Unknown,26-11-2012,Venezuela,Coastal,Vulnerable,Scarlett Reed,Feeding on fish
+210,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.13,235.9,Hatchling,Unknown,17-01-2017,Indonesia,Lakes,Vulnerable,Avery Price,Observed in shallow water
+211,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.05,279.3,Hatchling,Unknown,07-07-2006,Cuba,Mangroves,Vulnerable,Zoey Bell,Unusual vocalization
+212,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.88,500.5,Hatchling,Male,25-05-2007,Venezuela,Estuaries,Vulnerable,Nathan Ward,Calm adult
+213,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.98,446.5,Subadult,Female,14-03-2012,Venezuela,Estuaries,Vulnerable,Daniel Perez,Unusual vocalization
+214,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.72,517.4,Subadult,Female,15-04-2013,Philippines,Estuaries,Vulnerable,Scarlett Reed,Active at dawn
+215,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.14,152.4,Subadult,Female,15-05-2011,Venezuela,Coastal,Vulnerable,Scarlett Reed,Feeding on fish
+216,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.48,457.9,Juvenile,Unknown,10-08-2010,Cuba,Estuaries,Vulnerable,Mason Gray,Active at dawn
+217,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.13,210.9,Adult,Male,06-08-2025,Cuba,Swamps,Vulnerable,Avery Price,Unusual vocalization
+218,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.88,229.1,Hatchling,Female,19-12-2017,Venezuela,Mangroves,Vulnerable,Avery Price,Observed basking on rocks
+219,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.09,189.8,Juvenile,Male,13-07-2011,Mexico,Mangroves,Vulnerable,Nathan Ward,Tagged female
+220,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.43,327.7,Subadult,Female,26-09-2007,Cuba,Mangroves,Vulnerable,Daniel Perez,Nest building
+221,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.71,364.3,Subadult,Female,16-08-2020,Venezuela,Mangroves,Vulnerable,Avery Price,Observed basking on rocks
+222,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.93,374.9,Juvenile,Unknown,05-01-2023,Venezuela,Coastal,Vulnerable,Mason Gray,Feeding on fish
+223,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.91,316.3,Subadult,Unknown,14-07-2007,Mexico,Estuaries,Vulnerable,Mason Gray,Observed basking on rocks
+224,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.38,248.4,Juvenile,Unknown,19-09-2007,Cuba,Rivers,Vulnerable,Mason Gray,Feeding on fish
+225,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.75,444.4,Hatchling,Male,28-02-2006,Mexico,Coastal,Vulnerable,Mason Gray,Unusual vocalization
+226,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.91,296.6,Hatchling,Unknown,02-03-2017,Mexico,Coastal,Vulnerable,Ella Cooper,Tagged female
+227,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,5.52,543.7,Hatchling,Female,02-01-2012,Colombia,Coastal,Vulnerable,Mason Gray,Observed basking on rocks
+228,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.93,296.5,Hatchling,Male,12-04-2009,Mexico,Mangroves,Vulnerable,Zoey Bell,Observed in shallow water
+229,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.59,281.6,Subadult,Male,08-03-2017,Venezuela,Estuaries,Vulnerable,Mason Gray,Active at dawn
+230,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.05,152.8,Adult,Male,15-02-2019,Cuba,Coastal,Vulnerable,Daniel Perez,Feeding on fish
+231,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.8,227.2,Adult,Male,01-04-2023,Cuba,Rivers,Vulnerable,Leo Torres,Tagged female
+232,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.08,283.4,Adult,Unknown,11-11-2013,Venezuela,Swamps,Vulnerable,Leo Torres,Unusual vocalization
+233,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.84,429.5,Hatchling,Female,03-08-2019,Liberia,Mangroves,Vulnerable,Avery Price,Feeding on fish
+234,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.12,318.7,Hatchling,Male,06-06-2020,Venezuela,Coastal,Vulnerable,Leo Torres,Feeding on fish
+235,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.43,452.4,Hatchling,Female,16-09-2021,Venezuela,Coastal,Vulnerable,Daniel Perez,Feeding on fish
+236,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.79,353.6,Juvenile,Male,18-06-2017,Venezuela,Coastal,Vulnerable,Nathan Ward,Feeding on fish
+237,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.82,515.0,Adult,Unknown,08-08-2019,Venezuela,Estuaries,Vulnerable,Scarlett Reed,Active at dawn
+238,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,1.95,157.6,Juvenile,Male,08-09-2016,Venezuela,Estuaries,Vulnerable,Avery Price,Nest building
+239,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.16,434.5,Subadult,Male,04-01-2012,Venezuela,Estuaries,Vulnerable,Leo Torres,Active at dawn
+240,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.95,429.4,Hatchling,Unknown,12-07-2017,Mexico,Coastal,Vulnerable,Mason Gray,Unusual vocalization
+241,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.06,187.5,Adult,Male,30-03-2022,Cuba,Lakes,Vulnerable,Nathan Ward,Nest building
+242,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.76,223.2,Subadult,Unknown,19-01-2013,Mexico,Coastal,Vulnerable,Mason Gray,Feeding on fish
+243,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.65,277.4,Hatchling,Female,07-08-2011,Venezuela,Coastal,Vulnerable,Nathan Ward,Calm adult
+244,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.96,526.6,Adult,Female,07-09-2012,Mexico,Coastal,Vulnerable,Nathan Ward,Nest building
+245,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.43,368.3,Subadult,Unknown,07-09-2005,Cuba,Mangroves,Vulnerable,Mason Gray,Observed basking on rocks
+246,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.96,369.3,Adult,Unknown,25-08-2022,Venezuela,Swamps,Vulnerable,Leo Torres,Active at dawn
+247,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,5.06,590.0,Juvenile,Unknown,19-10-2006,Venezuela,Mangroves,Vulnerable,Leo Torres,Observed basking on rocks
+248,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.67,324.9,Adult,Unknown,18-04-2020,Venezuela,Coastal,Vulnerable,Avery Price,Feeding on fish
+249,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.29,313.2,Juvenile,Female,27-12-2024,Cuba,Forest Swamps,Vulnerable,Daniel Perez,Observed basking on rocks
+250,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.0,380.8,Juvenile,Male,18-03-2006,Mexico,Lakes,Vulnerable,Scarlett Reed,Observed in shallow water
+251,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.12,261.9,Hatchling,Male,24-10-2020,Mexico,Mangroves,Vulnerable,Scarlett Reed,Unusual vocalization
+252,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.34,284.4,Subadult,Male,05-11-2020,Mexico,Estuaries,Vulnerable,Mason Gray,Active at dawn
+253,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.04,321.8,Adult,Unknown,11-10-2022,Tanzania,Estuaries,Vulnerable,Daniel Perez,Feeding on fish
+254,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.8,314.1,Hatchling,Female,18-03-2009,Mexico,Estuaries,Vulnerable,Mason Gray,Tagged female
+255,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.33,241.3,Hatchling,Male,08-08-2011,Mexico,Mangroves,Vulnerable,Scarlett Reed,Active at dawn
+256,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.5,229.4,Subadult,Male,23-01-2006,Cuba,Coastal,Vulnerable,Leo Torres,Feeding on fish
+257,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.42,252.0,Juvenile,Unknown,29-11-2006,Gabon,Swamps,Vulnerable,Leo Torres,Calm adult
+258,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.92,305.8,Adult,Female,06-09-2015,Vietnam,Rivers,Vulnerable,Leo Torres,Observed in shallow water
+259,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.16,239.4,Juvenile,Unknown,29-03-2015,Venezuela,Mangroves,Vulnerable,Ella Cooper,Active at dawn
+260,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.33,332.7,Hatchling,Unknown,09-07-2021,Cuba,Estuaries,Vulnerable,Leo Torres,Nest building
+261,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.82,511.2,Juvenile,Unknown,20-03-2019,Australia,Mangroves,Vulnerable,Nathan Ward,Observed in shallow water
+262,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.69,229.9,Juvenile,Unknown,11-10-2013,Mexico,Coastal,Vulnerable,Ella Cooper,Active at dawn
+263,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.74,224.9,Hatchling,Unknown,22-08-2017,Venezuela,Rivers,Vulnerable,Avery Price,Unusual vocalization
+264,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.86,326.2,Adult,Unknown,04-09-2006,Cuba,Mangroves,Vulnerable,Avery Price,Nest building
+265,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.93,297.8,Subadult,Male,11-02-2020,Cuba,Coastal,Vulnerable,Avery Price,Unusual vocalization
+266,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.37,233.8,Juvenile,Male,05-02-2022,Thailand,Estuaries,Vulnerable,Zoey Bell,Active at dawn
+267,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.88,342.8,Adult,Male,20-10-2007,Mexico,Coastal,Vulnerable,Ella Cooper,Unusual vocalization
+268,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.18,196.2,Hatchling,Male,26-07-2020,Mexico,Coastal,Vulnerable,Mason Gray,Calm adult
+269,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.85,376.8,Subadult,Female,23-06-2023,Venezuela,Estuaries,Vulnerable,Leo Torres,Active at dawn
+270,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.03,385.0,Adult,Male,07-03-2010,Mexico,Small Streams,Vulnerable,Daniel Perez,Feeding on fish
+271,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.44,451.2,Adult,Male,08-01-2008,Venezuela,Mangroves,Vulnerable,Mason Gray,Calm adult
+272,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.9,345.9,Hatchling,Male,03-05-2019,Venezuela,Coastal,Vulnerable,Zoey Bell,Unusual vocalization
+273,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.79,264.7,Subadult,Female,16-11-2023,Vietnam,Estuaries,Vulnerable,Ella Cooper,Unusual vocalization
+274,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,5.12,564.1,Subadult,Male,19-01-2008,Venezuela,Estuaries,Vulnerable,Daniel Perez,Observed basking on rocks
+275,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.35,177.8,Juvenile,Female,28-03-2013,Mexico,Mangroves,Vulnerable,Nathan Ward,Tagged female
+276,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.74,350.1,Subadult,Female,30-01-2023,Cuba,Estuaries,Vulnerable,Leo Torres,Unusual vocalization
+277,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.89,302.7,Hatchling,Unknown,26-01-2020,Venezuela,Coastal,Vulnerable,Ella Cooper,Nest building
+278,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.64,318.9,Juvenile,Male,04-07-2013,Mexico,Mangroves,Vulnerable,Zoey Bell,Tagged female
+279,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.05,377.0,Juvenile,Male,20-02-2020,Mexico,Estuaries,Vulnerable,Mason Gray,Unusual vocalization
+280,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.54,288.6,Juvenile,Unknown,16-12-2010,Venezuela,Coastal,Vulnerable,Ella Cooper,Observed in shallow water
+281,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.51,409.5,Subadult,Unknown,06-03-2008,Cuba,Coastal,Vulnerable,Scarlett Reed,Observed basking on rocks
+282,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.81,279.2,Adult,Unknown,09-11-2007,Cuba,Estuaries,Vulnerable,Avery Price,Active at dawn
+283,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.52,443.0,Juvenile,Male,16-05-2009,Cuba,Estuaries,Vulnerable,Avery Price,Observed in shallow water
+284,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.97,256.4,Hatchling,Female,18-08-2005,Cuba,Estuaries,Vulnerable,Leo Torres,Observed in shallow water
+285,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.65,310.9,Subadult,Female,16-06-2025,Philippines,Coastal,Vulnerable,Ella Cooper,Observed in shallow water
+286,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.65,203.6,Adult,Female,26-10-2022,Cuba,Coastal,Vulnerable,Daniel Perez,Active at dawn
+287,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.49,464.6,Adult,Female,03-04-2017,Belize,Estuaries,Vulnerable,Scarlett Reed,Feeding on fish
+288,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,1.96,140.4,Subadult,Unknown,29-05-2024,Venezuela,Estuaries,Vulnerable,Mason Gray,Calm adult
+289,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.19,231.8,Subadult,Female,02-03-2023,Cuba,Estuaries,Vulnerable,Avery Price,Nest building
+290,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.46,424.9,Adult,Male,17-11-2014,Venezuela,Coastal,Vulnerable,Ella Cooper,Calm adult
+291,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.81,338.8,Adult,Male,18-11-2009,Vietnam,Mangroves,Vulnerable,Ella Cooper,Observed in shallow water
+292,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.85,248.9,Subadult,Male,26-04-2015,Cuba,Coastal,Vulnerable,Avery Price,Feeding on fish
+293,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.55,533.3,Subadult,Female,24-07-2018,Cuba,Coastal,Vulnerable,Avery Price,Observed in shallow water
+294,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.78,339.3,Subadult,Unknown,29-04-2021,Venezuela,Rivers,Vulnerable,Ella Cooper,Tagged female
+295,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.28,208.8,Juvenile,Unknown,06-09-2009,Cuba,Estuaries,Vulnerable,Scarlett Reed,Feeding on fish
+296,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.4,213.8,Hatchling,Female,04-05-2021,Mexico,Coastal,Vulnerable,Scarlett Reed,Observed in shallow water
+297,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.66,279.8,Subadult,Male,18-01-2008,Mexico,Mangroves,Vulnerable,Ella Cooper,Feeding on fish
+298,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.45,279.5,Adult,Female,01-01-2016,Cuba,Estuaries,Vulnerable,Leo Torres,Unusual vocalization
+299,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.64,245.8,Juvenile,Unknown,31-08-2022,Venezuela,Swamps,Vulnerable,Ella Cooper,Tagged female
+300,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.79,201.6,Hatchling,Male,08-04-2005,Venezuela,Coastal,Vulnerable,Ella Cooper,Calm adult
+301,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.92,114.9,Adult,Female,10-11-2009,Guatemala,Forest Swamps,Least Concern,Leo Torres,Observed basking on rocks
+302,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.48,171.4,Hatchling,Unknown,02-03-2015,Guatemala,Lakes,Least Concern,Daniel Perez,Active at dawn
+303,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.34,242.3,Adult,Male,14-05-2007,Mexico,Swamps,Least Concern,Ella Cooper,Tagged female
+304,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.9,227.1,Juvenile,Unknown,26-06-2020,Guatemala,Swamps,Least Concern,Leo Torres,Observed in shallow water
+305,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.12,141.2,Hatchling,Unknown,27-04-2006,Guatemala,Swamps,Least Concern,Leo Torres,Feeding on fish
+306,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.77,166.7,Subadult,Female,14-01-2009,Mexico,Swamps,Least Concern,Daniel Perez,Observed in shallow water
+307,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.58,103.1,Subadult,Male,29-04-2015,Guatemala,Lakes,Least Concern,Avery Price,Tagged female
+308,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.48,141.6,Subadult,Male,06-06-2015,Belize,Swamps,Least Concern,Avery Price,Active at dawn
+309,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.21,175.7,Adult,Unknown,03-11-2012,Belize,Estuaries,Least Concern,Leo Torres,Observed in shallow water
+310,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.64,99.7,Subadult,Female,20-12-2005,Guatemala,Swamps,Least Concern,Mason Gray,Tagged female
+311,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.76,122.2,Adult,Female,06-05-2007,Mexico,Lakes,Least Concern,Nathan Ward,Unusual vocalization
+312,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.99,118.4,Subadult,Male,18-04-2020,Mexico,Rivers,Least Concern,Mason Gray,Calm adult
+313,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.35,89.7,Subadult,Male,20-07-2014,Guatemala,Lakes,Least Concern,Scarlett Reed,Tagged female
+314,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.16,155.5,Subadult,Female,27-01-2011,Cambodia,Rivers,Least Concern,Nathan Ward,Observed basking on rocks
+315,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.95,183.5,Hatchling,Unknown,15-01-2015,Mexico,Rivers,Least Concern,Daniel Perez,Tagged female
+316,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.54,227.2,Juvenile,Male,03-09-2014,Belize,Rivers,Least Concern,Mason Gray,Observed in shallow water
+317,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.13,112.0,Hatchling,Female,17-11-2014,Guatemala,Small Streams,Least Concern,Zoey Bell,Unusual vocalization
+318,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.99,273.7,Adult,Unknown,01-04-2025,Venezuela,Lakes,Least Concern,Ella Cooper,Active at dawn
+319,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.15,125.8,Subadult,Female,24-08-2007,Mexico,Lakes,Least Concern,Ella Cooper,Observed in shallow water
+320,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.58,97.3,Adult,Unknown,07-05-2016,Mexico,Rivers,Least Concern,Avery Price,Observed basking on rocks
+321,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.36,174.2,Hatchling,Female,26-07-2025,Venezuela,Swamps,Least Concern,Leo Torres,Nest building
+322,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.69,124.6,Hatchling,Male,08-06-2023,Mexico,Rivers,Least Concern,Scarlett Reed,Observed in shallow water
+323,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.41,87.1,Adult,Male,08-07-2021,Guatemala,Flooded Savannas,Least Concern,Leo Torres,Active at dawn
+324,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.7,244.6,Adult,Male,21-02-2006,Guatemala,Lakes,Least Concern,Mason Gray,Observed basking on rocks
+325,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.6,177.3,Hatchling,Unknown,02-05-2021,Guatemala,Lakes,Least Concern,Scarlett Reed,Nest building
+326,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.22,250.4,Subadult,Male,30-07-2021,Guatemala,Lakes,Least Concern,Avery Price,Unusual vocalization
+327,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.91,215.2,Subadult,Male,24-02-2011,Mexico,Mangroves,Least Concern,Ella Cooper,Tagged female
+328,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.7,135.1,Subadult,Unknown,30-10-2017,Tanzania,Lakes,Least Concern,Ella Cooper,Observed basking on rocks
+329,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.81,152.2,Hatchling,Female,02-09-2020,Mexico,Swamps,Least Concern,Nathan Ward,Nest building
+330,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.69,162.5,Subadult,Female,04-03-2015,Guatemala,Rivers,Least Concern,Leo Torres,Observed basking on rocks
+331,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.87,210.5,Adult,Male,28-08-2011,Thailand,Swamps,Least Concern,Avery Price,Calm adult
+332,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.15,295.8,Subadult,Female,24-08-2019,Liberia,Rivers,Least Concern,Scarlett Reed,Tagged female
+333,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.69,126.6,Adult,Female,28-12-2013,Thailand,Forest Swamps,Least Concern,Mason Gray,Tagged female
+334,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.76,97.6,Adult,Female,23-05-2012,Guatemala,Lakes,Least Concern,Avery Price,Feeding on fish
+335,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.26,64.4,Juvenile,Female,01-02-2013,Colombia,Rivers,Least Concern,Mason Gray,Unusual vocalization
+336,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.23,175.9,Juvenile,Unknown,19-07-2023,Guatemala,Rivers,Least Concern,Leo Torres,Nest building
+337,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.86,150.7,Subadult,Female,23-04-2024,Australia,Lakes,Least Concern,Scarlett Reed,Nest building
+338,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.21,205.0,Juvenile,Unknown,30-05-2023,Mexico,Swamps,Least Concern,Daniel Perez,Nest building
+339,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.96,116.4,Subadult,Female,03-04-2016,Guatemala,Swamps,Least Concern,Avery Price,Observed in shallow water
+340,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.09,208.6,Subadult,Male,15-03-2011,Mexico,Swamps,Least Concern,Daniel Perez,Calm adult
+341,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.05,180.4,Juvenile,Unknown,02-04-2016,Mexico,Mangroves,Least Concern,Leo Torres,Observed basking on rocks
+342,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.59,124.5,Juvenile,Unknown,21-12-2020,Gabon,Lakes,Least Concern,Avery Price,Calm adult
+343,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.54,187.4,Hatchling,Unknown,02-10-2007,Guatemala,Forest Swamps,Least Concern,Nathan Ward,Calm adult
+344,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.8,219.7,Juvenile,Female,25-12-2022,Mexico,Lakes,Least Concern,Mason Gray,Feeding on fish
+345,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.12,262.8,Hatchling,Male,25-03-2023,Mexico,Lakes,Least Concern,Zoey Bell,Feeding on fish
+346,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.42,97.8,Juvenile,Male,20-03-2009,Belize,Rivers,Least Concern,Leo Torres,Feeding on fish
+347,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.06,257.7,Subadult,Unknown,13-11-2022,Belize,Rivers,Least Concern,Scarlett Reed,Feeding on fish
+348,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.87,119.3,Adult,Female,14-07-2014,Mexico,Swamps,Least Concern,Scarlett Reed,Nest building
+349,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.41,131.8,Juvenile,Unknown,14-12-2007,Belize,Rivers,Least Concern,Scarlett Reed,Feeding on fish
+350,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.07,183.5,Subadult,Female,07-03-2024,Mexico,Estuaries,Least Concern,Mason Gray,Observed basking on rocks
+351,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.88,190.5,Hatchling,Female,13-04-2011,Guatemala,Rivers,Least Concern,Avery Price,Active at dawn
+352,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.58,139.7,Hatchling,Male,11-12-2010,Mexico,Rivers,Least Concern,Mason Gray,Active at dawn
+353,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.83,167.9,Juvenile,Male,14-03-2020,Belize,Swamps,Least Concern,Avery Price,Nest building
+354,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.11,143.4,Subadult,Female,21-11-2014,Mexico,Rivers,Least Concern,Scarlett Reed,Observed basking on rocks
+355,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.54,122.3,Subadult,Female,09-03-2007,Guatemala,Swamps,Least Concern,Ella Cooper,Calm adult
+356,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.26,213.6,Subadult,Male,19-05-2015,Mexico,Lakes,Least Concern,Zoey Bell,Feeding on fish
+357,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.83,199.8,Juvenile,Unknown,19-02-2006,Guatemala,Lakes,Least Concern,Scarlett Reed,Feeding on fish
+358,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.67,214.6,Adult,Female,28-03-2009,Guatemala,Rivers,Least Concern,Daniel Perez,Observed basking on rocks
+359,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.39,130.1,Juvenile,Female,10-10-2012,Australia,Swamps,Least Concern,Daniel Perez,Observed in shallow water
+360,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.86,253.8,Adult,Unknown,12-03-2009,Mexico,Swamps,Least Concern,Ella Cooper,Active at dawn
+361,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.8,181.0,Hatchling,Unknown,12-03-2011,Guatemala,Swamps,Least Concern,Mason Gray,Nest building
+362,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.27,140.4,Hatchling,Female,22-04-2008,Mexico,Swamps,Least Concern,Ella Cooper,Active at dawn
+363,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.19,171.4,Subadult,Male,12-05-2015,Côte d'Ivoire,Lakes,Least Concern,Zoey Bell,Tagged female
+364,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.83,194.4,Juvenile,Male,27-04-2005,Mexico,Rivers,Least Concern,Zoey Bell,Active at dawn
+365,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.27,129.2,Adult,Female,04-11-2024,Guatemala,Rivers,Least Concern,Avery Price,Unusual vocalization
+366,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.39,174.3,Juvenile,Female,25-02-2011,Guatemala,Swamps,Least Concern,Scarlett Reed,Nest building
+367,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.08,138.0,Hatchling,Female,28-08-2011,Venezuela,Rivers,Least Concern,Scarlett Reed,Nest building
+368,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.1,163.1,Hatchling,Unknown,29-11-2023,Belize,Rivers,Least Concern,Leo Torres,Calm adult
+369,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.9,113.1,Hatchling,Male,15-08-2022,Guatemala,Estuaries,Least Concern,Daniel Perez,Nest building
+370,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.85,122.0,Hatchling,Male,25-08-2017,Guatemala,Lakes,Least Concern,Ella Cooper,Feeding on fish
+371,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.09,131.5,Juvenile,Female,20-05-2019,Guatemala,Rivers,Least Concern,Ella Cooper,Nest building
+372,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.8,127.0,Juvenile,Unknown,25-12-2023,Tanzania,Swamps,Least Concern,Leo Torres,Active at dawn
+373,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.84,232.3,Subadult,Unknown,26-12-2021,Mexico,Lakes,Least Concern,Ella Cooper,Unusual vocalization
+374,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.11,155.1,Adult,Male,29-06-2017,Guatemala,Rivers,Least Concern,Mason Gray,Active at dawn
+375,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.24,182.1,Adult,Unknown,11-12-2025,Guatemala,Swamps,Least Concern,Daniel Perez,Unusual vocalization
+376,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.65,168.7,Subadult,Female,01-09-2014,Australia,Rivers,Least Concern,Scarlett Reed,Calm adult
+377,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.6,116.3,Juvenile,Unknown,01-03-2014,Belize,Rivers,Least Concern,Ella Cooper,Observed in shallow water
+378,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.58,147.7,Juvenile,Unknown,11-09-2015,Guatemala,Lakes,Least Concern,Ella Cooper,Calm adult
+379,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.15,259.7,Adult,Male,06-03-2019,Mexico,Lakes,Least Concern,Mason Gray,Calm adult
+380,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.01,264.4,Adult,Male,26-04-2009,Belize,Rivers,Least Concern,Daniel Perez,Unusual vocalization
+381,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.11,255.8,Subadult,Unknown,07-05-2021,Belize,Swamps,Least Concern,Scarlett Reed,Observed basking on rocks
+382,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.75,233.5,Juvenile,Female,15-08-2010,Cuba,Swamps,Least Concern,Mason Gray,Active at dawn
+383,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.96,165.7,Subadult,Female,11-12-2022,Guatemala,Estuaries,Least Concern,Nathan Ward,Nest building
+384,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.58,157.5,Hatchling,Unknown,22-07-2010,Mexico,Lakes,Least Concern,Zoey Bell,Observed basking on rocks
+385,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.23,116.9,Adult,Female,07-07-2018,Belize,Lakes,Least Concern,Daniel Perez,Active at dawn
+386,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.12,113.3,Hatchling,Unknown,22-02-2022,Belize,Lakes,Least Concern,Avery Price,Feeding on fish
+387,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.32,88.6,Juvenile,Female,17-04-2019,Mexico,Lakes,Least Concern,Daniel Perez,Observed basking on rocks
+388,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.55,139.8,Hatchling,Unknown,05-05-2018,Philippines,Lakes,Least Concern,Scarlett Reed,Tagged female
+389,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.16,162.4,Hatchling,Unknown,06-05-2022,Belize,Lakes,Least Concern,Leo Torres,Tagged female
+390,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.86,130.1,Hatchling,Female,09-06-2013,Belize,Swamps,Least Concern,Avery Price,Nest building
+391,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.09,133.1,Adult,Male,12-05-2013,Mexico,Lakes,Least Concern,Nathan Ward,Observed in shallow water
+392,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.73,97.8,Adult,Male,29-12-2007,Indonesia,Swamps,Least Concern,Leo Torres,Feeding on fish
+393,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.86,136.0,Juvenile,Female,25-01-2019,Belize,Swamps,Least Concern,Nathan Ward,Feeding on fish
+394,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.36,137.9,Juvenile,Female,27-08-2020,Belize,Lakes,Least Concern,Nathan Ward,Nest building
+395,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.93,111.0,Hatchling,Male,25-12-2006,Cambodia,Lakes,Least Concern,Daniel Perez,Observed basking on rocks
+396,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.19,124.1,Adult,Unknown,06-08-2005,Mexico,Rivers,Least Concern,Nathan Ward,Observed basking on rocks
+397,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.51,88.8,Juvenile,Unknown,27-02-2005,Belize,Lakes,Least Concern,Ella Cooper,Observed in shallow water
+398,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.25,163.3,Hatchling,Male,02-11-2008,Mexico,Lakes,Least Concern,Zoey Bell,Unusual vocalization
+399,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.72,102.2,Subadult,Male,28-09-2006,Belize,Swamps,Least Concern,Mason Gray,Observed basking on rocks
+400,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.77,121.7,Juvenile,Unknown,14-07-2011,Belize,Rivers,Least Concern,Scarlett Reed,Tagged female
+401,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.55,399.9,Hatchling,Unknown,11-09-2019,Colombia,Rivers,Critically Endangered,Daniel Perez,Active at dawn
+402,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.76,256.5,Subadult,Female,06-02-2021,Colombia,Flooded Savannas,Critically Endangered,Zoey Bell,Observed basking on rocks
+403,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.94,237.1,Juvenile,Unknown,31-07-2005,Colombia,Flooded Savannas,Critically Endangered,Nathan Ward,Nest building
+404,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.43,488.9,Juvenile,Female,24-12-2016,Venezuela,Swamps,Critically Endangered,Zoey Bell,Observed basking on rocks
+405,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.7,521.9,Hatchling,Unknown,10-07-2015,Venezuela,Rivers,Critically Endangered,Mason Gray,Tagged female
+406,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.65,316.2,Adult,Unknown,22-06-2017,Colombia,Rivers,Critically Endangered,Scarlett Reed,Nest building
+407,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.32,526.8,Hatchling,Female,28-03-2019,Colombia,Swamps,Critically Endangered,Mason Gray,Observed basking on rocks
+408,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.73,410.8,Subadult,Female,02-09-2020,Venezuela,Rivers,Critically Endangered,Scarlett Reed,Tagged female
+409,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.87,430.2,Subadult,Unknown,14-12-2013,Liberia,Flooded Savannas,Critically Endangered,Zoey Bell,Observed basking on rocks
+410,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.05,364.5,Adult,Male,23-11-2007,Colombia,Estuaries,Critically Endangered,Ella Cooper,Nest building
+411,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.81,478.7,Adult,Female,28-09-2019,Colombia,Flooded Savannas,Critically Endangered,Ella Cooper,Observed in shallow water
+412,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.55,317.2,Subadult,Unknown,26-08-2017,Côte d'Ivoire,Flooded Savannas,Critically Endangered,Leo Torres,Nest building
+413,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.53,470.3,Juvenile,Unknown,04-04-2021,Venezuela,Flooded Savannas,Critically Endangered,Avery Price,Tagged female
+414,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.35,349.3,Adult,Unknown,03-07-2014,Venezuela,Flooded Savannas,Critically Endangered,Daniel Perez,Unusual vocalization
+415,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.64,212.0,Subadult,Unknown,08-01-2022,Colombia,Flooded Savannas,Critically Endangered,Scarlett Reed,Observed in shallow water
+416,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,5.4,696.3,Juvenile,Male,14-08-2015,Colombia,Swamps,Critically Endangered,Daniel Perez,Observed in shallow water
+417,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.14,349.9,Hatchling,Male,22-03-2014,Venezuela,Flooded Savannas,Critically Endangered,Scarlett Reed,Nest building
+418,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.95,451.1,Juvenile,Female,15-10-2024,Venezuela,Rivers,Critically Endangered,Avery Price,Feeding on fish
+419,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.85,263.5,Juvenile,Male,05-03-2013,Vietnam,Flooded Savannas,Critically Endangered,Leo Torres,Active at dawn
+420,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.27,195.1,Juvenile,Female,17-07-2024,Thailand,Swamps,Critically Endangered,Mason Gray,Feeding on fish
+421,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.94,397.2,Adult,Unknown,25-06-2011,Colombia,Swamps,Critically Endangered,Ella Cooper,Observed basking on rocks
+422,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.94,498.2,Subadult,Male,15-08-2008,Colombia,Rivers,Critically Endangered,Nathan Ward,Observed basking on rocks
+423,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.02,363.7,Subadult,Male,27-02-2018,Venezuela,Lakes,Critically Endangered,Leo Torres,Feeding on fish
+424,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.13,200.2,Subadult,Unknown,13-10-2017,Colombia,Flooded Savannas,Critically Endangered,Nathan Ward,Observed in shallow water
+425,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.31,418.8,Juvenile,Female,09-10-2015,Colombia,Rivers,Critically Endangered,Ella Cooper,Nest building
+426,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.67,497.5,Hatchling,Male,30-03-2021,Colombia,Flooded Savannas,Critically Endangered,Nathan Ward,Feeding on fish
+427,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.58,456.0,Juvenile,Female,12-08-2009,Colombia,Rivers,Critically Endangered,Zoey Bell,Observed basking on rocks
+428,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,5.22,596.0,Hatchling,Female,23-02-2023,Cuba,Rivers,Critically Endangered,Scarlett Reed,Nest building
+429,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.32,358.5,Adult,Unknown,13-09-2020,Venezuela,Rivers,Critically Endangered,Zoey Bell,Calm adult
+430,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.69,294.2,Hatchling,Male,13-03-2025,Venezuela,Rivers,Critically Endangered,Ella Cooper,Observed in shallow water
+431,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.72,264.0,Juvenile,Female,14-09-2008,Venezuela,Rivers,Critically Endangered,Scarlett Reed,Nest building
+432,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.35,527.6,Juvenile,Female,28-10-2005,Venezuela,Swamps,Critically Endangered,Leo Torres,Calm adult
+433,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.88,259.0,Juvenile,Male,22-11-2025,Colombia,Swamps,Critically Endangered,Zoey Bell,Observed basking on rocks
+434,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.51,370.4,Adult,Male,14-07-2010,Venezuela,Flooded Savannas,Critically Endangered,Scarlett Reed,Observed basking on rocks
+435,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.03,378.3,Adult,Female,19-10-2019,Colombia,Swamps,Critically Endangered,Leo Torres,Calm adult
+436,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.24,459.6,Hatchling,Female,20-01-2012,Vietnam,Flooded Savannas,Critically Endangered,Leo Torres,Tagged female
+437,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.8,258.7,Hatchling,Female,30-12-2011,Venezuela,Coastal,Critically Endangered,Nathan Ward,Active at dawn
+438,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.01,406.5,Juvenile,Unknown,02-04-2006,Venezuela,Swamps,Critically Endangered,Daniel Perez,Observed in shallow water
+439,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.89,269.4,Adult,Female,28-01-2021,Colombia,Swamps,Critically Endangered,Zoey Bell,Calm adult
+440,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.66,247.3,Hatchling,Male,15-12-2006,Venezuela,Swamps,Critically Endangered,Zoey Bell,Observed basking on rocks
+441,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.98,292.8,Hatchling,Unknown,11-07-2005,Colombia,Swamps,Critically Endangered,Ella Cooper,Unusual vocalization
+442,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.46,496.6,Adult,Female,24-05-2010,Gabon,Swamps,Critically Endangered,Avery Price,Feeding on fish
+443,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.47,431.3,Hatchling,Female,18-03-2021,Belize,Swamps,Critically Endangered,Scarlett Reed,Observed in shallow water
+444,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,5.58,697.5,Juvenile,Female,15-09-2006,Colombia,Swamps,Critically Endangered,Ella Cooper,Feeding on fish
+445,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,5.18,605.2,Hatchling,Unknown,12-01-2016,Colombia,Rivers,Critically Endangered,Avery Price,Feeding on fish
+446,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.4,474.9,Subadult,Male,09-09-2009,Venezuela,Flooded Savannas,Critically Endangered,Scarlett Reed,Tagged female
+447,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.63,206.9,Subadult,Female,08-11-2005,Venezuela,Flooded Savannas,Critically Endangered,Leo Torres,Active at dawn
+448,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.26,396.2,Juvenile,Female,28-08-2017,Venezuela,Swamps,Critically Endangered,Avery Price,Tagged female
+449,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.59,361.6,Adult,Unknown,22-07-2010,Venezuela,Small Streams,Critically Endangered,Avery Price,Feeding on fish
+450,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.9,269.6,Hatchling,Unknown,11-12-2012,Thailand,Swamps,Critically Endangered,Ella Cooper,Active at dawn
+451,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,5.04,621.1,Adult,Male,25-01-2015,Venezuela,Rivers,Critically Endangered,Ella Cooper,Feeding on fish
+452,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.18,364.3,Subadult,Male,19-12-2020,Venezuela,Rivers,Critically Endangered,Nathan Ward,Tagged female
+453,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.53,320.1,Hatchling,Unknown,15-04-2023,Venezuela,Flooded Savannas,Critically Endangered,Avery Price,Unusual vocalization
+454,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.45,425.1,Hatchling,Unknown,27-07-2018,Colombia,Flooded Savannas,Critically Endangered,Daniel Perez,Observed basking on rocks
+455,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,5.09,585.6,Juvenile,Female,22-11-2015,Thailand,Rivers,Critically Endangered,Scarlett Reed,Tagged female
+456,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.54,406.1,Adult,Female,04-01-2013,Colombia,Swamps,Critically Endangered,Avery Price,Unusual vocalization
+457,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.02,361.2,Subadult,Male,13-01-2013,Liberia,Swamps,Critically Endangered,Nathan Ward,Observed basking on rocks
+458,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.98,490.5,Juvenile,Male,02-07-2020,Colombia,Rivers,Critically Endangered,Daniel Perez,Nest building
+459,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.87,217.7,Subadult,Unknown,14-08-2022,Venezuela,Swamps,Critically Endangered,Zoey Bell,Tagged female
+460,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.36,405.8,Subadult,Unknown,20-05-2007,Colombia,Coastal,Critically Endangered,Avery Price,Observed basking on rocks
+461,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.69,530.6,Subadult,Unknown,28-06-2010,Venezuela,Rivers,Critically Endangered,Mason Gray,Feeding on fish
+462,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.68,447.3,Hatchling,Female,18-09-2017,Venezuela,Swamps,Critically Endangered,Avery Price,Tagged female
+463,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.7,249.2,Juvenile,Female,14-05-2015,Sudan,Swamps,Critically Endangered,Nathan Ward,Feeding on fish
+464,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.41,378.9,Subadult,Unknown,13-01-2013,Gabon,Rivers,Critically Endangered,Nathan Ward,Calm adult
+465,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.96,260.6,Adult,Unknown,30-07-2011,Thailand,Swamps,Critically Endangered,Mason Gray,Calm adult
+466,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.32,317.2,Juvenile,Female,31-07-2024,Venezuela,Swamps,Critically Endangered,Ella Cooper,Calm adult
+467,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.74,329.5,Adult,Unknown,02-06-2020,Venezuela,Rivers,Critically Endangered,Avery Price,Active at dawn
+468,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,5.19,606.5,Adult,Female,19-03-2008,Côte d'Ivoire,Flooded Savannas,Critically Endangered,Avery Price,Active at dawn
+469,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.93,365.0,Adult,Female,12-03-2025,Philippines,Rivers,Critically Endangered,Zoey Bell,Tagged female
+470,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.79,520.1,Subadult,Male,29-09-2021,Venezuela,Flooded Savannas,Critically Endangered,Leo Torres,Feeding on fish
+471,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.92,604.6,Adult,Female,23-06-2011,Colombia,Flooded Savannas,Critically Endangered,Ella Cooper,Nest building
+472,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.75,371.4,Subadult,Unknown,04-03-2006,Mexico,Rivers,Critically Endangered,Scarlett Reed,Calm adult
+473,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.93,551.2,Adult,Unknown,05-05-2014,Venezuela,Swamps,Critically Endangered,Nathan Ward,Calm adult
+474,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.41,318.7,Adult,Female,19-02-2014,Gabon,Flooded Savannas,Critically Endangered,Zoey Bell,Observed in shallow water
+475,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,5.51,638.7,Adult,Male,15-03-2009,Venezuela,Swamps,Critically Endangered,Ella Cooper,Unusual vocalization
+476,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,5.3,612.7,Hatchling,Male,21-05-2019,Venezuela,Flooded Savannas,Critically Endangered,Scarlett Reed,Tagged female
+477,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.06,253.8,Adult,Unknown,27-11-2021,Colombia,Swamps,Critically Endangered,Scarlett Reed,Nest building
+478,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.94,585.8,Juvenile,Female,20-10-2017,Colombia,Swamps,Critically Endangered,Ella Cooper,Feeding on fish
+479,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.0,310.5,Juvenile,Female,26-04-2011,Venezuela,Rivers,Critically Endangered,Scarlett Reed,Active at dawn
+480,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.08,322.3,Juvenile,Female,20-04-2020,Venezuela,Rivers,Critically Endangered,Zoey Bell,Observed in shallow water
+481,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.98,372.7,Adult,Male,24-10-2012,Venezuela,Rivers,Critically Endangered,Scarlett Reed,Tagged female
+482,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.72,491.3,Subadult,Male,16-01-2005,Venezuela,Flooded Savannas,Critically Endangered,Mason Gray,Active at dawn
+483,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.0,374.4,Juvenile,Female,16-03-2022,Colombia,Flooded Savannas,Critically Endangered,Ella Cooper,Tagged female
+484,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.54,254.3,Subadult,Female,25-10-2006,Colombia,Flooded Savannas,Critically Endangered,Nathan Ward,Feeding on fish
+485,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.75,368.3,Adult,Male,01-11-2019,Colombia,Swamps,Critically Endangered,Nathan Ward,Observed in shallow water
+486,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.63,377.2,Hatchling,Female,13-11-2015,Venezuela,Flooded Savannas,Critically Endangered,Zoey Bell,Nest building
+487,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.46,391.4,Adult,Male,17-05-2016,Cuba,Swamps,Critically Endangered,Nathan Ward,Nest building
+488,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.74,297.6,Adult,Unknown,08-02-2006,Colombia,Flooded Savannas,Critically Endangered,Ella Cooper,Unusual vocalization
+489,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.84,330.8,Hatchling,Unknown,04-07-2009,Colombia,Flooded Savannas,Critically Endangered,Ella Cooper,Unusual vocalization
+490,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.56,358.0,Subadult,Male,30-03-2023,Colombia,Rivers,Critically Endangered,Daniel Perez,Active at dawn
+491,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.75,301.7,Subadult,Male,16-05-2011,Venezuela,Rivers,Critically Endangered,Mason Gray,Observed basking on rocks
+492,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.37,323.5,Hatchling,Unknown,28-08-2006,Venezuela,Flooded Savannas,Critically Endangered,Avery Price,Observed basking on rocks
+493,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.3,356.4,Adult,Female,18-11-2014,Venezuela,Rivers,Critically Endangered,Scarlett Reed,Observed in shallow water
+494,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.95,386.0,Subadult,Unknown,02-11-2025,Colombia,Swamps,Critically Endangered,Zoey Bell,Feeding on fish
+495,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.16,419.7,Subadult,Female,10-10-2015,Venezuela,Swamps,Critically Endangered,Scarlett Reed,Calm adult
+496,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.2,487.6,Hatchling,Unknown,09-10-2024,Colombia,Swamps,Critically Endangered,Zoey Bell,Observed basking on rocks
+497,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,5.34,614.5,Subadult,Unknown,21-12-2021,Thailand,Flooded Savannas,Critically Endangered,Daniel Perez,Calm adult
+498,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.16,416.0,Adult,Female,19-05-2007,Venezuela,Rivers,Critically Endangered,Avery Price,Nest building
+499,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.11,390.3,Hatchling,Male,12-10-2025,Colombia,Flooded Savannas,Critically Endangered,Daniel Perez,Observed basking on rocks
+500,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.22,283.7,Adult,Male,08-12-2014,Colombia,Coastal,Critically Endangered,Ella Cooper,Active at dawn
+501,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.01,289.9,Subadult,Female,01-11-2015,Thailand,Small Streams,Critically Endangered,Zoey Bell,Tagged female
+502,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.02,165.9,Juvenile,Unknown,25-02-2014,Vietnam,Lakes,Critically Endangered,Leo Torres,Tagged female
+503,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.92,410.5,Hatchling,Unknown,29-08-2021,Thailand,Lakes,Critically Endangered,Avery Price,Unusual vocalization
+504,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,1.89,131.7,Subadult,Unknown,10-04-2016,Thailand,Rivers,Critically Endangered,Scarlett Reed,Observed basking on rocks
+505,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.02,280.3,Juvenile,Female,08-02-2011,Thailand,Swamps,Critically Endangered,Leo Torres,Active at dawn
+506,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,1.74,134.3,Hatchling,Female,24-08-2018,Cambodia,Lakes,Critically Endangered,Leo Torres,Active at dawn
+507,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.54,260.9,Subadult,Female,22-11-2014,Cambodia,Lakes,Critically Endangered,Daniel Perez,Unusual vocalization
+508,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.88,250.4,Subadult,Male,22-09-2009,Thailand,Rivers,Critically Endangered,Nathan Ward,Observed in shallow water
+509,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,1.93,142.6,Subadult,Female,28-10-2007,Cambodia,Rivers,Critically Endangered,Mason Gray,Feeding on fish
+510,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.5,250.7,Subadult,Unknown,28-04-2005,Cambodia,Lakes,Critically Endangered,Mason Gray,Feeding on fish
+511,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.94,289.0,Juvenile,Male,16-07-2010,Mexico,Rivers,Critically Endangered,Leo Torres,Calm adult
+512,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.99,298.0,Hatchling,Male,09-07-2022,Gabon,Lakes,Critically Endangered,Mason Gray,Active at dawn
+513,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.79,239.7,Subadult,Unknown,11-09-2020,Thailand,Lakes,Critically Endangered,Daniel Perez,Active at dawn
+514,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.4,296.0,Hatchling,Male,19-08-2013,Thailand,Flooded Savannas,Critically Endangered,Scarlett Reed,Nest building
+515,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.03,253.2,Hatchling,Male,03-01-2010,Vietnam,Lakes,Critically Endangered,Nathan Ward,Observed basking on rocks
+516,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.65,301.2,Adult,Male,20-04-2018,Belize,Coastal,Critically Endangered,Ella Cooper,Feeding on fish
+517,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.03,182.8,Subadult,Male,07-01-2013,Sudan,Estuaries,Critically Endangered,Ella Cooper,Nest building
+518,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.39,223.4,Juvenile,Female,14-01-2022,Venezuela,Rivers,Critically Endangered,Leo Torres,Feeding on fish
+519,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.57,219.6,Adult,Female,28-08-2020,Philippines,Mangroves,Critically Endangered,Avery Price,Observed basking on rocks
+520,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.33,199.7,Subadult,Unknown,10-03-2023,Thailand,Lakes,Critically Endangered,Ella Cooper,Observed in shallow water
+521,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.9,252.3,Hatchling,Male,15-05-2023,Cambodia,Lakes,Critically Endangered,Nathan Ward,Observed in shallow water
+522,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.45,303.0,Adult,Female,05-07-2021,Vietnam,Estuaries,Critically Endangered,Scarlett Reed,Tagged female
+523,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.03,235.9,Juvenile,Male,11-04-2024,Cambodia,Swamps,Critically Endangered,Daniel Perez,Unusual vocalization
+524,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.12,274.1,Subadult,Female,19-07-2009,Mexico,Lakes,Critically Endangered,Daniel Perez,Nest building
+525,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.75,387.0,Adult,Male,09-08-2012,Vietnam,Lakes,Critically Endangered,Nathan Ward,Observed in shallow water
+526,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,1.83,141.4,Juvenile,Male,16-01-2011,Thailand,Rivers,Critically Endangered,Ella Cooper,Tagged female
+527,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.35,244.0,Adult,Unknown,18-08-2010,Thailand,Rivers,Critically Endangered,Leo Torres,Calm adult
+528,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.01,195.3,Subadult,Female,26-07-2017,Kenya,Lakes,Critically Endangered,Leo Torres,Feeding on fish
+529,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.37,289.4,Juvenile,Unknown,30-10-2017,Cambodia,Swamps,Critically Endangered,Mason Gray,Observed basking on rocks
+530,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.29,222.6,Adult,Male,26-10-2012,Thailand,Rivers,Critically Endangered,Daniel Perez,Unusual vocalization
+531,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,1.77,159.8,Subadult,Unknown,17-02-2025,Vietnam,Swamps,Critically Endangered,Daniel Perez,Observed basking on rocks
+532,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.55,280.5,Juvenile,Female,26-08-2015,Thailand,Swamps,Critically Endangered,Daniel Perez,Observed in shallow water
+533,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,1.89,155.1,Adult,Unknown,07-02-2018,Gabon,Rivers,Critically Endangered,Scarlett Reed,Feeding on fish
+534,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,1.95,176.1,Subadult,Female,22-07-2011,Venezuela,Rivers,Critically Endangered,Daniel Perez,Unusual vocalization
+535,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.38,299.9,Subadult,Unknown,09-11-2014,Thailand,Swamps,Critically Endangered,Ella Cooper,Unusual vocalization
+536,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,1.91,142.8,Hatchling,Unknown,02-08-2011,Cambodia,Swamps,Critically Endangered,Scarlett Reed,Active at dawn
+537,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.29,292.8,Adult,Female,27-08-2018,Cambodia,Swamps,Critically Endangered,Zoey Bell,Unusual vocalization
+538,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,1.89,161.2,Subadult,Unknown,12-11-2020,Cambodia,Swamps,Critically Endangered,Daniel Perez,Active at dawn
+539,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.34,172.3,Adult,Male,11-11-2021,Cambodia,Swamps,Critically Endangered,Ella Cooper,Unusual vocalization
+540,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.24,181.4,Juvenile,Male,28-01-2025,Vietnam,Swamps,Critically Endangered,Avery Price,Observed basking on rocks
+541,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.79,346.6,Adult,Unknown,25-12-2005,Mexico,Estuaries,Critically Endangered,Zoey Bell,Feeding on fish
+542,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.38,220.2,Juvenile,Unknown,08-08-2023,Cambodia,Lakes,Critically Endangered,Nathan Ward,Calm adult
+543,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.96,253.9,Subadult,Female,23-07-2015,Cambodia,Swamps,Critically Endangered,Daniel Perez,Feeding on fish
+544,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.22,289.8,Juvenile,Female,20-12-2010,Vietnam,Swamps,Critically Endangered,Mason Gray,Active at dawn
+545,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.31,331.0,Hatchling,Male,21-06-2010,Australia,Lakes,Critically Endangered,Zoey Bell,Observed in shallow water
+546,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.04,176.2,Juvenile,Male,27-09-2019,Cambodia,Lakes,Critically Endangered,Daniel Perez,Observed basking on rocks
+547,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.1,263.3,Juvenile,Unknown,13-08-2025,Vietnam,Rivers,Critically Endangered,Ella Cooper,Unusual vocalization
+548,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.97,256.4,Subadult,Unknown,22-01-2009,Thailand,Rivers,Critically Endangered,Zoey Bell,Observed in shallow water
+549,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.81,408.0,Adult,Unknown,25-08-2014,Cambodia,Swamps,Critically Endangered,Ella Cooper,Observed in shallow water
+550,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.68,228.4,Subadult,Unknown,04-08-2025,Thailand,Swamps,Critically Endangered,Nathan Ward,Nest building
+551,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.51,220.2,Adult,Female,20-06-2018,Thailand,Swamps,Critically Endangered,Scarlett Reed,Feeding on fish
+552,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.64,196.8,Adult,Unknown,25-10-2013,Vietnam,Swamps,Critically Endangered,Avery Price,Unusual vocalization
+553,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.62,245.0,Juvenile,Male,04-08-2005,Vietnam,Rivers,Critically Endangered,Scarlett Reed,Unusual vocalization
+554,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.13,309.4,Subadult,Male,18-06-2012,Thailand,Rivers,Critically Endangered,Zoey Bell,Unusual vocalization
+555,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.6,199.6,Juvenile,Male,20-06-2015,Cambodia,Rivers,Critically Endangered,Leo Torres,Feeding on fish
+556,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.32,214.4,Hatchling,Unknown,11-08-2006,Mexico,Swamps,Critically Endangered,Leo Torres,Observed basking on rocks
+557,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.21,287.0,Adult,Female,15-02-2020,Vietnam,Lakes,Critically Endangered,Leo Torres,Nest building
+558,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.59,323.7,Adult,Female,13-05-2021,Cambodia,Swamps,Critically Endangered,Zoey Bell,Unusual vocalization
+559,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.21,291.0,Adult,Unknown,30-04-2018,Cambodia,Swamps,Critically Endangered,Daniel Perez,Feeding on fish
+560,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.61,215.6,Juvenile,Female,17-08-2007,Vietnam,Swamps,Critically Endangered,Scarlett Reed,Active at dawn
+561,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.17,182.1,Adult,Unknown,01-07-2011,Mexico,Coastal,Critically Endangered,Zoey Bell,Nest building
+562,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.6,240.4,Subadult,Unknown,01-06-2017,Cambodia,Swamps,Critically Endangered,Nathan Ward,Nest building
+563,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.19,208.5,Hatchling,Male,31-12-2018,Thailand,Swamps,Critically Endangered,Avery Price,Nest building
+564,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.16,229.0,Juvenile,Male,17-06-2018,Cambodia,Lakes,Critically Endangered,Leo Torres,Nest building
+565,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.17,321.4,Adult,Female,09-02-2011,Tanzania,Lakes,Critically Endangered,Leo Torres,Nest building
+566,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.81,297.4,Adult,Unknown,10-07-2006,Cambodia,Rivers,Critically Endangered,Mason Gray,Observed in shallow water
+567,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.31,193.3,Hatchling,Male,17-11-2019,Venezuela,Swamps,Critically Endangered,Daniel Perez,Unusual vocalization
+568,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.92,278.0,Subadult,Male,30-10-2020,Cambodia,Rivers,Critically Endangered,Leo Torres,Observed in shallow water
+569,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.67,205.1,Adult,Male,12-03-2020,Thailand,Lakes,Critically Endangered,Scarlett Reed,Observed basking on rocks
+570,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.97,390.0,Hatchling,Female,25-01-2017,Vietnam,Rivers,Critically Endangered,Avery Price,Tagged female
+571,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.18,208.8,Subadult,Female,28-07-2020,Cambodia,Forest Swamps,Critically Endangered,Ella Cooper,Observed basking on rocks
+572,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.4,159.5,Juvenile,Female,14-12-2017,Thailand,Lakes,Critically Endangered,Nathan Ward,Calm adult
+573,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.13,229.2,Adult,Unknown,02-02-2010,Vietnam,Swamps,Critically Endangered,Zoey Bell,Unusual vocalization
+574,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.57,312.4,Hatchling,Female,06-06-2023,Vietnam,Rivers,Critically Endangered,Nathan Ward,Calm adult
+575,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.74,226.4,Hatchling,Male,30-04-2006,Cambodia,Lakes,Critically Endangered,Mason Gray,Active at dawn
+576,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.86,231.8,Subadult,Male,21-12-2014,Cambodia,Estuaries,Critically Endangered,Leo Torres,Feeding on fish
+577,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.69,217.4,Juvenile,Female,21-09-2025,Vietnam,Lakes,Critically Endangered,Daniel Perez,Unusual vocalization
+578,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.84,297.0,Hatchling,Unknown,18-08-2025,Thailand,Lakes,Critically Endangered,Leo Torres,Nest building
+579,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.87,417.1,Adult,Unknown,01-10-2020,Vietnam,Lakes,Critically Endangered,Daniel Perez,Tagged female
+580,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.17,178.6,Adult,Unknown,03-02-2023,Thailand,Rivers,Critically Endangered,Leo Torres,Tagged female
+581,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.13,229.6,Hatchling,Female,17-05-2006,Cambodia,Swamps,Critically Endangered,Ella Cooper,Observed in shallow water
+582,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.06,173.5,Adult,Female,24-11-2012,Cambodia,Coastal,Critically Endangered,Ella Cooper,Tagged female
+583,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.89,231.7,Hatchling,Female,24-08-2014,Sudan,Rivers,Critically Endangered,Daniel Perez,Observed in shallow water
+584,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.91,277.5,Subadult,Male,24-06-2016,Sudan,Rivers,Critically Endangered,Nathan Ward,Tagged female
+585,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,1.87,157.2,Hatchling,Male,23-07-2021,Thailand,Swamps,Critically Endangered,Avery Price,Unusual vocalization
+586,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,1.89,147.5,Adult,Female,13-11-2024,Cambodia,Lakes,Critically Endangered,Leo Torres,Feeding on fish
+587,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.2,215.9,Juvenile,Female,30-11-2018,Thailand,Rivers,Critically Endangered,Zoey Bell,Calm adult
+588,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.58,329.5,Adult,Male,01-05-2010,Cambodia,Swamps,Critically Endangered,Mason Gray,Active at dawn
+589,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.72,233.1,Adult,Female,06-11-2014,Thailand,Rivers,Critically Endangered,Scarlett Reed,Calm adult
+590,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.0,181.9,Adult,Unknown,24-03-2011,Thailand,Rivers,Critically Endangered,Daniel Perez,Observed in shallow water
+591,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.18,359.2,Subadult,Unknown,13-12-2024,Cambodia,Rivers,Critically Endangered,Nathan Ward,Nest building
+592,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.17,237.7,Adult,Unknown,26-12-2021,Thailand,Rivers,Critically Endangered,Scarlett Reed,Unusual vocalization
+593,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.38,293.7,Subadult,Unknown,13-03-2013,Cambodia,Rivers,Critically Endangered,Leo Torres,Active at dawn
+594,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.27,354.0,Subadult,Male,04-11-2007,Venezuela,Lakes,Critically Endangered,Daniel Perez,Observed in shallow water
+595,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,1.83,146.1,Adult,Unknown,17-05-2008,Gabon,Lakes,Critically Endangered,Scarlett Reed,Nest building
+596,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.53,191.8,Adult,Unknown,27-07-2024,Vietnam,Rivers,Critically Endangered,Leo Torres,Observed in shallow water
+597,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,1.95,150.8,Adult,Male,29-12-2010,Vietnam,Swamps,Critically Endangered,Mason Gray,Observed in shallow water
+598,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.37,183.6,Juvenile,Female,09-05-2014,Gabon,Rivers,Critically Endangered,Nathan Ward,Calm adult
+599,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.63,175.3,Juvenile,Male,11-11-2007,Côte d'Ivoire,Swamps,Critically Endangered,Mason Gray,Tagged female
+600,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.91,229.1,Juvenile,Unknown,28-02-2021,Cambodia,Rivers,Critically Endangered,Leo Torres,Observed basking on rocks
+601,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.47,292.1,Hatchling,Male,21-01-2025,Cuba,Lakes,Critically Endangered,Scarlett Reed,Observed basking on rocks
+602,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.15,170.7,Hatchling,Female,16-02-2024,Cuba,Estuaries,Critically Endangered,Zoey Bell,Observed basking on rocks
+603,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.39,273.4,Hatchling,Unknown,10-03-2021,Cuba,Small Streams,Critically Endangered,Zoey Bell,Observed in shallow water
+604,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.48,274.5,Hatchling,Unknown,19-02-2009,Gabon,Lakes,Critically Endangered,Nathan Ward,Nest building
+605,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.79,423.7,Hatchling,Male,20-06-2025,Guatemala,Swamps,Critically Endangered,Mason Gray,Calm adult
+606,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.26,243.0,Subadult,Unknown,30-09-2016,Cuba,Rivers,Critically Endangered,Daniel Perez,Calm adult
+607,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.49,165.4,Subadult,Unknown,06-09-2006,Tanzania,Rivers,Critically Endangered,Ella Cooper,Calm adult
+608,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.83,276.8,Adult,Unknown,09-12-2012,Kenya,Lakes,Critically Endangered,Leo Torres,Observed basking on rocks
+609,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.03,161.8,Subadult,Male,20-10-2011,Cuba,Lakes,Critically Endangered,Daniel Perez,Calm adult
+610,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.25,258.1,Subadult,Male,25-10-2022,Australia,Rivers,Critically Endangered,Ella Cooper,Feeding on fish
+611,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.82,365.6,Juvenile,Female,20-03-2007,Gabon,Swamps,Critically Endangered,Daniel Perez,Observed in shallow water
+612,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.34,288.3,Hatchling,Unknown,30-03-2012,Tanzania,Rivers,Critically Endangered,Daniel Perez,Nest building
+613,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.08,200.6,Adult,Unknown,24-11-2016,Venezuela,Swamps,Critically Endangered,Avery Price,Observed basking on rocks
+614,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.37,177.8,Adult,Male,14-04-2015,Cuba,Rivers,Critically Endangered,Scarlett Reed,Feeding on fish
+615,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.86,275.5,Hatchling,Unknown,14-08-2009,Vietnam,Lakes,Critically Endangered,Avery Price,Observed in shallow water
+616,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.11,241.8,Hatchling,Male,23-04-2024,Cuba,Swamps,Critically Endangered,Leo Torres,Tagged female
+617,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.2,301.0,Juvenile,Unknown,02-09-2013,Guatemala,Swamps,Critically Endangered,Mason Gray,Unusual vocalization
+618,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.61,332.8,Hatchling,Male,31-08-2021,Tanzania,Rivers,Critically Endangered,Daniel Perez,Feeding on fish
+619,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.01,243.2,Hatchling,Female,20-06-2014,Guatemala,Small Streams,Critically Endangered,Leo Torres,Unusual vocalization
+620,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.54,217.1,Subadult,Male,14-05-2017,Cuba,Swamps,Critically Endangered,Daniel Perez,Unusual vocalization
+621,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.17,293.8,Adult,Unknown,02-09-2015,Cuba,Lakes,Critically Endangered,Avery Price,Nest building
+622,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.11,311.3,Juvenile,Male,01-12-2010,Indonesia,Swamps,Critically Endangered,Ella Cooper,Observed in shallow water
+623,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,1.96,181.2,Subadult,Male,12-09-2008,Sudan,Lakes,Critically Endangered,Nathan Ward,Observed in shallow water
+624,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.04,297.7,Adult,Male,30-11-2016,Guatemala,Swamps,Critically Endangered,Daniel Perez,Calm adult
+625,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.43,309.8,Subadult,Female,06-06-2012,Mexico,Swamps,Critically Endangered,Daniel Perez,Observed in shallow water
+626,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.8,205.1,Juvenile,Unknown,25-03-2018,Cuba,Lakes,Critically Endangered,Ella Cooper,Observed in shallow water
+627,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.48,321.0,Adult,Unknown,03-12-2019,Gabon,Swamps,Critically Endangered,Leo Torres,Unusual vocalization
+628,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.77,362.5,Adult,Male,04-02-2021,Cuba,Rivers,Critically Endangered,Scarlett Reed,Observed basking on rocks
+629,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.45,270.6,Juvenile,Unknown,14-06-2006,Thailand,Small Streams,Critically Endangered,Nathan Ward,Observed in shallow water
+630,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.74,222.6,Adult,Male,02-02-2016,Cuba,Lakes,Critically Endangered,Leo Torres,Calm adult
+631,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.2,301.9,Subadult,Unknown,16-12-2018,Vietnam,Lakes,Critically Endangered,Leo Torres,Tagged female
+632,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.45,260.8,Hatchling,Male,12-09-2022,Cuba,Coastal,Critically Endangered,Zoey Bell,Observed basking on rocks
+633,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.99,258.4,Hatchling,Female,16-12-2015,Cuba,Lakes,Critically Endangered,Avery Price,Observed in shallow water
+634,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.2,296.8,Hatchling,Unknown,20-06-2016,Thailand,Swamps,Critically Endangered,Zoey Bell,Active at dawn
+635,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.05,242.4,Juvenile,Female,29-03-2024,Cuba,Mangroves,Critically Endangered,Mason Gray,Calm adult
+636,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.26,230.3,Hatchling,Female,16-10-2007,Cuba,Lakes,Critically Endangered,Leo Torres,Feeding on fish
+637,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.25,311.1,Subadult,Male,10-09-2014,Liberia,Swamps,Critically Endangered,Leo Torres,Observed in shallow water
+638,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.67,212.5,Adult,Female,29-01-2006,Cuba,Lakes,Critically Endangered,Daniel Perez,Observed basking on rocks
+639,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.02,351.7,Hatchling,Unknown,31-01-2025,Venezuela,Lakes,Critically Endangered,Ella Cooper,Active at dawn
+640,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.68,241.5,Adult,Female,26-11-2024,Cuba,Lakes,Critically Endangered,Scarlett Reed,Tagged female
+641,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.3,324.6,Subadult,Male,05-04-2013,Cuba,Swamps,Critically Endangered,Scarlett Reed,Calm adult
+642,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.57,236.6,Adult,Unknown,04-05-2013,Cuba,Swamps,Critically Endangered,Ella Cooper,Observed in shallow water
+643,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.39,240.3,Adult,Unknown,11-01-2022,Cuba,Swamps,Critically Endangered,Nathan Ward,Active at dawn
+644,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.26,223.5,Subadult,Unknown,25-04-2014,Colombia,Lakes,Critically Endangered,Nathan Ward,Feeding on fish
+645,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.84,368.9,Juvenile,Male,17-04-2022,Cuba,Swamps,Critically Endangered,Scarlett Reed,Feeding on fish
+646,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.95,342.5,Subadult,Male,14-02-2019,Cambodia,Swamps,Critically Endangered,Avery Price,Calm adult
+647,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.52,210.4,Hatchling,Male,17-01-2013,Philippines,Swamps,Critically Endangered,Nathan Ward,Calm adult
+648,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.45,346.8,Hatchling,Male,03-08-2009,Cuba,Lakes,Critically Endangered,Avery Price,Nest building
+649,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.94,269.4,Juvenile,Female,05-09-2025,Cuba,Lakes,Critically Endangered,Ella Cooper,Observed in shallow water
+650,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.06,254.4,Hatchling,Female,01-01-2007,Cuba,Lakes,Critically Endangered,Ella Cooper,Calm adult
+651,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.85,210.5,Hatchling,Male,25-09-2019,Cuba,Lakes,Critically Endangered,Ella Cooper,Nest building
+652,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.34,187.5,Adult,Female,09-06-2014,Gabon,Swamps,Critically Endangered,Zoey Bell,Feeding on fish
+653,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.71,214.4,Hatchling,Unknown,15-01-2008,Cuba,Lakes,Critically Endangered,Nathan Ward,Unusual vocalization
+654,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.29,195.1,Adult,Female,13-12-2019,Thailand,Swamps,Critically Endangered,Avery Price,Observed in shallow water
+655,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.61,217.8,Adult,Unknown,31-07-2005,Cuba,Lakes,Critically Endangered,Scarlett Reed,Nest building
+656,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.79,204.2,Juvenile,Female,23-03-2008,Cuba,Swamps,Critically Endangered,Leo Torres,Tagged female
+657,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.27,184.4,Adult,Unknown,25-11-2019,Vietnam,Swamps,Critically Endangered,Mason Gray,Tagged female
+658,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.22,218.6,Hatchling,Male,16-09-2025,Cuba,Swamps,Critically Endangered,Nathan Ward,Observed in shallow water
+659,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.08,269.3,Subadult,Female,29-10-2021,Côte d'Ivoire,Mangroves,Critically Endangered,Zoey Bell,Observed in shallow water
+660,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.5,216.0,Adult,Female,03-05-2018,Cuba,Rivers,Critically Endangered,Leo Torres,Unusual vocalization
+661,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.68,300.8,Subadult,Female,09-02-2022,Belize,Lakes,Critically Endangered,Avery Price,Nest building
+662,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.8,368.7,Adult,Unknown,20-01-2025,Belize,Swamps,Critically Endangered,Ella Cooper,Feeding on fish
+663,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.7,239.4,Subadult,Male,25-01-2009,Cuba,Swamps,Critically Endangered,Daniel Perez,Tagged female
+664,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.25,228.1,Hatchling,Unknown,02-07-2011,Tanzania,Swamps,Critically Endangered,Zoey Bell,Observed in shallow water
+665,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.81,241.2,Adult,Male,08-05-2018,Cuba,Flooded Savannas,Critically Endangered,Nathan Ward,Unusual vocalization
+666,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.98,310.0,Subadult,Unknown,30-07-2007,Gabon,Coastal,Critically Endangered,Nathan Ward,Tagged female
+667,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.81,383.4,Subadult,Unknown,07-02-2015,Cuba,Lakes,Critically Endangered,Mason Gray,Observed in shallow water
+668,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.77,265.3,Adult,Male,10-08-2025,Tanzania,Lakes,Critically Endangered,Scarlett Reed,Nest building
+669,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.24,184.5,Adult,Unknown,16-07-2008,Tanzania,Swamps,Critically Endangered,Nathan Ward,Feeding on fish
+670,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.84,260.6,Hatchling,Unknown,15-12-2021,Cuba,Lakes,Critically Endangered,Leo Torres,Observed in shallow water
+671,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,1.91,154.6,Hatchling,Unknown,22-06-2022,Cuba,Swamps,Critically Endangered,Zoey Bell,Active at dawn
+672,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.5,260.6,Subadult,Female,23-09-2005,Thailand,Lakes,Critically Endangered,Avery Price,Observed basking on rocks
+673,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.15,231.2,Adult,Male,09-01-2008,Cuba,Swamps,Critically Endangered,Daniel Perez,Nest building
+674,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.26,286.9,Subadult,Male,31-08-2024,Gabon,Swamps,Critically Endangered,Avery Price,Tagged female
+675,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.2,333.2,Juvenile,Unknown,15-10-2020,Guatemala,Swamps,Critically Endangered,Nathan Ward,Calm adult
+676,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.47,289.9,Juvenile,Unknown,25-08-2022,Vietnam,Flooded Savannas,Critically Endangered,Leo Torres,Nest building
+677,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.4,191.1,Juvenile,Female,19-12-2023,Venezuela,Lakes,Critically Endangered,Scarlett Reed,Calm adult
+678,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.51,361.0,Hatchling,Unknown,01-06-2019,Mexico,Swamps,Critically Endangered,Mason Gray,Unusual vocalization
+679,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.24,321.3,Hatchling,Unknown,01-11-2006,Indonesia,Rivers,Critically Endangered,Zoey Bell,Tagged female
+680,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.56,208.8,Juvenile,Female,01-07-2011,Sudan,Rivers,Critically Endangered,Scarlett Reed,Nest building
+681,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.95,228.7,Adult,Female,02-03-2012,Thailand,Swamps,Critically Endangered,Daniel Perez,Tagged female
+682,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.35,357.9,Subadult,Male,06-02-2016,Philippines,Swamps,Critically Endangered,Avery Price,Observed in shallow water
+683,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.34,193.5,Adult,Male,24-10-2014,Venezuela,Estuaries,Critically Endangered,Daniel Perez,Observed in shallow water
+684,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,1.92,134.8,Adult,Unknown,27-04-2014,Cuba,Swamps,Critically Endangered,Leo Torres,Feeding on fish
+685,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.35,305.1,Juvenile,Female,27-05-2024,Cuba,Swamps,Critically Endangered,Avery Price,Nest building
+686,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.1,186.2,Juvenile,Female,23-11-2006,Sudan,Small Streams,Critically Endangered,Daniel Perez,Tagged female
+687,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.15,291.9,Subadult,Unknown,03-11-2009,Cuba,Rivers,Critically Endangered,Zoey Bell,Calm adult
+688,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.71,261.1,Hatchling,Female,09-12-2014,Gabon,Lakes,Critically Endangered,Ella Cooper,Nest building
+689,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.43,317.6,Subadult,Unknown,24-12-2012,Australia,Lakes,Critically Endangered,Leo Torres,Nest building
+690,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.82,266.4,Adult,Female,11-03-2025,Cuba,Estuaries,Critically Endangered,Ella Cooper,Observed in shallow water
+691,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.53,197.8,Subadult,Female,09-11-2016,Cuba,Coastal,Critically Endangered,Leo Torres,Feeding on fish
+692,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.32,200.8,Hatchling,Male,19-06-2011,Venezuela,Swamps,Critically Endangered,Nathan Ward,Active at dawn
+693,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.58,310.2,Adult,Female,23-04-2005,Belize,Swamps,Critically Endangered,Nathan Ward,Calm adult
+694,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.99,232.5,Juvenile,Unknown,20-05-2011,Colombia,Swamps,Critically Endangered,Zoey Bell,Unusual vocalization
+695,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.11,220.6,Hatchling,Unknown,03-06-2017,Australia,Lakes,Critically Endangered,Ella Cooper,Feeding on fish
+696,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.89,266.8,Subadult,Unknown,17-09-2022,Cuba,Lakes,Critically Endangered,Mason Gray,Nest building
+697,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.09,161.3,Adult,Male,13-08-2017,Cuba,Swamps,Critically Endangered,Daniel Perez,Calm adult
+698,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.41,321.3,Juvenile,Male,02-11-2012,Cuba,Lakes,Critically Endangered,Nathan Ward,Unusual vocalization
+699,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.82,277.1,Hatchling,Male,14-05-2021,Colombia,Swamps,Critically Endangered,Zoey Bell,Unusual vocalization
+700,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,1.78,145.8,Adult,Female,06-03-2019,Guatemala,Rivers,Critically Endangered,Ella Cooper,Observed in shallow water
+701,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.65,32.2,Adult,Male,26-08-2006,Indonesia,Estuaries,Vulnerable,Leo Torres,Active at dawn
+702,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.65,36.2,Hatchling,Male,14-01-2025,Cuba,Small Streams,Vulnerable,Zoey Bell,Nest building
+703,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.27,30.6,Hatchling,Male,19-07-2013,Côte d'Ivoire,Small Streams,Vulnerable,Mason Gray,Observed in shallow water
+704,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.41,27.3,Juvenile,Female,04-06-2007,Côte d'Ivoire,Small Streams,Vulnerable,Ella Cooper,Tagged female
+705,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,0.97,15.0,Subadult,Female,05-10-2022,Côte d'Ivoire,Lakes,Vulnerable,Mason Gray,Tagged female
+706,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.21,26.5,Juvenile,Male,05-01-2022,Guatemala,Forest Swamps,Vulnerable,Avery Price,Tagged female
+707,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.07,21.8,Adult,Male,10-02-2025,Liberia,Small Streams,Vulnerable,Scarlett Reed,Observed in shallow water
+708,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.42,25.6,Juvenile,Unknown,02-04-2025,Venezuela,Small Streams,Vulnerable,Scarlett Reed,Unusual vocalization
+709,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.23,29.8,Adult,Unknown,31-12-2005,Liberia,Swamps,Vulnerable,Mason Gray,Tagged female
+710,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.94,49.3,Adult,Female,04-07-2021,Côte d'Ivoire,Swamps,Vulnerable,Ella Cooper,Unusual vocalization
+711,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,0.98,19.1,Hatchling,Female,17-10-2014,Australia,Mangroves,Vulnerable,Mason Gray,Unusual vocalization
+712,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.65,34.2,Subadult,Female,24-08-2013,Côte d'Ivoire,Small Streams,Vulnerable,Nathan Ward,Nest building
+713,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.04,24.9,Subadult,Female,17-08-2006,Côte d'Ivoire,Forest Swamps,Vulnerable,Zoey Bell,Observed in shallow water
+714,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.54,28.5,Hatchling,Female,06-01-2014,Côte d'Ivoire,Small Streams,Vulnerable,Zoey Bell,Unusual vocalization
+715,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.23,28.9,Adult,Male,11-08-2009,Côte d'Ivoire,Forest Swamps,Vulnerable,Mason Gray,Active at dawn
+716,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.05,19.5,Juvenile,Female,17-07-2015,Liberia,Forest Swamps,Vulnerable,Ella Cooper,Tagged female
+717,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.6,35.3,Subadult,Unknown,19-10-2022,Belize,Small Streams,Vulnerable,Nathan Ward,Unusual vocalization
+718,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.31,26.7,Subadult,Female,14-08-2018,Gabon,Forest Swamps,Vulnerable,Daniel Perez,Observed basking on rocks
+719,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.89,44.4,Hatchling,Unknown,30-05-2012,Mexico,Small Streams,Vulnerable,Daniel Perez,Calm adult
+720,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.53,29.6,Adult,Male,25-03-2025,Côte d'Ivoire,Forest Swamps,Vulnerable,Daniel Perez,Observed basking on rocks
+721,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.74,47.1,Juvenile,Male,24-06-2009,Côte d'Ivoire,Rivers,Vulnerable,Nathan Ward,Observed in shallow water
+722,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.04,16.0,Subadult,Unknown,06-05-2023,Liberia,Small Streams,Vulnerable,Zoey Bell,Feeding on fish
+723,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.68,39.1,Subadult,Male,13-08-2006,Côte d'Ivoire,Rivers,Vulnerable,Nathan Ward,Observed in shallow water
+724,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.15,20.0,Subadult,Male,18-04-2024,Liberia,Forest Swamps,Vulnerable,Avery Price,Observed basking on rocks
+725,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.55,45.6,Subadult,Male,02-07-2011,Côte d'Ivoire,Small Streams,Vulnerable,Scarlett Reed,Active at dawn
+726,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.56,37.3,Juvenile,Male,05-12-2025,Côte d'Ivoire,Small Streams,Vulnerable,Avery Price,Observed basking on rocks
+727,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.28,18.2,Juvenile,Female,20-12-2005,Liberia,Forest Swamps,Vulnerable,Scarlett Reed,Feeding on fish
+728,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.91,33.8,Adult,Unknown,25-05-2005,Mexico,Swamps,Vulnerable,Scarlett Reed,Feeding on fish
+729,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.28,22.3,Adult,Unknown,16-11-2013,Guatemala,Forest Swamps,Vulnerable,Scarlett Reed,Observed in shallow water
+730,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.62,33.1,Juvenile,Male,12-07-2011,Philippines,Rivers,Vulnerable,Zoey Bell,Tagged female
+731,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.92,32.2,Juvenile,Unknown,27-05-2005,Guatemala,Small Streams,Vulnerable,Daniel Perez,Active at dawn
+732,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.46,28.1,Adult,Male,10-03-2019,Philippines,Forest Swamps,Vulnerable,Ella Cooper,Unusual vocalization
+733,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.29,34.8,Adult,Male,14-12-2016,Côte d'Ivoire,Forest Swamps,Vulnerable,Nathan Ward,Observed in shallow water
+734,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.51,32.3,Juvenile,Female,28-09-2010,Côte d'Ivoire,Rivers,Vulnerable,Zoey Bell,Observed basking on rocks
+735,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.44,29.2,Subadult,Male,18-05-2019,Gabon,Small Streams,Vulnerable,Nathan Ward,Calm adult
+736,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.83,43.2,Juvenile,Unknown,18-01-2011,Liberia,Lakes,Vulnerable,Scarlett Reed,Nest building
+737,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.51,30.0,Subadult,Unknown,20-05-2005,Gabon,Estuaries,Vulnerable,Mason Gray,Observed in shallow water
+738,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.18,31.8,Hatchling,Unknown,23-03-2009,Australia,Forest Swamps,Vulnerable,Nathan Ward,Tagged female
+739,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.48,29.7,Hatchling,Female,30-04-2009,Gabon,Small Streams,Vulnerable,Daniel Perez,Nest building
+740,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.8,52.0,Hatchling,Female,06-02-2014,Gabon,Forest Swamps,Vulnerable,Zoey Bell,Observed basking on rocks
+741,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.25,34.2,Juvenile,Male,27-02-2023,Gabon,Small Streams,Vulnerable,Scarlett Reed,Active at dawn
+742,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.7,40.7,Juvenile,Male,17-08-2007,Côte d'Ivoire,Small Streams,Vulnerable,Scarlett Reed,Observed basking on rocks
+743,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.65,26.9,Adult,Male,04-07-2018,Liberia,Forest Swamps,Vulnerable,Mason Gray,Observed in shallow water
+744,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.86,36.9,Hatchling,Male,16-11-2023,Gabon,Forest Swamps,Vulnerable,Avery Price,Calm adult
+745,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.19,21.0,Subadult,Male,02-08-2015,Venezuela,Small Streams,Vulnerable,Scarlett Reed,Nest building
+746,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.63,25.8,Adult,Female,13-03-2007,Côte d'Ivoire,Rivers,Vulnerable,Zoey Bell,Calm adult
+747,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.6,33.0,Adult,Female,15-12-2014,Côte d'Ivoire,Small Streams,Vulnerable,Mason Gray,Observed basking on rocks
+748,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.7,29.3,Adult,Unknown,31-12-2018,Gabon,Forest Swamps,Vulnerable,Leo Torres,Observed in shallow water
+749,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.22,22.6,Juvenile,Male,16-09-2015,Liberia,Coastal,Vulnerable,Nathan Ward,Observed in shallow water
+750,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.05,23.4,Subadult,Female,21-11-2024,Gabon,Small Streams,Vulnerable,Mason Gray,Calm adult
+751,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.25,30.4,Subadult,Male,11-11-2017,Liberia,Small Streams,Vulnerable,Zoey Bell,Calm adult
+752,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.79,47.4,Hatchling,Male,14-09-2010,Liberia,Small Streams,Vulnerable,Zoey Bell,Observed basking on rocks
+753,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,0.98,15.7,Hatchling,Male,02-08-2019,Liberia,Small Streams,Vulnerable,Zoey Bell,Observed basking on rocks
+754,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.62,36.6,Hatchling,Female,22-08-2008,Liberia,Swamps,Vulnerable,Zoey Bell,Nest building
+755,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.88,48.3,Hatchling,Unknown,07-06-2006,Gabon,Forest Swamps,Vulnerable,Avery Price,Unusual vocalization
+756,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.54,24.9,Subadult,Male,05-10-2007,Cambodia,Forest Swamps,Vulnerable,Scarlett Reed,Unusual vocalization
+757,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.28,36.4,Adult,Female,07-09-2024,Liberia,Small Streams,Vulnerable,Mason Gray,Calm adult
+758,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.43,27.9,Adult,Female,01-11-2007,Côte d'Ivoire,Forest Swamps,Vulnerable,Nathan Ward,Observed basking on rocks
+759,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.55,33.5,Subadult,Unknown,04-05-2008,Gabon,Rivers,Vulnerable,Daniel Perez,Unusual vocalization
+760,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.9,40.3,Subadult,Male,28-01-2022,Philippines,Small Streams,Vulnerable,Daniel Perez,Observed basking on rocks
+761,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,2.1,40.9,Subadult,Male,27-02-2007,Liberia,Small Streams,Vulnerable,Daniel Perez,Tagged female
+762,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.79,29.8,Juvenile,Unknown,12-05-2007,Gabon,Swamps,Vulnerable,Zoey Bell,Tagged female
+763,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.52,28.6,Subadult,Female,09-10-2021,Mexico,Rivers,Vulnerable,Scarlett Reed,Active at dawn
+764,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.75,32.1,Subadult,Unknown,05-04-2024,Gabon,Rivers,Vulnerable,Mason Gray,Unusual vocalization
+765,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.22,25.4,Adult,Male,10-09-2014,Côte d'Ivoire,Coastal,Vulnerable,Leo Torres,Active at dawn
+766,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.3,22.9,Adult,Female,04-02-2006,Gabon,Forest Swamps,Vulnerable,Mason Gray,Active at dawn
+767,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.74,35.6,Adult,Unknown,02-11-2017,Liberia,Rivers,Vulnerable,Leo Torres,Unusual vocalization
+768,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.28,24.0,Subadult,Male,08-06-2018,Gabon,Rivers,Vulnerable,Avery Price,Tagged female
+769,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.61,23.8,Hatchling,Female,11-08-2009,Côte d'Ivoire,Coastal,Vulnerable,Ella Cooper,Unusual vocalization
+770,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.48,34.7,Adult,Male,04-08-2021,Gabon,Coastal,Vulnerable,Leo Torres,Active at dawn
+771,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.47,28.9,Hatchling,Male,14-05-2008,Colombia,Forest Swamps,Vulnerable,Nathan Ward,Tagged female
+772,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,0.89,18.2,Juvenile,Female,02-10-2013,Côte d'Ivoire,Forest Swamps,Vulnerable,Leo Torres,Tagged female
+773,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.4,28.5,Hatchling,Female,03-12-2008,Gabon,Small Streams,Vulnerable,Leo Torres,Observed basking on rocks
+774,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.33,22.7,Juvenile,Male,10-07-2009,Vietnam,Small Streams,Vulnerable,Avery Price,Tagged female
+775,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.32,28.4,Juvenile,Male,31-08-2018,Liberia,Small Streams,Vulnerable,Mason Gray,Feeding on fish
+776,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.79,38.6,Hatchling,Unknown,25-11-2020,Gabon,Small Streams,Vulnerable,Mason Gray,Feeding on fish
+777,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.69,37.0,Juvenile,Unknown,04-02-2023,Côte d'Ivoire,Small Streams,Vulnerable,Zoey Bell,Observed in shallow water
+778,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.18,27.0,Juvenile,Female,24-09-2009,Côte d'Ivoire,Coastal,Vulnerable,Leo Torres,Observed in shallow water
+779,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.65,31.8,Hatchling,Male,11-03-2012,Liberia,Forest Swamps,Vulnerable,Nathan Ward,Observed basking on rocks
+780,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.52,36.7,Juvenile,Female,27-02-2022,Liberia,Small Streams,Vulnerable,Zoey Bell,Feeding on fish
+781,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.06,15.9,Juvenile,Male,17-02-2008,Gabon,Forest Swamps,Vulnerable,Ella Cooper,Feeding on fish
+782,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.79,33.9,Adult,Male,25-03-2022,Côte d'Ivoire,Small Streams,Vulnerable,Mason Gray,Nest building
+783,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.73,32.1,Juvenile,Female,11-11-2018,Gabon,Small Streams,Vulnerable,Ella Cooper,Observed basking on rocks
+784,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,0.95,15.1,Hatchling,Unknown,23-02-2005,Côte d'Ivoire,Rivers,Vulnerable,Daniel Perez,Tagged female
+785,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.96,41.6,Juvenile,Unknown,26-01-2005,Gabon,Swamps,Vulnerable,Daniel Perez,Tagged female
+786,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.39,27.1,Juvenile,Male,28-12-2014,Côte d'Ivoire,Forest Swamps,Vulnerable,Zoey Bell,Unusual vocalization
+787,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.75,35.1,Hatchling,Male,13-03-2012,Gabon,Small Streams,Vulnerable,Daniel Perez,Observed in shallow water
+788,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.3,31.4,Hatchling,Unknown,13-08-2005,Gabon,Forest Swamps,Vulnerable,Ella Cooper,Nest building
+789,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,0.97,17.5,Juvenile,Female,24-07-2016,Gabon,Lakes,Vulnerable,Leo Torres,Observed in shallow water
+790,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.33,32.0,Juvenile,Unknown,30-09-2005,Liberia,Forest Swamps,Vulnerable,Leo Torres,Active at dawn
+791,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,2.01,55.1,Hatchling,Male,08-11-2017,Philippines,Forest Swamps,Vulnerable,Nathan Ward,Calm adult
+792,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,0.97,18.8,Juvenile,Female,11-08-2009,Gabon,Forest Swamps,Vulnerable,Nathan Ward,Nest building
+793,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.69,35.9,Adult,Unknown,26-02-2019,Colombia,Forest Swamps,Vulnerable,Daniel Perez,Active at dawn
+794,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.69,33.5,Juvenile,Male,12-09-2015,Liberia,Small Streams,Vulnerable,Ella Cooper,Observed basking on rocks
+795,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,2.04,37.7,Subadult,Female,21-06-2010,Côte d'Ivoire,Mangroves,Vulnerable,Ella Cooper,Observed in shallow water
+796,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,2.02,49.1,Hatchling,Female,26-01-2021,Gabon,Swamps,Vulnerable,Daniel Perez,Calm adult
+797,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.42,40.4,Hatchling,Unknown,02-10-2012,Liberia,Forest Swamps,Vulnerable,Leo Torres,Active at dawn
+798,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.59,46.9,Subadult,Female,21-03-2012,Liberia,Small Streams,Vulnerable,Scarlett Reed,Observed in shallow water
+799,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.7,35.3,Subadult,Female,28-02-2009,Liberia,Small Streams,Vulnerable,Zoey Bell,Observed in shallow water
+800,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.18,20.6,Subadult,Female,12-11-2015,Gabon,Forest Swamps,Vulnerable,Mason Gray,Active at dawn

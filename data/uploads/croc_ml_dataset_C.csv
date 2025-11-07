@@ -1,0 +1,801 @@
+Observation ID,Common Name,Scientific Name,Family,Genus,Observed Length (m),Observed Weight (kg),Age Class,Sex,Date of Observation,Country/Region,Habitat Type,Conservation Status,Observer Name,Notes
+1,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.12,643.6,Juvenile,Male,26-07-2011,Australia,Coastal,Least Concern,James Rivera,Active in rain
+2,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.69,648.1,Hatchling,Female,05-06-2025,Indonesia,Rivers,Least Concern,William Brooks,Active in rain
+3,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.38,361.3,Hatchling,Unknown,15-07-2011,Australia,Estuaries,Least Concern,Evelyn Scott,Active in rain
+4,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.85,618.9,Juvenile,Male,26-07-2011,Indonesia,Rivers,Least Concern,James Rivera,Resting on shore
+5,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.51,448.1,Juvenile,Unknown,05-04-2006,Indonesia,Rivers,Least Concern,Grace Turner,Tagged specimen
+6,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.38,646.3,Adult,Male,14-11-2013,Philippines,Estuaries,Least Concern,Oliver Carter,In flooded grassland
+7,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.21,774.8,Juvenile,Male,14-07-2007,Indonesia,Estuaries,Least Concern,Henry Adams,Resting on shore
+8,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.58,492.8,Subadult,Unknown,05-08-2025,Australia,Coastal,Least Concern,Grace Turner,Resting on shore
+9,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.38,418.1,Juvenile,Male,27-06-2014,Indonesia,Coastal,Least Concern,James Rivera,In flooded grassland
+10,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.56,572.5,Adult,Female,27-03-2021,Australia,Rivers,Least Concern,Henry Adams,Observed hunting
+11,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.19,730.3,Subadult,Unknown,29-07-2025,Indonesia,Rivers,Least Concern,Grace Turner,In flooded grassland
+12,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.16,642.9,Subadult,Female,13-04-2011,Australia,Rivers,Least Concern,Evelyn Scott,Near nesting area
+13,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.46,413.8,Hatchling,Unknown,14-11-2025,Indonesia,Estuaries,Least Concern,Oliver Carter,Tagged specimen
+14,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.87,602.0,Hatchling,Female,19-07-2011,Australia,Coastal,Least Concern,Luna Parker,Near nesting area
+15,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.44,785.8,Hatchling,Unknown,08-09-2024,Indonesia,Rivers,Least Concern,Evelyn Scott,Observed hunting
+16,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.23,457.5,Hatchling,Female,23-09-2010,Indonesia,Rivers,Least Concern,Henry Adams,Observed during night
+17,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.57,696.3,Adult,Female,16-01-2025,Australia,Estuaries,Least Concern,William Brooks,Near nesting area
+18,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.32,473.4,Hatchling,Female,21-07-2016,Australia,Rivers,Least Concern,Oliver Carter,Active in rain
+19,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.34,732.2,Juvenile,Male,03-01-2019,Indonesia,Coastal,Least Concern,Evelyn Scott,Near nesting area
+20,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.11,516.5,Subadult,Female,21-06-2007,Philippines,Estuaries,Least Concern,James Rivera,Active in rain
+21,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.26,725.0,Juvenile,Female,23-09-2022,Indonesia,Coastal,Least Concern,Henry Adams,In flooded grassland
+22,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.61,400.6,Juvenile,Female,27-09-2020,Indonesia,Rivers,Least Concern,Henry Adams,In flooded grassland
+23,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.75,557.5,Adult,Male,29-11-2006,Philippines,Estuaries,Least Concern,James Rivera,In flooded grassland
+24,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.52,443.8,Juvenile,Unknown,20-06-2009,Indonesia,Rivers,Least Concern,Amelia Nelson,In flooded grassland
+25,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.93,435.0,Hatchling,Female,11-01-2017,Indonesia,Estuaries,Least Concern,Oliver Carter,Tagged specimen
+26,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.1,547.8,Subadult,Female,04-05-2012,Indonesia,Coastal,Least Concern,James Rivera,Resting on shore
+27,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.48,563.5,Juvenile,Female,28-07-2008,Australia,Coastal,Least Concern,Luna Parker,In flooded grassland
+28,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.08,548.8,Subadult,Unknown,21-12-2005,Indonesia,Estuaries,Least Concern,Henry Adams,Tagged specimen
+29,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.99,738.5,Adult,Unknown,28-06-2024,Philippines,Estuaries,Least Concern,Oliver Carter,Observed during night
+30,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.88,544.3,Subadult,Male,14-07-2008,Australia,Coastal,Least Concern,James Rivera,Resting on shore
+31,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.98,725.4,Juvenile,Female,08-02-2012,Indonesia,Rivers,Least Concern,Henry Adams,Tagged specimen
+32,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.65,391.1,Juvenile,Unknown,25-04-2013,Australia,Estuaries,Least Concern,Grace Turner,In flooded grassland
+33,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.22,779.2,Juvenile,Male,02-01-2017,Indonesia,Estuaries,Least Concern,James Rivera,Resting on shore
+34,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.92,675.3,Juvenile,Unknown,27-05-2024,Indonesia,Estuaries,Least Concern,Amelia Nelson,Active in rain
+35,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.72,453.7,Hatchling,Unknown,25-07-2011,Indonesia,Coastal,Least Concern,Amelia Nelson,Tagged specimen
+36,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.76,487.8,Adult,Male,09-01-2005,Indonesia,Rivers,Least Concern,Evelyn Scott,Observed during night
+37,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.94,473.8,Juvenile,Unknown,27-03-2024,Australia,Coastal,Least Concern,Grace Turner,Resting on shore
+38,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.55,673.5,Hatchling,Female,28-07-2021,Philippines,Coastal,Least Concern,James Rivera,Active in rain
+39,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.54,550.7,Adult,Male,15-03-2020,Indonesia,Rivers,Least Concern,James Rivera,Near nesting area
+40,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.28,506.0,Adult,Female,07-04-2022,Philippines,Estuaries,Least Concern,James Rivera,In flooded grassland
+41,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.25,458.9,Adult,Unknown,03-03-2024,Indonesia,Rivers,Least Concern,Oliver Carter,Observed hunting
+42,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.56,730.8,Subadult,Male,15-08-2008,Australia,Rivers,Least Concern,Grace Turner,Resting on shore
+43,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.72,381.8,Juvenile,Female,31-12-2018,Indonesia,Estuaries,Least Concern,Oliver Carter,Resting on shore
+44,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.37,407.1,Juvenile,Unknown,11-10-2020,Australia,Estuaries,Least Concern,Evelyn Scott,Active in rain
+45,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.93,587.7,Juvenile,Female,15-02-2006,Philippines,Rivers,Least Concern,Henry Adams,Tagged specimen
+46,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.53,428.1,Subadult,Male,18-09-2021,Australia,Coastal,Least Concern,Henry Adams,Observed during night
+47,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.62,539.7,Hatchling,Male,21-04-2016,Australia,Estuaries,Least Concern,Evelyn Scott,Resting on shore
+48,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.15,784.5,Subadult,Female,28-05-2025,Indonesia,Coastal,Least Concern,William Brooks,Active in rain
+49,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.92,505.2,Subadult,Female,21-05-2016,Australia,Coastal,Least Concern,Oliver Carter,Tagged specimen
+50,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.0,669.2,Subadult,Unknown,14-01-2014,Australia,Coastal,Least Concern,James Rivera,Near nesting area
+51,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.98,602.1,Adult,Unknown,09-09-2013,Indonesia,Rivers,Least Concern,Grace Turner,Observed hunting
+52,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.5,555.1,Adult,Unknown,11-02-2008,Australia,Coastal,Least Concern,Luna Parker,In flooded grassland
+53,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.56,754.0,Adult,Unknown,21-06-2012,Australia,Estuaries,Least Concern,Grace Turner,Resting on shore
+54,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.37,376.5,Hatchling,Male,10-03-2023,Australia,Estuaries,Least Concern,Evelyn Scott,Resting on shore
+55,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.35,511.9,Subadult,Unknown,27-09-2021,Australia,Coastal,Least Concern,Luna Parker,Observed during night
+56,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.2,694.5,Subadult,Male,25-06-2023,Indonesia,Estuaries,Least Concern,Amelia Nelson,Active in rain
+57,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.36,491.0,Hatchling,Unknown,12-08-2020,Indonesia,Coastal,Least Concern,Oliver Carter,Observed hunting
+58,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.6,366.3,Adult,Unknown,26-12-2020,Indonesia,Coastal,Least Concern,Oliver Carter,Observed during night
+59,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.13,593.2,Hatchling,Unknown,30-05-2023,Indonesia,Coastal,Least Concern,Oliver Carter,Near nesting area
+60,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.41,566.9,Subadult,Unknown,03-01-2006,Indonesia,Coastal,Least Concern,Amelia Nelson,Observed hunting
+61,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.46,373.2,Juvenile,Unknown,26-04-2020,Australia,Estuaries,Least Concern,Evelyn Scott,Observed hunting
+62,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.84,653.0,Adult,Female,12-07-2014,Australia,Rivers,Least Concern,Henry Adams,Observed hunting
+63,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.55,787.5,Hatchling,Unknown,11-09-2022,Indonesia,Rivers,Least Concern,Henry Adams,Resting on shore
+64,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.25,809.0,Hatchling,Female,19-02-2024,Philippines,Rivers,Least Concern,Grace Turner,Active in rain
+65,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.42,377.8,Subadult,Unknown,10-12-2009,Philippines,Coastal,Least Concern,Henry Adams,Near nesting area
+66,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.37,752.6,Juvenile,Male,02-05-2024,Indonesia,Coastal,Least Concern,Luna Parker,Active in rain
+67,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.76,423.6,Subadult,Male,15-02-2007,Indonesia,Rivers,Least Concern,Henry Adams,Calm juvenile
+68,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.8,598.1,Adult,Unknown,14-05-2024,Australia,Estuaries,Least Concern,William Brooks,Observed during night
+69,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.88,615.3,Adult,Unknown,10-06-2024,Philippines,Estuaries,Least Concern,Henry Adams,Active in rain
+70,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.1,648.6,Juvenile,Female,15-10-2025,Australia,Rivers,Least Concern,Oliver Carter,In flooded grassland
+71,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.82,540.1,Hatchling,Male,06-05-2021,Indonesia,Estuaries,Least Concern,Luna Parker,Resting on shore
+72,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.0,603.7,Juvenile,Female,12-09-2014,Indonesia,Coastal,Least Concern,Luna Parker,Active in rain
+73,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.43,833.9,Juvenile,Female,09-06-2019,Australia,Rivers,Least Concern,Luna Parker,Near nesting area
+74,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.26,500.6,Juvenile,Unknown,25-07-2025,Philippines,Coastal,Least Concern,Evelyn Scott,Active in rain
+75,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.88,510.3,Hatchling,Male,03-04-2012,Philippines,Rivers,Least Concern,William Brooks,Active in rain
+76,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.31,700.9,Adult,Female,25-08-2011,Philippines,Rivers,Least Concern,Evelyn Scott,Observed hunting
+77,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.71,420.1,Hatchling,Female,29-08-2005,Indonesia,Rivers,Least Concern,Henry Adams,Calm juvenile
+78,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.45,671.9,Adult,Unknown,26-01-2018,Philippines,Estuaries,Least Concern,Oliver Carter,Near nesting area
+79,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.44,681.3,Subadult,Male,26-12-2016,Philippines,Estuaries,Least Concern,James Rivera,Near nesting area
+80,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.31,390.9,Adult,Male,05-04-2006,Philippines,Rivers,Least Concern,William Brooks,Observed during night
+81,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.41,702.1,Juvenile,Unknown,12-01-2015,Philippines,Estuaries,Least Concern,James Rivera,Tagged specimen
+82,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.71,452.4,Hatchling,Male,24-03-2018,Indonesia,Coastal,Least Concern,Oliver Carter,Observed during night
+83,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.93,518.3,Hatchling,Male,10-06-2019,Australia,Estuaries,Least Concern,Luna Parker,Observed during night
+84,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.11,685.8,Subadult,Male,24-01-2009,Australia,Estuaries,Least Concern,Amelia Nelson,Observed hunting
+85,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.88,675.9,Hatchling,Female,09-10-2008,Australia,Coastal,Least Concern,Evelyn Scott,Observed during night
+86,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.45,614.2,Juvenile,Female,14-08-2022,Australia,Coastal,Least Concern,Amelia Nelson,In flooded grassland
+87,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.58,795.6,Adult,Female,14-05-2010,Philippines,Rivers,Least Concern,James Rivera,Calm juvenile
+88,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.59,550.3,Hatchling,Unknown,08-02-2022,Philippines,Estuaries,Least Concern,Grace Turner,Calm juvenile
+89,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.46,385.5,Adult,Unknown,05-06-2022,Indonesia,Estuaries,Least Concern,James Rivera,Calm juvenile
+90,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.02,441.8,Subadult,Unknown,26-10-2011,Philippines,Coastal,Least Concern,Grace Turner,Tagged specimen
+91,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.36,734.1,Adult,Unknown,17-08-2014,Australia,Estuaries,Least Concern,Luna Parker,Tagged specimen
+92,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.48,700.4,Subadult,Unknown,13-06-2009,Indonesia,Rivers,Least Concern,Grace Turner,Observed hunting
+93,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.01,518.7,Adult,Unknown,03-08-2008,Indonesia,Rivers,Least Concern,Luna Parker,Active in rain
+94,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.86,562.5,Subadult,Male,17-06-2008,Philippines,Rivers,Least Concern,Evelyn Scott,Active in rain
+95,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.47,653.5,Subadult,Male,27-07-2008,Australia,Rivers,Least Concern,Luna Parker,Observed hunting
+96,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.47,549.3,Adult,Unknown,27-06-2020,Philippines,Coastal,Least Concern,William Brooks,Observed during night
+97,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.06,566.9,Hatchling,Female,02-03-2021,Philippines,Estuaries,Least Concern,Evelyn Scott,Resting on shore
+98,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.87,501.5,Hatchling,Male,09-04-2015,Australia,Rivers,Least Concern,Oliver Carter,Calm juvenile
+99,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.32,724.9,Hatchling,Unknown,27-06-2015,Indonesia,Coastal,Least Concern,James Rivera,Observed hunting
+100,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.1,523.8,Subadult,Female,30-03-2019,Australia,Rivers,Least Concern,William Brooks,Observed during night
+101,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.59,388.8,Juvenile,Female,17-07-2017,Sudan,Lakes,Least Concern,William Brooks,Near nesting area
+102,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.29,480.5,Hatchling,Female,14-09-2012,Tanzania,Swamps,Least Concern,Evelyn Scott,Resting on shore
+103,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.76,516.9,Juvenile,Male,15-02-2008,Sudan,Lakes,Least Concern,James Rivera,Calm juvenile
+104,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.82,309.2,Juvenile,Female,01-12-2018,Tanzania,Rivers,Least Concern,William Brooks,Observed hunting
+105,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.37,384.4,Juvenile,Male,25-09-2019,Sudan,Rivers,Least Concern,William Brooks,Observed during night
+106,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.14,468.7,Juvenile,Female,30-04-2023,Kenya,Lakes,Least Concern,Grace Turner,Resting on shore
+107,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.99,414.4,Subadult,Male,09-07-2020,Kenya,Rivers,Least Concern,Evelyn Scott,Tagged specimen
+108,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.33,368.6,Subadult,Female,25-07-2011,Tanzania,Swamps,Least Concern,William Brooks,Near nesting area
+109,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.82,304.5,Hatchling,Unknown,17-03-2010,Sudan,Swamps,Least Concern,William Brooks,Near nesting area
+110,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.56,527.7,Subadult,Female,14-12-2021,Kenya,Lakes,Least Concern,Oliver Carter,Active in rain
+111,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.88,370.2,Adult,Male,13-03-2017,Kenya,Rivers,Least Concern,Henry Adams,In flooded grassland
+112,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.93,489.2,Hatchling,Male,22-12-2023,Kenya,Lakes,Least Concern,Henry Adams,Tagged specimen
+113,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.71,418.5,Juvenile,Female,10-10-2010,Kenya,Swamps,Least Concern,Henry Adams,Resting on shore
+114,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.05,322.3,Hatchling,Unknown,29-07-2022,Kenya,Swamps,Least Concern,James Rivera,In flooded grassland
+115,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.66,301.4,Juvenile,Male,15-07-2018,Sudan,Lakes,Least Concern,Luna Parker,Observed hunting
+116,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.47,308.7,Subadult,Male,11-10-2014,Tanzania,Swamps,Least Concern,James Rivera,Observed during night
+117,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.24,363.3,Juvenile,Male,05-07-2025,Kenya,Swamps,Least Concern,Luna Parker,Active in rain
+118,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.01,455.2,Subadult,Male,27-07-2023,Sudan,Rivers,Least Concern,Evelyn Scott,Calm juvenile
+119,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.63,408.3,Subadult,Unknown,01-06-2008,Sudan,Swamps,Least Concern,Evelyn Scott,Resting on shore
+120,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.8,456.6,Subadult,Male,08-04-2024,Kenya,Lakes,Least Concern,Amelia Nelson,Resting on shore
+121,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.66,342.4,Juvenile,Female,11-02-2013,Sudan,Lakes,Least Concern,William Brooks,Active in rain
+122,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.7,502.2,Hatchling,Unknown,06-06-2012,Tanzania,Rivers,Least Concern,Grace Turner,Observed during night
+123,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.07,502.8,Juvenile,Unknown,17-09-2011,Sudan,Rivers,Least Concern,Oliver Carter,In flooded grassland
+124,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.93,314.3,Juvenile,Unknown,16-02-2018,Sudan,Rivers,Least Concern,James Rivera,Active in rain
+125,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.29,427.7,Adult,Male,29-04-2020,Kenya,Rivers,Least Concern,Henry Adams,Active in rain
+126,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.96,457.5,Adult,Male,24-03-2024,Kenya,Rivers,Least Concern,Amelia Nelson,Near nesting area
+127,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.9,454.1,Hatchling,Unknown,17-04-2016,Tanzania,Rivers,Least Concern,James Rivera,Observed hunting
+128,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.84,416.2,Juvenile,Female,21-09-2017,Sudan,Swamps,Least Concern,Henry Adams,Tagged specimen
+129,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.96,401.0,Hatchling,Male,19-01-2013,Kenya,Lakes,Least Concern,Amelia Nelson,Active in rain
+130,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.31,322.8,Hatchling,Female,13-05-2024,Kenya,Lakes,Least Concern,Oliver Carter,Observed during night
+131,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.17,436.4,Hatchling,Male,29-05-2022,Sudan,Rivers,Least Concern,Luna Parker,Observed hunting
+132,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.26,439.2,Subadult,Unknown,07-10-2012,Sudan,Rivers,Least Concern,Evelyn Scott,Resting on shore
+133,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.62,291.9,Hatchling,Male,20-07-2019,Kenya,Lakes,Least Concern,Evelyn Scott,Calm juvenile
+134,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.43,308.9,Adult,Unknown,21-06-2020,Sudan,Lakes,Least Concern,James Rivera,Tagged specimen
+135,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.73,313.0,Juvenile,Male,10-09-2022,Tanzania,Swamps,Least Concern,Luna Parker,Near nesting area
+136,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.04,490.9,Juvenile,Female,14-11-2008,Tanzania,Swamps,Least Concern,Henry Adams,Observed during night
+137,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.05,268.7,Subadult,Female,08-05-2006,Sudan,Rivers,Least Concern,Henry Adams,Calm juvenile
+138,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.69,281.1,Juvenile,Female,09-11-2022,Sudan,Swamps,Least Concern,Oliver Carter,Resting on shore
+139,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.22,364.6,Hatchling,Unknown,04-09-2013,Sudan,Swamps,Least Concern,Henry Adams,In flooded grassland
+140,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.67,495.1,Hatchling,Unknown,24-09-2020,Sudan,Swamps,Least Concern,James Rivera,Observed hunting
+141,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.12,278.6,Subadult,Unknown,27-11-2015,Kenya,Swamps,Least Concern,Luna Parker,Active in rain
+142,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.31,612.8,Hatchling,Female,03-09-2020,Kenya,Rivers,Least Concern,Henry Adams,Observed during night
+143,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.82,521.2,Adult,Male,13-01-2011,Kenya,Rivers,Least Concern,William Brooks,Observed during night
+144,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.08,368.9,Hatchling,Male,11-11-2009,Tanzania,Lakes,Least Concern,James Rivera,Observed during night
+145,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.33,329.3,Hatchling,Unknown,10-12-2010,Sudan,Swamps,Least Concern,Grace Turner,Tagged specimen
+146,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.69,337.4,Juvenile,Unknown,14-11-2013,Tanzania,Lakes,Least Concern,William Brooks,Tagged specimen
+147,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.85,417.8,Adult,Female,04-10-2006,Sudan,Lakes,Least Concern,Oliver Carter,Active in rain
+148,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.24,424.1,Adult,Male,27-12-2023,Sudan,Swamps,Least Concern,Luna Parker,Observed hunting
+149,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.23,518.6,Adult,Female,19-09-2025,Sudan,Swamps,Least Concern,James Rivera,Observed hunting
+150,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.9,438.0,Adult,Male,22-05-2009,Kenya,Rivers,Least Concern,James Rivera,Calm juvenile
+151,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.29,513.4,Juvenile,Unknown,13-09-2019,Tanzania,Rivers,Least Concern,Grace Turner,In flooded grassland
+152,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.6,303.0,Juvenile,Female,08-07-2014,Kenya,Lakes,Least Concern,Oliver Carter,Observed hunting
+153,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.09,334.1,Adult,Female,23-06-2022,Sudan,Rivers,Least Concern,Henry Adams,Calm juvenile
+154,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.37,591.3,Subadult,Unknown,01-02-2010,Kenya,Rivers,Least Concern,Henry Adams,In flooded grassland
+155,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.48,362.5,Subadult,Female,11-08-2005,Sudan,Lakes,Least Concern,Grace Turner,In flooded grassland
+156,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.61,251.5,Adult,Male,09-11-2009,Tanzania,Lakes,Least Concern,Luna Parker,Observed hunting
+157,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.74,499.1,Juvenile,Female,08-05-2021,Sudan,Lakes,Least Concern,Oliver Carter,Near nesting area
+158,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.95,354.4,Juvenile,Unknown,27-04-2018,Sudan,Swamps,Least Concern,Henry Adams,Resting on shore
+159,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.74,302.2,Juvenile,Female,12-06-2006,Kenya,Swamps,Least Concern,Evelyn Scott,Calm juvenile
+160,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.96,274.4,Hatchling,Male,09-03-2017,Tanzania,Rivers,Least Concern,James Rivera,Resting on shore
+161,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.55,505.9,Juvenile,Male,18-12-2006,Kenya,Rivers,Least Concern,Henry Adams,Active in rain
+162,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.93,504.4,Hatchling,Female,04-07-2012,Kenya,Swamps,Least Concern,James Rivera,Calm juvenile
+163,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.05,347.8,Adult,Unknown,19-06-2018,Kenya,Swamps,Least Concern,Evelyn Scott,Tagged specimen
+164,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.37,529.9,Hatchling,Male,06-04-2011,Sudan,Lakes,Least Concern,Luna Parker,Tagged specimen
+165,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.19,357.4,Hatchling,Male,15-09-2014,Tanzania,Rivers,Least Concern,Henry Adams,Active in rain
+166,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.92,457.8,Adult,Male,15-02-2007,Tanzania,Lakes,Least Concern,Luna Parker,Observed hunting
+167,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.89,306.1,Subadult,Female,07-05-2023,Kenya,Lakes,Least Concern,Amelia Nelson,In flooded grassland
+168,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.21,483.1,Juvenile,Female,01-07-2025,Tanzania,Lakes,Least Concern,Henry Adams,Near nesting area
+169,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.92,275.1,Hatchling,Female,24-11-2016,Tanzania,Swamps,Least Concern,Amelia Nelson,Observed during night
+170,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.83,525.8,Hatchling,Female,28-01-2016,Sudan,Lakes,Least Concern,William Brooks,Observed hunting
+171,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.85,462.0,Juvenile,Unknown,13-05-2009,Sudan,Lakes,Least Concern,Luna Parker,Near nesting area
+172,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.47,368.0,Subadult,Female,22-12-2017,Kenya,Swamps,Least Concern,Evelyn Scott,Observed during night
+173,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.64,405.1,Adult,Unknown,31-08-2008,Sudan,Rivers,Least Concern,William Brooks,Calm juvenile
+174,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.03,344.0,Subadult,Unknown,12-06-2014,Tanzania,Rivers,Least Concern,Oliver Carter,Near nesting area
+175,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.9,325.6,Juvenile,Male,06-06-2025,Tanzania,Rivers,Least Concern,William Brooks,Tagged specimen
+176,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.93,562.2,Juvenile,Female,05-07-2017,Sudan,Swamps,Least Concern,Henry Adams,Calm juvenile
+177,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.94,306.5,Juvenile,Unknown,20-03-2009,Sudan,Rivers,Least Concern,Luna Parker,Observed during night
+178,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.63,484.5,Subadult,Female,17-10-2010,Sudan,Swamps,Least Concern,Henry Adams,Observed hunting
+179,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.29,378.6,Hatchling,Female,27-09-2013,Kenya,Rivers,Least Concern,Oliver Carter,Observed during night
+180,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.42,445.8,Adult,Unknown,02-11-2019,Kenya,Swamps,Least Concern,William Brooks,Observed during night
+181,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.36,503.3,Subadult,Unknown,28-01-2017,Tanzania,Lakes,Least Concern,James Rivera,Resting on shore
+182,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.38,502.7,Juvenile,Unknown,01-06-2007,Sudan,Swamps,Least Concern,James Rivera,Active in rain
+183,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.06,478.0,Hatchling,Female,25-12-2013,Kenya,Swamps,Least Concern,Henry Adams,Near nesting area
+184,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.54,416.0,Juvenile,Female,27-02-2015,Tanzania,Lakes,Least Concern,Evelyn Scott,Active in rain
+185,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.97,276.7,Subadult,Male,04-11-2020,Tanzania,Rivers,Least Concern,Amelia Nelson,Calm juvenile
+186,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.75,432.6,Subadult,Male,09-06-2020,Sudan,Swamps,Least Concern,Oliver Carter,Observed during night
+187,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.86,298.4,Juvenile,Female,06-01-2012,Sudan,Swamps,Least Concern,Grace Turner,Observed during night
+188,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.03,356.2,Subadult,Female,09-10-2008,Tanzania,Lakes,Least Concern,Grace Turner,Calm juvenile
+189,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.55,442.4,Subadult,Male,19-02-2023,Sudan,Rivers,Least Concern,William Brooks,Observed during night
+190,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.34,536.6,Hatchling,Male,28-12-2019,Kenya,Lakes,Least Concern,Luna Parker,Near nesting area
+191,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.14,327.1,Subadult,Male,06-12-2011,Kenya,Rivers,Least Concern,James Rivera,Tagged specimen
+192,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.93,453.7,Juvenile,Female,15-11-2005,Tanzania,Rivers,Least Concern,William Brooks,Calm juvenile
+193,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.01,541.2,Hatchling,Unknown,24-05-2025,Kenya,Rivers,Least Concern,Amelia Nelson,In flooded grassland
+194,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.11,327.6,Juvenile,Female,07-08-2013,Sudan,Rivers,Least Concern,William Brooks,Calm juvenile
+195,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.81,411.2,Juvenile,Male,10-10-2015,Sudan,Rivers,Least Concern,Luna Parker,In flooded grassland
+196,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.25,323.4,Juvenile,Male,13-10-2017,Kenya,Swamps,Least Concern,William Brooks,Observed hunting
+197,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.94,552.2,Hatchling,Male,08-01-2019,Tanzania,Lakes,Least Concern,Oliver Carter,Observed during night
+198,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.61,262.9,Subadult,Unknown,25-02-2019,Kenya,Rivers,Least Concern,Amelia Nelson,Calm juvenile
+199,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.86,526.0,Juvenile,Female,14-03-2014,Sudan,Swamps,Least Concern,Oliver Carter,Observed hunting
+200,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.64,422.9,Juvenile,Male,10-10-2010,Tanzania,Swamps,Least Concern,Oliver Carter,Active in rain
+201,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.52,370.6,Adult,Female,30-03-2025,Cuba,Coastal,Vulnerable,Grace Turner,Observed during night
+202,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.65,513.1,Juvenile,Female,03-08-2010,Venezuela,Estuaries,Vulnerable,Amelia Nelson,In flooded grassland
+203,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.08,329.5,Subadult,Male,02-02-2015,Cuba,Estuaries,Vulnerable,Grace Turner,Observed hunting
+204,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.49,492.3,Juvenile,Unknown,19-03-2019,Cuba,Estuaries,Vulnerable,William Brooks,Calm juvenile
+205,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.05,279.6,Juvenile,Unknown,30-07-2014,Cuba,Mangroves,Vulnerable,Luna Parker,Calm juvenile
+206,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.52,248.2,Adult,Female,03-01-2006,Mexico,Estuaries,Vulnerable,Grace Turner,Active in rain
+207,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.55,248.0,Hatchling,Unknown,26-11-2022,Mexico,Mangroves,Vulnerable,William Brooks,Calm juvenile
+208,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.54,336.3,Subadult,Female,03-08-2021,Venezuela,Mangroves,Vulnerable,Luna Parker,In flooded grassland
+209,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.39,364.8,Subadult,Female,15-05-2005,Venezuela,Coastal,Vulnerable,Luna Parker,Near nesting area
+210,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.82,417.3,Adult,Unknown,26-02-2006,Cuba,Mangroves,Vulnerable,Henry Adams,Calm juvenile
+211,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.08,297.0,Juvenile,Unknown,06-11-2010,Mexico,Mangroves,Vulnerable,James Rivera,Near nesting area
+212,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.4,249.2,Adult,Unknown,22-04-2012,Venezuela,Estuaries,Vulnerable,Evelyn Scott,Tagged specimen
+213,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.66,379.5,Hatchling,Female,09-01-2016,Venezuela,Mangroves,Vulnerable,Grace Turner,Calm juvenile
+214,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.7,339.8,Subadult,Unknown,27-08-2009,Mexico,Mangroves,Vulnerable,William Brooks,In flooded grassland
+215,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.43,439.9,Hatchling,Unknown,08-07-2012,Venezuela,Estuaries,Vulnerable,Luna Parker,In flooded grassland
+216,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.54,480.6,Subadult,Female,09-01-2006,Mexico,Estuaries,Vulnerable,Amelia Nelson,Calm juvenile
+217,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.28,366.9,Adult,Unknown,17-01-2017,Venezuela,Mangroves,Vulnerable,Amelia Nelson,Tagged specimen
+218,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.47,500.5,Subadult,Male,04-05-2024,Mexico,Mangroves,Vulnerable,Oliver Carter,Tagged specimen
+219,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.84,402.5,Juvenile,Female,13-08-2024,Venezuela,Coastal,Vulnerable,Grace Turner,Near nesting area
+220,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.95,347.1,Subadult,Unknown,26-06-2010,Mexico,Coastal,Vulnerable,Luna Parker,Observed during night
+221,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.2,451.5,Juvenile,Male,24-02-2021,Cuba,Estuaries,Vulnerable,Henry Adams,Observed during night
+222,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.2,199.8,Adult,Unknown,24-06-2012,Mexico,Estuaries,Vulnerable,Henry Adams,Observed hunting
+223,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.56,373.0,Juvenile,Unknown,26-12-2015,Cuba,Estuaries,Vulnerable,James Rivera,Tagged specimen
+224,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.66,486.6,Adult,Female,23-04-2014,Mexico,Mangroves,Vulnerable,Amelia Nelson,Observed during night
+225,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.25,342.6,Subadult,Unknown,24-04-2011,Mexico,Estuaries,Vulnerable,Oliver Carter,Calm juvenile
+226,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.71,252.4,Juvenile,Male,10-05-2007,Venezuela,Coastal,Vulnerable,Henry Adams,Resting on shore
+227,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.5,482.2,Hatchling,Female,06-01-2021,Cuba,Estuaries,Vulnerable,Evelyn Scott,Active in rain
+228,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.65,250.2,Subadult,Female,05-05-2015,Venezuela,Estuaries,Vulnerable,James Rivera,In flooded grassland
+229,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.52,383.9,Juvenile,Female,21-12-2014,Mexico,Estuaries,Vulnerable,William Brooks,Observed during night
+230,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.79,388.6,Adult,Female,11-12-2010,Cuba,Coastal,Vulnerable,James Rivera,Tagged specimen
+231,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.73,400.8,Subadult,Unknown,27-12-2020,Cuba,Mangroves,Vulnerable,William Brooks,Resting on shore
+232,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.44,330.1,Adult,Female,12-09-2024,Venezuela,Coastal,Vulnerable,Evelyn Scott,Observed hunting
+233,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.69,452.1,Subadult,Male,13-12-2010,Cuba,Estuaries,Vulnerable,Amelia Nelson,Observed during night
+234,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.72,230.2,Hatchling,Female,21-05-2018,Venezuela,Estuaries,Vulnerable,James Rivera,Tagged specimen
+235,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.82,319.9,Juvenile,Unknown,05-06-2022,Venezuela,Estuaries,Vulnerable,Oliver Carter,Observed during night
+236,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.27,397.9,Hatchling,Unknown,03-02-2024,Mexico,Coastal,Vulnerable,Grace Turner,Observed during night
+237,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.09,302.1,Juvenile,Male,15-09-2021,Venezuela,Coastal,Vulnerable,Grace Turner,Calm juvenile
+238,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.58,494.4,Adult,Female,09-07-2010,Venezuela,Coastal,Vulnerable,William Brooks,Resting on shore
+239,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.88,238.7,Adult,Male,28-02-2019,Mexico,Estuaries,Vulnerable,Evelyn Scott,Observed during night
+240,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.72,389.1,Hatchling,Male,06-05-2006,Cuba,Coastal,Vulnerable,Oliver Carter,Calm juvenile
+241,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.78,404.4,Hatchling,Male,17-06-2018,Venezuela,Estuaries,Vulnerable,Luna Parker,Tagged specimen
+242,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.24,273.1,Subadult,Unknown,28-10-2009,Mexico,Coastal,Vulnerable,James Rivera,Calm juvenile
+243,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.53,360.3,Adult,Female,15-07-2014,Cuba,Estuaries,Vulnerable,Henry Adams,In flooded grassland
+244,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.95,425.6,Adult,Unknown,02-02-2018,Venezuela,Coastal,Vulnerable,Luna Parker,In flooded grassland
+245,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.05,376.9,Juvenile,Unknown,10-10-2018,Venezuela,Coastal,Vulnerable,Evelyn Scott,Tagged specimen
+246,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.07,419.4,Subadult,Male,25-10-2016,Venezuela,Coastal,Vulnerable,Henry Adams,Calm juvenile
+247,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.3,298.9,Hatchling,Unknown,18-01-2009,Cuba,Mangroves,Vulnerable,Amelia Nelson,Active in rain
+248,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.65,229.7,Subadult,Female,05-04-2020,Mexico,Estuaries,Vulnerable,Oliver Carter,In flooded grassland
+249,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.18,290.2,Subadult,Male,07-11-2009,Venezuela,Mangroves,Vulnerable,Henry Adams,In flooded grassland
+250,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.38,352.3,Juvenile,Male,18-05-2017,Venezuela,Estuaries,Vulnerable,Henry Adams,Calm juvenile
+251,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.21,202.9,Subadult,Female,18-09-2011,Venezuela,Mangroves,Vulnerable,Grace Turner,Resting on shore
+252,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.24,408.8,Hatchling,Male,10-11-2025,Venezuela,Estuaries,Vulnerable,Amelia Nelson,Observed hunting
+253,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.01,325.1,Hatchling,Unknown,17-07-2025,Mexico,Estuaries,Vulnerable,Luna Parker,In flooded grassland
+254,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.59,386.9,Subadult,Male,28-07-2009,Venezuela,Estuaries,Vulnerable,Henry Adams,Observed hunting
+255,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.9,320.0,Hatchling,Male,20-12-2012,Cuba,Mangroves,Vulnerable,William Brooks,Observed hunting
+256,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.0,386.7,Hatchling,Female,17-09-2009,Venezuela,Estuaries,Vulnerable,William Brooks,Resting on shore
+257,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.04,413.4,Subadult,Unknown,04-02-2023,Cuba,Estuaries,Vulnerable,Evelyn Scott,Calm juvenile
+258,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.4,356.1,Adult,Female,05-02-2013,Mexico,Mangroves,Vulnerable,Henry Adams,In flooded grassland
+259,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.58,396.1,Juvenile,Male,07-03-2018,Mexico,Mangroves,Vulnerable,Oliver Carter,Calm juvenile
+260,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.33,467.6,Hatchling,Unknown,31-03-2006,Mexico,Coastal,Vulnerable,Oliver Carter,Near nesting area
+261,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.58,389.7,Juvenile,Unknown,11-08-2018,Mexico,Estuaries,Vulnerable,Amelia Nelson,Calm juvenile
+262,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.39,456.8,Adult,Unknown,13-11-2023,Cuba,Estuaries,Vulnerable,Oliver Carter,Observed during night
+263,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.55,413.4,Hatchling,Unknown,20-01-2012,Mexico,Mangroves,Vulnerable,Amelia Nelson,Active in rain
+264,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.06,309.8,Adult,Male,30-05-2009,Mexico,Estuaries,Vulnerable,Oliver Carter,Near nesting area
+265,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.69,285.8,Hatchling,Male,12-03-2012,Venezuela,Mangroves,Vulnerable,Oliver Carter,Observed during night
+266,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.52,454.3,Adult,Female,13-12-2016,Venezuela,Mangroves,Vulnerable,Henry Adams,Near nesting area
+267,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.03,285.4,Subadult,Unknown,25-04-2017,Cuba,Estuaries,Vulnerable,Grace Turner,Tagged specimen
+268,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.77,434.6,Juvenile,Unknown,13-12-2022,Cuba,Estuaries,Vulnerable,Grace Turner,Tagged specimen
+269,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.26,327.4,Juvenile,Unknown,04-04-2018,Cuba,Coastal,Vulnerable,Henry Adams,Resting on shore
+270,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.98,438.0,Subadult,Male,28-03-2006,Cuba,Estuaries,Vulnerable,Luna Parker,Calm juvenile
+271,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.99,338.3,Hatchling,Female,08-05-2007,Cuba,Mangroves,Vulnerable,Luna Parker,In flooded grassland
+272,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.28,366.8,Juvenile,Male,24-11-2019,Mexico,Coastal,Vulnerable,Grace Turner,Resting on shore
+273,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.99,402.9,Adult,Unknown,01-10-2025,Cuba,Mangroves,Vulnerable,Amelia Nelson,Resting on shore
+274,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.68,388.0,Adult,Male,03-08-2019,Venezuela,Estuaries,Vulnerable,Luna Parker,In flooded grassland
+275,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.23,220.9,Subadult,Female,07-11-2017,Mexico,Coastal,Vulnerable,Henry Adams,Observed during night
+276,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.33,205.1,Subadult,Female,27-11-2007,Mexico,Coastal,Vulnerable,Amelia Nelson,Active in rain
+277,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.65,366.7,Hatchling,Unknown,29-10-2019,Mexico,Mangroves,Vulnerable,James Rivera,Calm juvenile
+278,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.58,238.6,Subadult,Male,25-06-2017,Cuba,Mangroves,Vulnerable,James Rivera,Near nesting area
+279,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.96,385.5,Juvenile,Unknown,15-03-2023,Venezuela,Estuaries,Vulnerable,Evelyn Scott,Tagged specimen
+280,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.3,358.3,Juvenile,Unknown,29-07-2016,Cuba,Mangroves,Vulnerable,Luna Parker,Observed during night
+281,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.24,455.4,Juvenile,Male,18-11-2010,Cuba,Mangroves,Vulnerable,Evelyn Scott,In flooded grassland
+282,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.07,336.6,Adult,Female,14-07-2020,Venezuela,Estuaries,Vulnerable,William Brooks,Observed during night
+283,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.29,249.6,Subadult,Female,18-10-2013,Mexico,Coastal,Vulnerable,Grace Turner,Observed hunting
+284,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.54,342.5,Subadult,Female,23-01-2023,Venezuela,Coastal,Vulnerable,Amelia Nelson,Observed hunting
+285,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.31,369.0,Adult,Unknown,27-09-2024,Cuba,Coastal,Vulnerable,Luna Parker,Tagged specimen
+286,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.28,281.6,Juvenile,Male,15-08-2009,Cuba,Coastal,Vulnerable,Luna Parker,Observed during night
+287,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.22,200.7,Hatchling,Male,12-03-2007,Mexico,Coastal,Vulnerable,Oliver Carter,In flooded grassland
+288,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.52,310.5,Adult,Male,27-11-2021,Cuba,Estuaries,Vulnerable,Evelyn Scott,Observed hunting
+289,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.66,404.5,Subadult,Unknown,01-03-2018,Mexico,Coastal,Vulnerable,William Brooks,Observed hunting
+290,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.39,335.3,Subadult,Male,20-03-2018,Cuba,Estuaries,Vulnerable,Henry Adams,Calm juvenile
+291,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.73,404.6,Juvenile,Female,18-11-2014,Mexico,Estuaries,Vulnerable,Amelia Nelson,Observed hunting
+292,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.09,350.9,Adult,Male,07-05-2019,Cuba,Estuaries,Vulnerable,Evelyn Scott,Tagged specimen
+293,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.32,422.8,Adult,Male,13-02-2023,Cuba,Estuaries,Vulnerable,Grace Turner,In flooded grassland
+294,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.16,322.0,Adult,Unknown,28-10-2019,Venezuela,Estuaries,Vulnerable,Amelia Nelson,Resting on shore
+295,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.18,356.7,Juvenile,Male,15-10-2016,Cuba,Coastal,Vulnerable,Amelia Nelson,Observed during night
+296,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.54,442.3,Juvenile,Female,14-09-2009,Mexico,Mangroves,Vulnerable,Evelyn Scott,In flooded grassland
+297,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.56,461.4,Subadult,Unknown,29-08-2023,Venezuela,Coastal,Vulnerable,Luna Parker,Active in rain
+298,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.73,492.0,Adult,Female,07-04-2012,Cuba,Mangroves,Vulnerable,Oliver Carter,Active in rain
+299,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.13,275.5,Adult,Female,15-04-2008,Cuba,Estuaries,Vulnerable,Henry Adams,Observed hunting
+300,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.6,473.8,Subadult,Unknown,29-08-2022,Venezuela,Estuaries,Vulnerable,William Brooks,Resting on shore
+301,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.15,225.5,Adult,Female,14-12-2006,Mexico,Lakes,Least Concern,Henry Adams,Calm juvenile
+302,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.86,224.7,Adult,Female,22-01-2022,Belize,Lakes,Least Concern,Henry Adams,Near nesting area
+303,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.86,177.8,Subadult,Male,07-01-2011,Mexico,Lakes,Least Concern,Luna Parker,Tagged specimen
+304,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.3,179.3,Adult,Female,21-11-2024,Mexico,Rivers,Least Concern,Henry Adams,In flooded grassland
+305,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.78,235.0,Hatchling,Male,09-09-2017,Belize,Rivers,Least Concern,Oliver Carter,Tagged specimen
+306,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.81,196.2,Adult,Male,11-10-2023,Belize,Swamps,Least Concern,Evelyn Scott,Near nesting area
+307,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.8,123.2,Juvenile,Male,05-09-2025,Mexico,Rivers,Least Concern,Grace Turner,Resting on shore
+308,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.21,169.3,Juvenile,Female,28-04-2022,Guatemala,Rivers,Least Concern,Amelia Nelson,Active in rain
+309,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.89,249.2,Subadult,Female,09-09-2019,Guatemala,Rivers,Least Concern,Evelyn Scott,Near nesting area
+310,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.72,147.3,Hatchling,Male,30-05-2009,Belize,Lakes,Least Concern,Grace Turner,Observed during night
+311,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.18,237.2,Juvenile,Female,28-10-2022,Belize,Lakes,Least Concern,Luna Parker,In flooded grassland
+312,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.99,128.6,Subadult,Female,08-05-2014,Mexico,Lakes,Least Concern,Evelyn Scott,Tagged specimen
+313,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.61,167.4,Adult,Female,12-03-2024,Mexico,Swamps,Least Concern,Grace Turner,In flooded grassland
+314,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.6,160.9,Subadult,Unknown,17-08-2009,Belize,Swamps,Least Concern,Luna Parker,Calm juvenile
+315,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.31,182.0,Juvenile,Unknown,26-11-2016,Guatemala,Rivers,Least Concern,William Brooks,In flooded grassland
+316,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.01,266.3,Subadult,Unknown,15-12-2005,Guatemala,Swamps,Least Concern,Amelia Nelson,Near nesting area
+317,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.33,200.9,Juvenile,Unknown,08-07-2010,Mexico,Rivers,Least Concern,Evelyn Scott,Active in rain
+318,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.02,178.3,Hatchling,Male,31-08-2013,Guatemala,Swamps,Least Concern,Amelia Nelson,In flooded grassland
+319,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.8,168.2,Adult,Unknown,26-06-2016,Mexico,Lakes,Least Concern,Grace Turner,Calm juvenile
+320,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.67,231.8,Hatchling,Female,15-08-2023,Guatemala,Rivers,Least Concern,William Brooks,Near nesting area
+321,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.37,168.5,Hatchling,Unknown,28-04-2016,Guatemala,Rivers,Least Concern,Henry Adams,Active in rain
+322,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.14,171.6,Subadult,Female,26-02-2007,Belize,Rivers,Least Concern,Grace Turner,Resting on shore
+323,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.66,197.6,Juvenile,Unknown,12-01-2022,Mexico,Lakes,Least Concern,Oliver Carter,Tagged specimen
+324,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.37,167.9,Adult,Female,04-07-2013,Mexico,Lakes,Least Concern,William Brooks,Observed during night
+325,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.96,162.6,Subadult,Unknown,21-10-2022,Mexico,Rivers,Least Concern,Oliver Carter,Calm juvenile
+326,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.12,255.1,Adult,Male,17-07-2012,Guatemala,Lakes,Least Concern,Luna Parker,Resting on shore
+327,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.98,209.7,Hatchling,Female,31-01-2014,Guatemala,Lakes,Least Concern,Oliver Carter,Calm juvenile
+328,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.78,157.5,Adult,Female,21-10-2007,Mexico,Rivers,Least Concern,Evelyn Scott,Observed during night
+329,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.58,175.1,Adult,Female,06-04-2024,Guatemala,Lakes,Least Concern,Oliver Carter,Calm juvenile
+330,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.88,166.0,Subadult,Unknown,13-01-2017,Guatemala,Swamps,Least Concern,James Rivera,Resting on shore
+331,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.15,170.8,Subadult,Female,17-09-2010,Mexico,Rivers,Least Concern,Henry Adams,Observed hunting
+332,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.0,213.7,Adult,Female,20-02-2007,Guatemala,Rivers,Least Concern,Luna Parker,Tagged specimen
+333,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.15,222.0,Subadult,Male,02-05-2010,Belize,Rivers,Least Concern,Amelia Nelson,Tagged specimen
+334,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.18,163.6,Subadult,Female,02-10-2021,Belize,Rivers,Least Concern,Grace Turner,Active in rain
+335,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.84,205.4,Adult,Male,26-06-2008,Guatemala,Lakes,Least Concern,Grace Turner,Near nesting area
+336,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.34,158.1,Subadult,Female,16-01-2005,Belize,Swamps,Least Concern,Grace Turner,Observed during night
+337,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.75,231.5,Hatchling,Female,13-05-2021,Guatemala,Lakes,Least Concern,James Rivera,Active in rain
+338,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.52,226.4,Subadult,Male,21-06-2017,Guatemala,Swamps,Least Concern,William Brooks,Tagged specimen
+339,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.66,122.6,Juvenile,Female,11-05-2011,Guatemala,Rivers,Least Concern,William Brooks,In flooded grassland
+340,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.16,173.5,Adult,Male,08-06-2005,Belize,Rivers,Least Concern,Henry Adams,Active in rain
+341,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.34,195.9,Hatchling,Female,25-10-2021,Guatemala,Swamps,Least Concern,Evelyn Scott,In flooded grassland
+342,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.11,215.8,Hatchling,Female,07-03-2017,Mexico,Rivers,Least Concern,Luna Parker,Resting on shore
+343,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.53,211.0,Adult,Unknown,02-07-2008,Guatemala,Swamps,Least Concern,Henry Adams,Tagged specimen
+344,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.2,267.9,Adult,Female,05-01-2014,Guatemala,Rivers,Least Concern,Oliver Carter,Tagged specimen
+345,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.67,103.1,Subadult,Unknown,05-11-2022,Mexico,Swamps,Least Concern,William Brooks,In flooded grassland
+346,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.97,138.6,Juvenile,Female,23-06-2022,Belize,Swamps,Least Concern,Henry Adams,Observed hunting
+347,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.57,224.4,Hatchling,Male,08-02-2011,Belize,Swamps,Least Concern,Oliver Carter,Observed during night
+348,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.25,180.4,Adult,Unknown,13-12-2011,Mexico,Swamps,Least Concern,Oliver Carter,In flooded grassland
+349,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.83,244.9,Adult,Unknown,25-04-2022,Belize,Lakes,Least Concern,Luna Parker,Active in rain
+350,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.06,245.4,Hatchling,Male,12-10-2020,Guatemala,Lakes,Least Concern,Evelyn Scott,Observed during night
+351,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.92,220.2,Adult,Female,30-07-2017,Belize,Lakes,Least Concern,Amelia Nelson,In flooded grassland
+352,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.73,229.3,Adult,Male,12-02-2025,Mexico,Swamps,Least Concern,James Rivera,Calm juvenile
+353,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.9,232.5,Adult,Female,31-01-2018,Belize,Rivers,Least Concern,Henry Adams,Near nesting area
+354,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.99,251.6,Hatchling,Female,21-01-2019,Belize,Swamps,Least Concern,Amelia Nelson,Tagged specimen
+355,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.9,249.3,Adult,Unknown,05-04-2017,Belize,Swamps,Least Concern,Amelia Nelson,Tagged specimen
+356,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.06,247.9,Adult,Female,11-02-2019,Mexico,Lakes,Least Concern,Grace Turner,In flooded grassland
+357,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.43,203.9,Subadult,Female,05-06-2011,Belize,Lakes,Least Concern,Henry Adams,Near nesting area
+358,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.9,169.1,Subadult,Male,18-10-2009,Guatemala,Rivers,Least Concern,Luna Parker,Active in rain
+359,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.31,204.5,Juvenile,Male,16-08-2009,Guatemala,Lakes,Least Concern,Henry Adams,Observed hunting
+360,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.1,210.2,Subadult,Male,17-01-2017,Mexico,Rivers,Least Concern,Grace Turner,Active in rain
+361,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.92,133.8,Juvenile,Male,03-09-2006,Guatemala,Swamps,Least Concern,Grace Turner,Observed hunting
+362,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.06,184.6,Hatchling,Male,08-12-2014,Belize,Swamps,Least Concern,Amelia Nelson,Observed hunting
+363,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.05,187.2,Adult,Female,21-08-2025,Belize,Rivers,Least Concern,Grace Turner,Active in rain
+364,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.77,135.1,Adult,Unknown,01-12-2019,Guatemala,Swamps,Least Concern,James Rivera,In flooded grassland
+365,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.37,188.7,Juvenile,Unknown,17-07-2018,Mexico,Lakes,Least Concern,William Brooks,Observed during night
+366,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.67,127.5,Adult,Male,08-02-2007,Guatemala,Swamps,Least Concern,James Rivera,Resting on shore
+367,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.9,193.3,Hatchling,Unknown,22-09-2011,Guatemala,Lakes,Least Concern,Henry Adams,In flooded grassland
+368,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.87,194.3,Juvenile,Female,14-12-2023,Belize,Rivers,Least Concern,Grace Turner,Tagged specimen
+369,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.66,135.4,Subadult,Male,17-03-2018,Mexico,Lakes,Least Concern,Henry Adams,In flooded grassland
+370,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.14,256.2,Hatchling,Female,07-08-2022,Guatemala,Swamps,Least Concern,Grace Turner,Observed during night
+371,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.9,260.8,Hatchling,Male,11-09-2011,Mexico,Rivers,Least Concern,Amelia Nelson,Tagged specimen
+372,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.78,198.0,Adult,Unknown,11-03-2006,Guatemala,Rivers,Least Concern,Henry Adams,Near nesting area
+373,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.34,141.2,Juvenile,Female,22-03-2017,Guatemala,Swamps,Least Concern,Amelia Nelson,In flooded grassland
+374,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.56,202.6,Hatchling,Female,08-09-2025,Mexico,Swamps,Least Concern,Oliver Carter,Near nesting area
+375,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.82,115.4,Juvenile,Female,08-11-2008,Mexico,Rivers,Least Concern,Luna Parker,Observed during night
+376,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.87,216.5,Hatchling,Unknown,16-11-2020,Guatemala,Rivers,Least Concern,James Rivera,Tagged specimen
+377,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.81,238.4,Juvenile,Male,01-05-2022,Belize,Rivers,Least Concern,William Brooks,Observed hunting
+378,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.98,166.5,Hatchling,Male,27-02-2014,Belize,Rivers,Least Concern,William Brooks,Active in rain
+379,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.52,209.5,Subadult,Female,06-08-2025,Belize,Lakes,Least Concern,Grace Turner,In flooded grassland
+380,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.09,182.3,Hatchling,Male,25-08-2024,Guatemala,Lakes,Least Concern,Amelia Nelson,Near nesting area
+381,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.42,191.3,Juvenile,Male,12-12-2006,Belize,Swamps,Least Concern,William Brooks,Tagged specimen
+382,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.39,178.7,Hatchling,Male,08-08-2012,Guatemala,Lakes,Least Concern,James Rivera,Near nesting area
+383,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.4,209.3,Hatchling,Male,25-09-2005,Mexico,Rivers,Least Concern,William Brooks,In flooded grassland
+384,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.13,189.3,Hatchling,Male,09-09-2010,Guatemala,Lakes,Least Concern,Luna Parker,Observed during night
+385,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.98,141.7,Juvenile,Unknown,27-02-2019,Mexico,Rivers,Least Concern,William Brooks,Observed hunting
+386,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.97,179.0,Adult,Female,06-04-2015,Mexico,Swamps,Least Concern,James Rivera,In flooded grassland
+387,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.95,233.6,Subadult,Female,19-09-2019,Mexico,Swamps,Least Concern,James Rivera,Observed hunting
+388,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.53,183.7,Hatchling,Male,24-01-2010,Mexico,Swamps,Least Concern,Amelia Nelson,Calm juvenile
+389,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.19,224.0,Adult,Female,19-06-2025,Guatemala,Rivers,Least Concern,James Rivera,Calm juvenile
+390,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.72,243.4,Subadult,Unknown,06-04-2024,Belize,Lakes,Least Concern,Evelyn Scott,Calm juvenile
+391,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.63,114.5,Hatchling,Unknown,30-01-2007,Guatemala,Swamps,Least Concern,William Brooks,In flooded grassland
+392,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.88,208.5,Adult,Male,17-03-2015,Mexico,Swamps,Least Concern,William Brooks,Calm juvenile
+393,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.09,153.6,Hatchling,Male,10-11-2015,Belize,Swamps,Least Concern,James Rivera,In flooded grassland
+394,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.42,202.6,Subadult,Female,28-08-2012,Mexico,Rivers,Least Concern,James Rivera,Resting on shore
+395,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.41,164.0,Adult,Unknown,07-12-2017,Belize,Swamps,Least Concern,Oliver Carter,Calm juvenile
+396,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.45,172.6,Juvenile,Unknown,27-03-2005,Guatemala,Swamps,Least Concern,Grace Turner,In flooded grassland
+397,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.71,129.2,Adult,Female,25-03-2021,Mexico,Swamps,Least Concern,Amelia Nelson,In flooded grassland
+398,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.02,221.0,Adult,Male,06-01-2019,Mexico,Rivers,Least Concern,James Rivera,Active in rain
+399,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.2,164.8,Hatchling,Unknown,08-08-2009,Mexico,Lakes,Least Concern,Luna Parker,Resting on shore
+400,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.11,257.4,Adult,Male,12-01-2020,Guatemala,Swamps,Least Concern,Henry Adams,Observed during night
+401,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.19,369.4,Juvenile,Unknown,24-05-2018,Colombia,Rivers,Critically Endangered,Luna Parker,Resting on shore
+402,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.2,384.8,Juvenile,Female,11-07-2009,Colombia,Swamps,Critically Endangered,Amelia Nelson,Observed hunting
+403,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.43,317.9,Juvenile,Male,01-11-2018,Venezuela,Rivers,Critically Endangered,Oliver Carter,Calm juvenile
+404,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.47,411.5,Hatchling,Female,11-09-2017,Colombia,Swamps,Critically Endangered,Grace Turner,Observed hunting
+405,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.54,340.6,Juvenile,Male,25-08-2012,Colombia,Swamps,Critically Endangered,James Rivera,In flooded grassland
+406,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.56,426.2,Juvenile,Unknown,16-09-2012,Colombia,Rivers,Critically Endangered,Oliver Carter,Active in rain
+407,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.08,470.8,Subadult,Unknown,13-11-2024,Colombia,Flooded Savannas,Critically Endangered,William Brooks,Calm juvenile
+408,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.13,320.8,Hatchling,Male,24-12-2017,Colombia,Rivers,Critically Endangered,Evelyn Scott,Calm juvenile
+409,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.68,473.1,Hatchling,Female,22-07-2010,Colombia,Rivers,Critically Endangered,James Rivera,In flooded grassland
+410,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.12,382.4,Subadult,Male,05-10-2015,Venezuela,Flooded Savannas,Critically Endangered,Luna Parker,Active in rain
+411,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.02,358.3,Juvenile,Unknown,28-03-2018,Venezuela,Rivers,Critically Endangered,Amelia Nelson,Resting on shore
+412,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,5.21,623.5,Hatchling,Unknown,31-01-2021,Colombia,Rivers,Critically Endangered,William Brooks,In flooded grassland
+413,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,5.09,547.6,Adult,Unknown,06-10-2016,Venezuela,Swamps,Critically Endangered,James Rivera,Resting on shore
+414,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.18,484.5,Hatchling,Female,23-12-2022,Venezuela,Swamps,Critically Endangered,Amelia Nelson,Calm juvenile
+415,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.48,364.8,Hatchling,Female,16-07-2025,Venezuela,Swamps,Critically Endangered,Luna Parker,Calm juvenile
+416,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.71,275.7,Juvenile,Unknown,27-06-2017,Venezuela,Rivers,Critically Endangered,Evelyn Scott,Active in rain
+417,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,5.14,495.6,Adult,Female,04-08-2012,Venezuela,Rivers,Critically Endangered,Henry Adams,Resting on shore
+418,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.47,417.8,Hatchling,Male,22-03-2021,Venezuela,Swamps,Critically Endangered,James Rivera,Tagged specimen
+419,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.84,336.9,Subadult,Unknown,05-03-2016,Venezuela,Flooded Savannas,Critically Endangered,Amelia Nelson,Near nesting area
+420,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.62,377.1,Juvenile,Female,02-03-2012,Colombia,Flooded Savannas,Critically Endangered,Evelyn Scott,Near nesting area
+421,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.96,515.6,Subadult,Male,06-07-2023,Colombia,Flooded Savannas,Critically Endangered,Evelyn Scott,Observed hunting
+422,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.73,330.4,Subadult,Female,26-06-2021,Colombia,Swamps,Critically Endangered,Oliver Carter,Observed hunting
+423,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.09,455.3,Juvenile,Unknown,16-06-2017,Colombia,Rivers,Critically Endangered,Oliver Carter,In flooded grassland
+424,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.3,343.3,Hatchling,Female,12-07-2012,Colombia,Rivers,Critically Endangered,James Rivera,Resting on shore
+425,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.72,280.0,Subadult,Unknown,13-10-2020,Venezuela,Flooded Savannas,Critically Endangered,Henry Adams,Active in rain
+426,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.77,265.6,Adult,Female,01-09-2018,Venezuela,Swamps,Critically Endangered,James Rivera,Resting on shore
+427,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.03,299.4,Juvenile,Male,04-09-2007,Venezuela,Swamps,Critically Endangered,Amelia Nelson,Tagged specimen
+428,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.66,510.6,Adult,Male,25-08-2023,Venezuela,Swamps,Critically Endangered,Grace Turner,Observed hunting
+429,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.81,453.7,Hatchling,Female,05-01-2017,Venezuela,Swamps,Critically Endangered,William Brooks,Tagged specimen
+430,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,5.05,535.3,Adult,Male,03-05-2011,Venezuela,Swamps,Critically Endangered,Amelia Nelson,Observed during night
+431,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.16,441.1,Hatchling,Female,08-07-2025,Colombia,Flooded Savannas,Critically Endangered,Amelia Nelson,Calm juvenile
+432,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.26,458.0,Adult,Male,24-08-2013,Venezuela,Swamps,Critically Endangered,Amelia Nelson,Tagged specimen
+433,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.31,396.3,Hatchling,Male,27-09-2011,Venezuela,Swamps,Critically Endangered,James Rivera,Active in rain
+434,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.2,323.7,Adult,Female,08-11-2008,Colombia,Swamps,Critically Endangered,Grace Turner,Calm juvenile
+435,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.64,346.9,Adult,Unknown,11-02-2016,Colombia,Flooded Savannas,Critically Endangered,Amelia Nelson,In flooded grassland
+436,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.29,468.2,Subadult,Male,22-01-2025,Colombia,Swamps,Critically Endangered,Evelyn Scott,Resting on shore
+437,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.92,462.3,Hatchling,Unknown,29-08-2011,Venezuela,Flooded Savannas,Critically Endangered,Amelia Nelson,Calm juvenile
+438,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.26,445.5,Hatchling,Unknown,13-02-2006,Venezuela,Swamps,Critically Endangered,Grace Turner,Observed during night
+439,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.99,519.8,Juvenile,Female,25-04-2014,Colombia,Flooded Savannas,Critically Endangered,Amelia Nelson,Calm juvenile
+440,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.27,377.5,Subadult,Female,28-04-2018,Venezuela,Rivers,Critically Endangered,Amelia Nelson,Observed during night
+441,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.46,430.2,Hatchling,Unknown,08-01-2011,Venezuela,Rivers,Critically Endangered,Evelyn Scott,Near nesting area
+442,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.51,329.9,Hatchling,Female,19-02-2009,Venezuela,Rivers,Critically Endangered,Amelia Nelson,In flooded grassland
+443,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.35,468.3,Adult,Unknown,03-09-2022,Colombia,Flooded Savannas,Critically Endangered,Evelyn Scott,Observed during night
+444,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.78,463.2,Juvenile,Male,27-05-2012,Venezuela,Swamps,Critically Endangered,Grace Turner,Active in rain
+445,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.75,550.6,Subadult,Unknown,12-05-2014,Venezuela,Swamps,Critically Endangered,Luna Parker,Active in rain
+446,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.82,456.0,Juvenile,Unknown,12-06-2005,Venezuela,Flooded Savannas,Critically Endangered,Amelia Nelson,Resting on shore
+447,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.57,440.1,Juvenile,Female,11-04-2012,Colombia,Flooded Savannas,Critically Endangered,Evelyn Scott,Observed during night
+448,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.48,367.5,Hatchling,Unknown,09-04-2019,Venezuela,Swamps,Critically Endangered,Evelyn Scott,In flooded grassland
+449,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.35,382.3,Subadult,Female,08-04-2008,Venezuela,Swamps,Critically Endangered,James Rivera,Active in rain
+450,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.37,418.4,Subadult,Unknown,07-03-2006,Colombia,Flooded Savannas,Critically Endangered,Grace Turner,Resting on shore
+451,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.85,396.2,Juvenile,Unknown,27-10-2020,Colombia,Swamps,Critically Endangered,Evelyn Scott,In flooded grassland
+452,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.48,466.0,Juvenile,Unknown,29-05-2009,Colombia,Swamps,Critically Endangered,Grace Turner,Observed hunting
+453,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.15,334.1,Subadult,Male,01-08-2021,Venezuela,Flooded Savannas,Critically Endangered,Amelia Nelson,Tagged specimen
+454,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.34,400.9,Adult,Male,26-07-2010,Venezuela,Flooded Savannas,Critically Endangered,Henry Adams,Observed hunting
+455,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.17,313.5,Subadult,Male,10-02-2019,Venezuela,Flooded Savannas,Critically Endangered,Oliver Carter,Observed during night
+456,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.76,301.1,Juvenile,Male,30-07-2011,Colombia,Rivers,Critically Endangered,James Rivera,Calm juvenile
+457,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.6,366.2,Adult,Male,27-03-2006,Colombia,Rivers,Critically Endangered,Oliver Carter,Observed hunting
+458,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.95,273.9,Hatchling,Male,30-07-2010,Venezuela,Flooded Savannas,Critically Endangered,Amelia Nelson,Tagged specimen
+459,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.79,578.1,Subadult,Female,26-12-2016,Venezuela,Flooded Savannas,Critically Endangered,James Rivera,Observed during night
+460,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,5.16,535.6,Hatchling,Female,29-05-2008,Colombia,Swamps,Critically Endangered,Amelia Nelson,Calm juvenile
+461,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.04,300.9,Juvenile,Female,28-03-2023,Venezuela,Rivers,Critically Endangered,William Brooks,Near nesting area
+462,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,5.05,517.5,Hatchling,Unknown,17-01-2007,Venezuela,Flooded Savannas,Critically Endangered,Oliver Carter,Tagged specimen
+463,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.99,337.2,Subadult,Unknown,12-09-2010,Venezuela,Swamps,Critically Endangered,Henry Adams,Active in rain
+464,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.77,463.7,Adult,Male,20-01-2025,Colombia,Flooded Savannas,Critically Endangered,Luna Parker,In flooded grassland
+465,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.64,445.6,Adult,Male,23-05-2005,Venezuela,Flooded Savannas,Critically Endangered,Luna Parker,Near nesting area
+466,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.04,359.4,Subadult,Unknown,14-09-2014,Venezuela,Swamps,Critically Endangered,Oliver Carter,Tagged specimen
+467,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.1,314.4,Adult,Male,06-01-2012,Venezuela,Flooded Savannas,Critically Endangered,Evelyn Scott,Calm juvenile
+468,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.9,367.8,Subadult,Unknown,18-08-2019,Colombia,Swamps,Critically Endangered,Luna Parker,Active in rain
+469,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.64,509.4,Juvenile,Unknown,23-06-2014,Venezuela,Swamps,Critically Endangered,Evelyn Scott,Observed during night
+470,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.91,559.6,Hatchling,Female,02-03-2022,Venezuela,Rivers,Critically Endangered,Luna Parker,Near nesting area
+471,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.43,415.8,Hatchling,Unknown,28-04-2018,Venezuela,Flooded Savannas,Critically Endangered,Oliver Carter,Observed during night
+472,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,5.21,553.3,Hatchling,Female,15-06-2010,Colombia,Swamps,Critically Endangered,Henry Adams,In flooded grassland
+473,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.33,484.2,Subadult,Female,18-11-2025,Colombia,Rivers,Critically Endangered,Evelyn Scott,Tagged specimen
+474,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.94,424.4,Adult,Unknown,11-01-2017,Colombia,Flooded Savannas,Critically Endangered,Amelia Nelson,In flooded grassland
+475,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.58,556.5,Juvenile,Unknown,14-12-2015,Venezuela,Flooded Savannas,Critically Endangered,Amelia Nelson,Observed during night
+476,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.25,339.9,Subadult,Female,18-06-2008,Venezuela,Swamps,Critically Endangered,Oliver Carter,Active in rain
+477,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.83,294.3,Juvenile,Unknown,01-04-2021,Venezuela,Flooded Savannas,Critically Endangered,Evelyn Scott,Observed hunting
+478,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,5.24,577.6,Subadult,Male,23-05-2019,Colombia,Swamps,Critically Endangered,Grace Turner,Tagged specimen
+479,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.38,314.5,Adult,Male,02-11-2010,Venezuela,Flooded Savannas,Critically Endangered,Luna Parker,Active in rain
+480,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.68,556.0,Adult,Female,11-05-2013,Colombia,Flooded Savannas,Critically Endangered,Henry Adams,Tagged specimen
+481,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.44,514.5,Subadult,Female,02-09-2014,Venezuela,Flooded Savannas,Critically Endangered,Evelyn Scott,Tagged specimen
+482,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,5.08,567.3,Subadult,Male,09-10-2025,Colombia,Rivers,Critically Endangered,Henry Adams,Observed during night
+483,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.61,422.5,Juvenile,Male,22-02-2021,Venezuela,Swamps,Critically Endangered,Evelyn Scott,Resting on shore
+484,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.95,392.1,Subadult,Male,22-05-2010,Colombia,Flooded Savannas,Critically Endangered,James Rivera,Active in rain
+485,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.24,410.5,Adult,Female,03-06-2020,Venezuela,Rivers,Critically Endangered,James Rivera,Near nesting area
+486,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.73,259.6,Subadult,Female,13-04-2017,Colombia,Rivers,Critically Endangered,James Rivera,Resting on shore
+487,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.54,395.6,Hatchling,Male,30-05-2013,Colombia,Swamps,Critically Endangered,Grace Turner,Tagged specimen
+488,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.18,446.8,Hatchling,Unknown,11-09-2021,Colombia,Flooded Savannas,Critically Endangered,Evelyn Scott,Observed hunting
+489,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.72,343.7,Adult,Male,14-12-2011,Colombia,Rivers,Critically Endangered,Luna Parker,Near nesting area
+490,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.21,424.1,Juvenile,Unknown,02-05-2006,Colombia,Rivers,Critically Endangered,Evelyn Scott,Observed during night
+491,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.5,510.4,Subadult,Unknown,26-01-2010,Colombia,Rivers,Critically Endangered,Evelyn Scott,Active in rain
+492,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.1,342.8,Adult,Female,02-02-2011,Venezuela,Flooded Savannas,Critically Endangered,Luna Parker,In flooded grassland
+493,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.08,297.7,Hatchling,Unknown,02-08-2018,Venezuela,Flooded Savannas,Critically Endangered,Luna Parker,Resting on shore
+494,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.35,321.2,Adult,Male,04-02-2005,Colombia,Swamps,Critically Endangered,Amelia Nelson,Resting on shore
+495,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.92,596.6,Subadult,Female,05-09-2021,Colombia,Rivers,Critically Endangered,James Rivera,Active in rain
+496,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.85,461.1,Subadult,Male,15-10-2019,Venezuela,Rivers,Critically Endangered,William Brooks,Observed during night
+497,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.82,432.8,Hatchling,Female,23-07-2006,Venezuela,Swamps,Critically Endangered,Luna Parker,In flooded grassland
+498,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.71,502.0,Juvenile,Unknown,08-11-2007,Venezuela,Rivers,Critically Endangered,James Rivera,Calm juvenile
+499,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.07,318.4,Adult,Male,04-05-2014,Venezuela,Swamps,Critically Endangered,Henry Adams,Tagged specimen
+500,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.08,357.2,Subadult,Female,18-10-2011,Colombia,Swamps,Critically Endangered,Amelia Nelson,Observed during night
+501,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.23,271.7,Juvenile,Female,14-01-2017,Thailand,Lakes,Critically Endangered,Luna Parker,Observed hunting
+502,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.38,190.0,Adult,Male,26-09-2011,Thailand,Rivers,Critically Endangered,William Brooks,Observed during night
+503,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.07,301.8,Hatchling,Unknown,03-06-2008,Cambodia,Lakes,Critically Endangered,Luna Parker,In flooded grassland
+504,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.65,208.3,Juvenile,Unknown,14-11-2017,Thailand,Rivers,Critically Endangered,Luna Parker,Observed during night
+505,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.44,300.9,Hatchling,Male,10-04-2023,Thailand,Rivers,Critically Endangered,Amelia Nelson,Tagged specimen
+506,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.95,279.4,Juvenile,Female,16-04-2021,Vietnam,Lakes,Critically Endangered,James Rivera,In flooded grassland
+507,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.48,205.7,Hatchling,Male,11-12-2009,Cambodia,Swamps,Critically Endangered,Grace Turner,Near nesting area
+508,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.02,207.2,Hatchling,Male,29-03-2024,Cambodia,Lakes,Critically Endangered,Henry Adams,Calm juvenile
+509,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.49,330.5,Juvenile,Male,24-01-2012,Cambodia,Lakes,Critically Endangered,Henry Adams,Active in rain
+510,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.0,193.2,Adult,Male,08-04-2016,Thailand,Swamps,Critically Endangered,William Brooks,In flooded grassland
+511,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.12,175.9,Adult,Male,22-08-2011,Cambodia,Swamps,Critically Endangered,James Rivera,Observed hunting
+512,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.61,295.3,Adult,Female,23-01-2012,Thailand,Swamps,Critically Endangered,James Rivera,Resting on shore
+513,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.23,254.1,Adult,Unknown,11-01-2011,Thailand,Lakes,Critically Endangered,Evelyn Scott,Active in rain
+514,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.03,253.7,Subadult,Female,13-11-2018,Cambodia,Swamps,Critically Endangered,James Rivera,Observed during night
+515,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.32,217.5,Juvenile,Female,09-10-2021,Vietnam,Rivers,Critically Endangered,Grace Turner,Near nesting area
+516,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.73,268.2,Hatchling,Female,19-05-2005,Thailand,Rivers,Critically Endangered,Oliver Carter,Resting on shore
+517,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.83,287.8,Hatchling,Unknown,28-06-2019,Thailand,Rivers,Critically Endangered,Evelyn Scott,Tagged specimen
+518,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.5,244.2,Hatchling,Male,08-08-2005,Cambodia,Rivers,Critically Endangered,Luna Parker,Tagged specimen
+519,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.04,173.4,Juvenile,Female,03-11-2005,Cambodia,Swamps,Critically Endangered,Luna Parker,Calm juvenile
+520,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.32,311.8,Adult,Female,12-06-2018,Thailand,Lakes,Critically Endangered,Grace Turner,In flooded grassland
+521,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.02,190.4,Subadult,Unknown,30-08-2010,Vietnam,Lakes,Critically Endangered,Henry Adams,Active in rain
+522,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.01,160.4,Hatchling,Male,31-08-2025,Thailand,Rivers,Critically Endangered,James Rivera,Active in rain
+523,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.38,332.6,Adult,Female,17-11-2017,Thailand,Rivers,Critically Endangered,Grace Turner,Observed hunting
+524,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.18,208.4,Hatchling,Male,23-11-2025,Cambodia,Swamps,Critically Endangered,Henry Adams,Active in rain
+525,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.57,302.4,Hatchling,Female,26-10-2018,Thailand,Rivers,Critically Endangered,Evelyn Scott,Resting on shore
+526,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.47,207.0,Subadult,Female,18-01-2024,Thailand,Rivers,Critically Endangered,Luna Parker,Active in rain
+527,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.64,216.6,Subadult,Unknown,31-08-2017,Vietnam,Lakes,Critically Endangered,Luna Parker,Tagged specimen
+528,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.61,262.8,Adult,Unknown,06-08-2005,Vietnam,Rivers,Critically Endangered,Oliver Carter,Observed hunting
+529,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.36,206.8,Juvenile,Female,20-01-2019,Cambodia,Swamps,Critically Endangered,Luna Parker,Tagged specimen
+530,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.18,194.8,Adult,Unknown,26-08-2023,Cambodia,Lakes,Critically Endangered,James Rivera,Observed hunting
+531,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.86,274.4,Adult,Unknown,24-06-2025,Vietnam,Swamps,Critically Endangered,Amelia Nelson,Calm juvenile
+532,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.42,279.9,Subadult,Unknown,09-06-2013,Cambodia,Rivers,Critically Endangered,William Brooks,Observed hunting
+533,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.19,327.9,Adult,Unknown,02-03-2015,Thailand,Lakes,Critically Endangered,Henry Adams,Calm juvenile
+534,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.75,216.8,Juvenile,Male,24-01-2025,Cambodia,Swamps,Critically Endangered,James Rivera,In flooded grassland
+535,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.48,343.2,Subadult,Unknown,19-05-2019,Cambodia,Swamps,Critically Endangered,Henry Adams,Active in rain
+536,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.23,175.3,Juvenile,Male,03-10-2024,Thailand,Lakes,Critically Endangered,Henry Adams,In flooded grassland
+537,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.51,208.9,Juvenile,Female,28-10-2021,Vietnam,Lakes,Critically Endangered,Grace Turner,In flooded grassland
+538,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.61,203.9,Adult,Male,13-04-2007,Vietnam,Lakes,Critically Endangered,Grace Turner,Tagged specimen
+539,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.18,326.1,Juvenile,Female,02-11-2019,Cambodia,Lakes,Critically Endangered,Amelia Nelson,Active in rain
+540,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.55,237.4,Adult,Female,06-10-2021,Vietnam,Lakes,Critically Endangered,Amelia Nelson,Tagged specimen
+541,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.67,286.9,Subadult,Male,07-12-2018,Vietnam,Rivers,Critically Endangered,Amelia Nelson,In flooded grassland
+542,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.39,300.4,Hatchling,Unknown,15-04-2022,Vietnam,Rivers,Critically Endangered,Evelyn Scott,Near nesting area
+543,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.65,352.9,Adult,Male,08-08-2017,Thailand,Rivers,Critically Endangered,Grace Turner,Calm juvenile
+544,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.08,200.7,Hatchling,Male,20-12-2006,Vietnam,Lakes,Critically Endangered,Oliver Carter,Observed during night
+545,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.41,319.2,Juvenile,Unknown,24-02-2024,Vietnam,Rivers,Critically Endangered,Grace Turner,In flooded grassland
+546,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.13,180.2,Adult,Female,14-11-2007,Vietnam,Lakes,Critically Endangered,Oliver Carter,Observed hunting
+547,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.07,271.1,Hatchling,Female,02-03-2020,Thailand,Lakes,Critically Endangered,James Rivera,Observed hunting
+548,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.68,358.1,Adult,Male,04-08-2018,Thailand,Swamps,Critically Endangered,Amelia Nelson,Resting on shore
+549,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.28,299.0,Juvenile,Male,21-06-2005,Vietnam,Lakes,Critically Endangered,Luna Parker,Observed hunting
+550,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.41,279.2,Hatchling,Female,16-08-2013,Thailand,Swamps,Critically Endangered,Henry Adams,Observed hunting
+551,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.72,225.0,Hatchling,Unknown,30-01-2019,Thailand,Swamps,Critically Endangered,Luna Parker,Observed hunting
+552,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.47,244.3,Hatchling,Female,05-01-2024,Vietnam,Lakes,Critically Endangered,James Rivera,In flooded grassland
+553,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.66,298.3,Hatchling,Unknown,27-10-2017,Cambodia,Rivers,Critically Endangered,Oliver Carter,Resting on shore
+554,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.65,246.6,Adult,Female,12-06-2025,Vietnam,Rivers,Critically Endangered,Henry Adams,Resting on shore
+555,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.59,308.1,Subadult,Unknown,21-12-2023,Thailand,Lakes,Critically Endangered,William Brooks,Resting on shore
+556,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.36,324.8,Subadult,Female,05-10-2011,Vietnam,Swamps,Critically Endangered,Grace Turner,Observed hunting
+557,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.53,258.8,Adult,Unknown,15-07-2007,Thailand,Lakes,Critically Endangered,Henry Adams,Near nesting area
+558,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.96,266.3,Adult,Female,19-07-2005,Cambodia,Rivers,Critically Endangered,Evelyn Scott,Tagged specimen
+559,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.19,262.1,Subadult,Unknown,20-02-2020,Thailand,Swamps,Critically Endangered,Evelyn Scott,In flooded grassland
+560,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.98,283.7,Adult,Unknown,04-03-2006,Thailand,Lakes,Critically Endangered,Amelia Nelson,Tagged specimen
+561,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.2,181.4,Subadult,Female,13-04-2010,Cambodia,Lakes,Critically Endangered,James Rivera,Resting on shore
+562,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.32,210.5,Adult,Unknown,04-07-2005,Vietnam,Swamps,Critically Endangered,Oliver Carter,Resting on shore
+563,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.12,289.3,Hatchling,Male,18-12-2018,Cambodia,Lakes,Critically Endangered,William Brooks,Tagged specimen
+564,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.66,363.5,Juvenile,Unknown,20-03-2015,Thailand,Swamps,Critically Endangered,Oliver Carter,Tagged specimen
+565,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.22,272.8,Hatchling,Unknown,08-06-2019,Thailand,Swamps,Critically Endangered,Amelia Nelson,Calm juvenile
+566,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.64,325.4,Hatchling,Female,24-02-2020,Cambodia,Rivers,Critically Endangered,Oliver Carter,In flooded grassland
+567,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.47,279.7,Adult,Male,19-12-2012,Cambodia,Lakes,Critically Endangered,Luna Parker,Active in rain
+568,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.35,230.1,Subadult,Unknown,26-01-2024,Cambodia,Swamps,Critically Endangered,Amelia Nelson,Observed hunting
+569,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.98,244.8,Subadult,Female,04-08-2010,Vietnam,Rivers,Critically Endangered,Evelyn Scott,Resting on shore
+570,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.36,265.4,Juvenile,Unknown,18-06-2015,Thailand,Lakes,Critically Endangered,Oliver Carter,Resting on shore
+571,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.22,330.2,Juvenile,Male,08-11-2008,Thailand,Lakes,Critically Endangered,James Rivera,Observed hunting
+572,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.23,177.5,Subadult,Male,15-02-2009,Thailand,Lakes,Critically Endangered,Evelyn Scott,Active in rain
+573,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.41,271.9,Subadult,Male,21-03-2017,Thailand,Rivers,Critically Endangered,James Rivera,Calm juvenile
+574,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.07,264.5,Juvenile,Female,02-10-2018,Vietnam,Lakes,Critically Endangered,Luna Parker,Observed hunting
+575,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.03,176.8,Subadult,Female,12-06-2012,Cambodia,Lakes,Critically Endangered,Henry Adams,Observed during night
+576,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.22,221.8,Hatchling,Unknown,23-10-2011,Cambodia,Rivers,Critically Endangered,Grace Turner,Resting on shore
+577,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.69,300.2,Hatchling,Male,15-09-2009,Cambodia,Lakes,Critically Endangered,Luna Parker,Observed during night
+578,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.2,264.8,Hatchling,Male,23-09-2021,Cambodia,Swamps,Critically Endangered,Oliver Carter,Observed during night
+579,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.56,212.8,Juvenile,Unknown,28-02-2011,Thailand,Lakes,Critically Endangered,Oliver Carter,Active in rain
+580,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.21,268.1,Juvenile,Unknown,04-09-2005,Cambodia,Swamps,Critically Endangered,Henry Adams,In flooded grassland
+581,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.42,240.7,Adult,Unknown,28-07-2015,Thailand,Swamps,Critically Endangered,Grace Turner,Observed during night
+582,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.17,190.5,Subadult,Female,11-06-2006,Thailand,Swamps,Critically Endangered,Evelyn Scott,In flooded grassland
+583,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.34,288.2,Hatchling,Male,19-05-2020,Vietnam,Swamps,Critically Endangered,Grace Turner,Calm juvenile
+584,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.69,219.4,Subadult,Unknown,18-09-2019,Cambodia,Rivers,Critically Endangered,Henry Adams,Active in rain
+585,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.16,187.8,Juvenile,Unknown,30-01-2005,Thailand,Lakes,Critically Endangered,Amelia Nelson,Calm juvenile
+586,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.24,315.3,Adult,Unknown,09-11-2017,Thailand,Rivers,Critically Endangered,Luna Parker,Near nesting area
+587,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.19,304.4,Juvenile,Unknown,07-06-2012,Cambodia,Swamps,Critically Endangered,William Brooks,Resting on shore
+588,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.1,291.1,Hatchling,Female,15-04-2016,Cambodia,Lakes,Critically Endangered,Oliver Carter,Active in rain
+589,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.69,303.9,Subadult,Unknown,15-04-2006,Cambodia,Swamps,Critically Endangered,Grace Turner,Active in rain
+590,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.15,216.9,Juvenile,Unknown,02-03-2013,Thailand,Lakes,Critically Endangered,Evelyn Scott,Near nesting area
+591,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.79,266.7,Subadult,Unknown,20-05-2020,Cambodia,Swamps,Critically Endangered,Luna Parker,Resting on shore
+592,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.67,311.6,Juvenile,Female,27-11-2005,Vietnam,Lakes,Critically Endangered,Oliver Carter,Near nesting area
+593,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.2,297.0,Juvenile,Male,18-09-2010,Vietnam,Rivers,Critically Endangered,William Brooks,Observed during night
+594,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.3,236.4,Adult,Male,05-12-2022,Cambodia,Lakes,Critically Endangered,Grace Turner,Resting on shore
+595,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.01,248.4,Subadult,Unknown,25-03-2022,Cambodia,Swamps,Critically Endangered,Grace Turner,Tagged specimen
+596,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.76,256.7,Subadult,Unknown,15-02-2014,Thailand,Lakes,Critically Endangered,James Rivera,Tagged specimen
+597,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.2,310.3,Juvenile,Female,16-04-2018,Cambodia,Rivers,Critically Endangered,Oliver Carter,Observed during night
+598,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.3,313.7,Juvenile,Female,09-08-2024,Thailand,Swamps,Critically Endangered,Grace Turner,Tagged specimen
+599,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.55,280.4,Hatchling,Unknown,14-10-2017,Cambodia,Swamps,Critically Endangered,William Brooks,Active in rain
+600,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.64,240.4,Juvenile,Male,11-08-2007,Cambodia,Swamps,Critically Endangered,Oliver Carter,Observed hunting
+601,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.81,283.0,Hatchling,Unknown,23-05-2009,Cuba,Swamps,Critically Endangered,Grace Turner,Active in rain
+602,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.75,232.8,Hatchling,Unknown,26-08-2025,Cuba,Swamps,Critically Endangered,James Rivera,Calm juvenile
+603,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.35,245.9,Adult,Unknown,28-10-2024,Cuba,Swamps,Critically Endangered,Amelia Nelson,Active in rain
+604,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.44,294.6,Hatchling,Male,27-09-2009,Cuba,Lakes,Critically Endangered,James Rivera,Tagged specimen
+605,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.56,333.5,Hatchling,Unknown,04-05-2022,Cuba,Lakes,Critically Endangered,Grace Turner,Observed hunting
+606,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.9,258.4,Hatchling,Unknown,03-02-2005,Cuba,Swamps,Critically Endangered,James Rivera,Observed hunting
+607,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.59,267.4,Subadult,Female,05-05-2020,Cuba,Lakes,Critically Endangered,Grace Turner,Calm juvenile
+608,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.39,234.2,Adult,Unknown,24-04-2025,Cuba,Lakes,Critically Endangered,Amelia Nelson,In flooded grassland
+609,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.59,304.2,Juvenile,Female,29-03-2022,Cuba,Lakes,Critically Endangered,James Rivera,Tagged specimen
+610,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.54,346.6,Subadult,Male,24-08-2012,Cuba,Swamps,Critically Endangered,Oliver Carter,Tagged specimen
+611,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.91,254.8,Adult,Female,10-05-2016,Cuba,Lakes,Critically Endangered,William Brooks,Active in rain
+612,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.87,257.5,Adult,Unknown,20-11-2022,Cuba,Lakes,Critically Endangered,Henry Adams,In flooded grassland
+613,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.59,352.9,Hatchling,Female,12-11-2023,Cuba,Lakes,Critically Endangered,Oliver Carter,Observed during night
+614,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.12,305.9,Adult,Female,09-02-2007,Cuba,Lakes,Critically Endangered,Oliver Carter,Tagged specimen
+615,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.47,246.7,Juvenile,Female,05-02-2018,Cuba,Lakes,Critically Endangered,Amelia Nelson,Resting on shore
+616,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.01,292.3,Hatchling,Male,13-04-2025,Cuba,Lakes,Critically Endangered,Oliver Carter,In flooded grassland
+617,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.27,346.8,Hatchling,Unknown,15-03-2009,Cuba,Lakes,Critically Endangered,Oliver Carter,Near nesting area
+618,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.17,316.3,Juvenile,Male,15-04-2015,Cuba,Lakes,Critically Endangered,Oliver Carter,Tagged specimen
+619,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.4,204.5,Adult,Male,21-11-2010,Cuba,Lakes,Critically Endangered,Evelyn Scott,Observed hunting
+620,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.44,332.4,Adult,Male,21-07-2011,Cuba,Lakes,Critically Endangered,Luna Parker,Tagged specimen
+621,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.48,298.3,Subadult,Female,02-08-2020,Cuba,Lakes,Critically Endangered,James Rivera,Observed during night
+622,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.79,250.3,Hatchling,Female,23-08-2010,Cuba,Lakes,Critically Endangered,Henry Adams,Observed hunting
+623,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.97,262.0,Adult,Female,30-06-2007,Cuba,Lakes,Critically Endangered,Amelia Nelson,Near nesting area
+624,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.65,246.3,Adult,Unknown,05-06-2021,Cuba,Swamps,Critically Endangered,Evelyn Scott,In flooded grassland
+625,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.12,305.2,Juvenile,Male,01-07-2024,Cuba,Swamps,Critically Endangered,Amelia Nelson,Observed hunting
+626,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.14,331.0,Subadult,Female,28-05-2014,Cuba,Lakes,Critically Endangered,William Brooks,Observed hunting
+627,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.38,219.4,Subadult,Female,09-01-2018,Cuba,Lakes,Critically Endangered,William Brooks,Observed during night
+628,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.49,305.1,Hatchling,Female,07-03-2016,Cuba,Lakes,Critically Endangered,James Rivera,Calm juvenile
+629,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.15,290.7,Adult,Male,07-12-2017,Cuba,Lakes,Critically Endangered,Evelyn Scott,Calm juvenile
+630,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.53,326.9,Juvenile,Female,08-09-2017,Cuba,Swamps,Critically Endangered,Luna Parker,Resting on shore
+631,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.53,349.2,Juvenile,Male,24-05-2006,Cuba,Swamps,Critically Endangered,James Rivera,Tagged specimen
+632,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.23,223.1,Adult,Unknown,01-11-2005,Cuba,Swamps,Critically Endangered,Luna Parker,Active in rain
+633,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.55,248.1,Juvenile,Male,03-04-2006,Cuba,Swamps,Critically Endangered,Oliver Carter,Observed hunting
+634,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.46,206.3,Adult,Male,19-06-2025,Cuba,Lakes,Critically Endangered,Henry Adams,In flooded grassland
+635,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.01,275.3,Juvenile,Unknown,24-06-2021,Cuba,Swamps,Critically Endangered,Henry Adams,Resting on shore
+636,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.32,200.3,Hatchling,Female,12-01-2010,Cuba,Swamps,Critically Endangered,Evelyn Scott,Active in rain
+637,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.11,289.6,Hatchling,Unknown,29-10-2007,Cuba,Swamps,Critically Endangered,Amelia Nelson,Observed hunting
+638,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.89,276.1,Adult,Male,30-01-2012,Cuba,Swamps,Critically Endangered,Grace Turner,Tagged specimen
+639,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.42,238.4,Juvenile,Male,23-12-2013,Cuba,Swamps,Critically Endangered,Oliver Carter,Resting on shore
+640,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.56,255.0,Juvenile,Female,10-12-2017,Cuba,Swamps,Critically Endangered,Evelyn Scott,Calm juvenile
+641,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.77,285.6,Juvenile,Unknown,05-10-2024,Cuba,Lakes,Critically Endangered,Grace Turner,Active in rain
+642,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.48,372.3,Adult,Female,14-11-2014,Cuba,Swamps,Critically Endangered,Amelia Nelson,Calm juvenile
+643,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.86,273.7,Adult,Male,01-03-2015,Cuba,Lakes,Critically Endangered,James Rivera,Calm juvenile
+644,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.65,248.3,Adult,Male,07-03-2023,Cuba,Swamps,Critically Endangered,Grace Turner,In flooded grassland
+645,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.96,254.2,Hatchling,Male,18-04-2025,Cuba,Lakes,Critically Endangered,James Rivera,Resting on shore
+646,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.56,237.9,Juvenile,Female,30-05-2020,Cuba,Swamps,Critically Endangered,Henry Adams,In flooded grassland
+647,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.67,267.6,Juvenile,Female,03-09-2006,Cuba,Lakes,Critically Endangered,Luna Parker,Observed during night
+648,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.63,246.7,Juvenile,Male,23-06-2020,Cuba,Swamps,Critically Endangered,Luna Parker,In flooded grassland
+649,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.43,346.5,Juvenile,Female,25-01-2018,Cuba,Swamps,Critically Endangered,Oliver Carter,Near nesting area
+650,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.37,343.0,Subadult,Male,15-05-2013,Cuba,Swamps,Critically Endangered,Grace Turner,Near nesting area
+651,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.5,297.4,Subadult,Unknown,11-06-2005,Cuba,Swamps,Critically Endangered,James Rivera,Observed during night
+652,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.87,281.9,Adult,Male,26-03-2013,Cuba,Lakes,Critically Endangered,Amelia Nelson,Observed during night
+653,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.79,267.0,Subadult,Male,24-05-2011,Cuba,Lakes,Critically Endangered,Oliver Carter,Observed hunting
+654,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.78,274.5,Adult,Female,08-09-2020,Cuba,Lakes,Critically Endangered,Amelia Nelson,Calm juvenile
+655,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.15,262.3,Hatchling,Male,11-10-2025,Cuba,Swamps,Critically Endangered,Evelyn Scott,Observed during night
+656,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.72,233.1,Subadult,Male,18-04-2021,Cuba,Lakes,Critically Endangered,Amelia Nelson,Observed during night
+657,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.25,185.2,Juvenile,Unknown,08-02-2022,Cuba,Lakes,Critically Endangered,Oliver Carter,Resting on shore
+658,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.11,307.5,Subadult,Unknown,25-09-2022,Cuba,Lakes,Critically Endangered,James Rivera,Calm juvenile
+659,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.56,258.6,Adult,Female,07-05-2018,Cuba,Swamps,Critically Endangered,James Rivera,Calm juvenile
+660,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.28,191.7,Adult,Unknown,18-03-2020,Cuba,Swamps,Critically Endangered,Grace Turner,Resting on shore
+661,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.26,230.1,Subadult,Unknown,27-09-2009,Cuba,Swamps,Critically Endangered,James Rivera,Calm juvenile
+662,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.31,337.3,Juvenile,Male,15-04-2015,Cuba,Swamps,Critically Endangered,Oliver Carter,Active in rain
+663,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.37,303.3,Adult,Unknown,02-08-2007,Cuba,Lakes,Critically Endangered,Luna Parker,Observed during night
+664,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.93,285.3,Adult,Female,06-06-2018,Cuba,Swamps,Critically Endangered,Evelyn Scott,Tagged specimen
+665,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.5,256.2,Subadult,Female,12-03-2018,Cuba,Swamps,Critically Endangered,Evelyn Scott,Observed during night
+666,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.82,250.0,Juvenile,Female,22-06-2021,Cuba,Lakes,Critically Endangered,Evelyn Scott,Tagged specimen
+667,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.64,280.8,Juvenile,Male,19-10-2010,Cuba,Lakes,Critically Endangered,William Brooks,Observed hunting
+668,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.32,343.8,Hatchling,Male,05-07-2020,Cuba,Swamps,Critically Endangered,Evelyn Scott,Tagged specimen
+669,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.35,281.1,Adult,Unknown,04-09-2018,Cuba,Lakes,Critically Endangered,William Brooks,Observed hunting
+670,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.35,312.7,Hatchling,Unknown,09-12-2019,Cuba,Lakes,Critically Endangered,Oliver Carter,Observed during night
+671,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.12,288.5,Hatchling,Male,04-11-2024,Cuba,Lakes,Critically Endangered,Amelia Nelson,Resting on shore
+672,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.67,241.1,Adult,Unknown,30-11-2025,Cuba,Lakes,Critically Endangered,Amelia Nelson,Observed during night
+673,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.4,347.2,Hatchling,Unknown,05-09-2018,Cuba,Lakes,Critically Endangered,Amelia Nelson,Near nesting area
+674,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.61,252.1,Subadult,Female,04-11-2011,Cuba,Lakes,Critically Endangered,Luna Parker,Observed during night
+675,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.58,372.3,Adult,Unknown,14-04-2017,Cuba,Swamps,Critically Endangered,Grace Turner,Active in rain
+676,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.67,222.1,Adult,Male,11-04-2015,Cuba,Lakes,Critically Endangered,Amelia Nelson,Active in rain
+677,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.82,297.7,Juvenile,Unknown,01-09-2023,Cuba,Lakes,Critically Endangered,Amelia Nelson,In flooded grassland
+678,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.66,235.3,Adult,Female,01-06-2012,Cuba,Lakes,Critically Endangered,Grace Turner,Calm juvenile
+679,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.49,367.0,Hatchling,Male,25-03-2011,Cuba,Lakes,Critically Endangered,Evelyn Scott,Near nesting area
+680,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.45,228.7,Adult,Male,03-07-2020,Cuba,Swamps,Critically Endangered,William Brooks,In flooded grassland
+681,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.36,243.1,Subadult,Female,03-02-2025,Cuba,Swamps,Critically Endangered,Oliver Carter,Observed during night
+682,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.77,290.9,Adult,Unknown,09-06-2010,Cuba,Lakes,Critically Endangered,Luna Parker,Tagged specimen
+683,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.19,317.5,Adult,Unknown,07-01-2023,Cuba,Lakes,Critically Endangered,Luna Parker,Resting on shore
+684,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.06,290.6,Adult,Male,29-09-2019,Cuba,Swamps,Critically Endangered,Luna Parker,Tagged specimen
+685,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.83,297.4,Hatchling,Female,15-10-2005,Cuba,Swamps,Critically Endangered,Amelia Nelson,Resting on shore
+686,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.33,349.1,Hatchling,Male,10-10-2023,Cuba,Swamps,Critically Endangered,James Rivera,Resting on shore
+687,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.62,272.0,Adult,Unknown,21-07-2019,Cuba,Swamps,Critically Endangered,Amelia Nelson,Calm juvenile
+688,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.08,268.7,Juvenile,Male,09-12-2022,Cuba,Lakes,Critically Endangered,Henry Adams,Resting on shore
+689,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.47,320.6,Juvenile,Unknown,12-04-2025,Cuba,Lakes,Critically Endangered,James Rivera,Observed during night
+690,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.73,248.0,Subadult,Unknown,30-04-2024,Cuba,Lakes,Critically Endangered,William Brooks,In flooded grassland
+691,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.08,295.0,Hatchling,Unknown,11-11-2025,Cuba,Lakes,Critically Endangered,Evelyn Scott,Resting on shore
+692,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.02,316.4,Juvenile,Male,04-11-2008,Cuba,Lakes,Critically Endangered,Luna Parker,In flooded grassland
+693,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.95,307.6,Adult,Unknown,08-09-2025,Cuba,Lakes,Critically Endangered,Grace Turner,Resting on shore
+694,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.31,202.1,Hatchling,Female,16-06-2008,Cuba,Lakes,Critically Endangered,Evelyn Scott,Observed hunting
+695,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.24,340.0,Hatchling,Unknown,04-12-2021,Cuba,Lakes,Critically Endangered,Amelia Nelson,Observed hunting
+696,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.3,347.3,Adult,Unknown,16-10-2014,Cuba,Lakes,Critically Endangered,Grace Turner,Resting on shore
+697,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.86,272.4,Juvenile,Female,23-02-2017,Cuba,Lakes,Critically Endangered,William Brooks,Resting on shore
+698,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.99,307.3,Juvenile,Male,21-02-2005,Cuba,Swamps,Critically Endangered,James Rivera,Active in rain
+699,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.57,251.4,Hatchling,Female,30-01-2009,Cuba,Swamps,Critically Endangered,Oliver Carter,Observed hunting
+700,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.47,242.7,Juvenile,Female,23-12-2024,Cuba,Lakes,Critically Endangered,Luna Parker,Resting on shore
+701,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.27,26.1,Hatchling,Male,18-09-2010,Côte d'Ivoire,Small Streams,Vulnerable,William Brooks,Observed hunting
+702,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.6,37.9,Juvenile,Male,28-10-2007,Gabon,Small Streams,Vulnerable,James Rivera,Observed hunting
+703,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.57,39.1,Subadult,Female,12-09-2025,Liberia,Forest Swamps,Vulnerable,Evelyn Scott,Calm juvenile
+704,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.42,34.5,Subadult,Female,29-07-2012,Liberia,Forest Swamps,Vulnerable,Grace Turner,In flooded grassland
+705,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.08,22.8,Adult,Female,25-07-2019,Gabon,Forest Swamps,Vulnerable,Evelyn Scott,Calm juvenile
+706,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.7,36.7,Subadult,Unknown,14-06-2014,Gabon,Forest Swamps,Vulnerable,Grace Turner,In flooded grassland
+707,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.77,35.0,Subadult,Female,27-08-2018,Gabon,Small Streams,Vulnerable,Evelyn Scott,Calm juvenile
+708,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.15,21.6,Adult,Female,26-09-2021,Gabon,Small Streams,Vulnerable,Oliver Carter,Observed hunting
+709,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.43,37.4,Subadult,Unknown,05-07-2018,Liberia,Forest Swamps,Vulnerable,William Brooks,Tagged specimen
+710,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.19,27.5,Hatchling,Unknown,17-01-2024,Côte d'Ivoire,Forest Swamps,Vulnerable,Luna Parker,Resting on shore
+711,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.33,31.1,Juvenile,Female,28-02-2011,Côte d'Ivoire,Small Streams,Vulnerable,Evelyn Scott,Active in rain
+712,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.18,31.3,Juvenile,Male,29-11-2006,Gabon,Small Streams,Vulnerable,Amelia Nelson,Observed during night
+713,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.69,35.1,Hatchling,Male,07-03-2021,Gabon,Forest Swamps,Vulnerable,James Rivera,Near nesting area
+714,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.71,38.4,Juvenile,Female,08-07-2014,Gabon,Forest Swamps,Vulnerable,Evelyn Scott,Tagged specimen
+715,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.37,34.8,Hatchling,Male,18-03-2013,Liberia,Forest Swamps,Vulnerable,Oliver Carter,Observed hunting
+716,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.39,30.7,Adult,Female,23-06-2005,Liberia,Small Streams,Vulnerable,Amelia Nelson,Active in rain
+717,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.37,35.8,Subadult,Female,16-03-2013,Côte d'Ivoire,Forest Swamps,Vulnerable,Luna Parker,Tagged specimen
+718,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.78,30.7,Subadult,Female,22-08-2012,Gabon,Small Streams,Vulnerable,William Brooks,Tagged specimen
+719,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.45,33.8,Juvenile,Unknown,11-02-2019,Côte d'Ivoire,Small Streams,Vulnerable,Luna Parker,Resting on shore
+720,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.45,33.7,Subadult,Unknown,06-03-2013,Côte d'Ivoire,Forest Swamps,Vulnerable,Grace Turner,Near nesting area
+721,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.65,29.1,Juvenile,Unknown,20-02-2024,Liberia,Small Streams,Vulnerable,William Brooks,Resting on shore
+722,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.7,39.3,Hatchling,Female,01-08-2019,Côte d'Ivoire,Forest Swamps,Vulnerable,William Brooks,Near nesting area
+723,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.24,24.7,Hatchling,Female,01-09-2023,Gabon,Forest Swamps,Vulnerable,William Brooks,Active in rain
+724,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.5,37.0,Juvenile,Male,16-09-2022,Liberia,Forest Swamps,Vulnerable,Amelia Nelson,Active in rain
+725,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.76,33.2,Juvenile,Male,03-07-2016,Côte d'Ivoire,Small Streams,Vulnerable,Amelia Nelson,Calm juvenile
+726,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.59,31.6,Juvenile,Male,24-03-2021,Gabon,Small Streams,Vulnerable,Henry Adams,Resting on shore
+727,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.23,31.2,Juvenile,Unknown,29-06-2009,Côte d'Ivoire,Forest Swamps,Vulnerable,Luna Parker,Observed hunting
+728,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.29,32.6,Hatchling,Male,18-11-2022,Liberia,Small Streams,Vulnerable,Henry Adams,Observed during night
+729,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.23,31.0,Adult,Unknown,10-02-2012,Liberia,Small Streams,Vulnerable,Evelyn Scott,Observed during night
+730,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.26,26.5,Hatchling,Male,15-12-2022,Gabon,Small Streams,Vulnerable,Oliver Carter,Resting on shore
+731,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.21,26.6,Hatchling,Male,10-12-2022,Liberia,Forest Swamps,Vulnerable,Grace Turner,Observed hunting
+732,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.71,36.4,Hatchling,Male,22-10-2009,Côte d'Ivoire,Small Streams,Vulnerable,Luna Parker,Resting on shore
+733,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.09,19.8,Juvenile,Female,14-05-2010,Côte d'Ivoire,Forest Swamps,Vulnerable,Grace Turner,Resting on shore
+734,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.8,31.3,Hatchling,Unknown,15-11-2020,Liberia,Forest Swamps,Vulnerable,Oliver Carter,Near nesting area
+735,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.46,34.7,Hatchling,Male,12-11-2018,Côte d'Ivoire,Small Streams,Vulnerable,Evelyn Scott,Near nesting area
+736,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.41,25.0,Juvenile,Male,17-08-2007,Côte d'Ivoire,Small Streams,Vulnerable,Henry Adams,Observed during night
+737,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.35,25.0,Subadult,Female,06-08-2017,Liberia,Forest Swamps,Vulnerable,Oliver Carter,Near nesting area
+738,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.07,27.4,Adult,Male,27-09-2011,Côte d'Ivoire,Small Streams,Vulnerable,Henry Adams,Active in rain
+739,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.03,25.9,Hatchling,Unknown,16-10-2022,Liberia,Forest Swamps,Vulnerable,James Rivera,Calm juvenile
+740,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.61,43.2,Juvenile,Unknown,15-08-2009,Liberia,Forest Swamps,Vulnerable,Amelia Nelson,Observed during night
+741,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.2,26.6,Subadult,Female,16-08-2005,Côte d'Ivoire,Small Streams,Vulnerable,James Rivera,Near nesting area
+742,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.6,29.7,Hatchling,Unknown,15-02-2016,Côte d'Ivoire,Small Streams,Vulnerable,James Rivera,Tagged specimen
+743,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.09,18.8,Juvenile,Male,09-09-2006,Gabon,Small Streams,Vulnerable,Luna Parker,Observed hunting
+744,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.62,38.7,Hatchling,Male,19-08-2019,Liberia,Small Streams,Vulnerable,Evelyn Scott,Tagged specimen
+745,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.05,22.0,Juvenile,Unknown,23-09-2018,Côte d'Ivoire,Forest Swamps,Vulnerable,Luna Parker,Observed hunting
+746,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.73,44.3,Hatchling,Female,27-04-2018,Côte d'Ivoire,Forest Swamps,Vulnerable,Grace Turner,In flooded grassland
+747,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.55,27.3,Juvenile,Unknown,27-01-2008,Côte d'Ivoire,Small Streams,Vulnerable,Oliver Carter,Observed hunting
+748,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.46,37.5,Subadult,Unknown,14-05-2023,Côte d'Ivoire,Forest Swamps,Vulnerable,Evelyn Scott,Observed during night
+749,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.15,23.0,Hatchling,Unknown,10-06-2014,Liberia,Small Streams,Vulnerable,Oliver Carter,Observed hunting
+750,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.23,29.5,Subadult,Unknown,16-06-2022,Liberia,Small Streams,Vulnerable,James Rivera,Calm juvenile
+751,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.67,36.6,Juvenile,Male,02-07-2015,Gabon,Forest Swamps,Vulnerable,William Brooks,Observed during night
+752,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.28,34.5,Juvenile,Unknown,21-05-2013,Liberia,Small Streams,Vulnerable,William Brooks,Calm juvenile
+753,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.74,38.6,Hatchling,Unknown,10-06-2014,Liberia,Forest Swamps,Vulnerable,Evelyn Scott,Observed hunting
+754,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.16,29.9,Adult,Female,04-03-2017,Liberia,Forest Swamps,Vulnerable,Oliver Carter,Active in rain
+755,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.21,23.4,Juvenile,Male,06-12-2016,Gabon,Forest Swamps,Vulnerable,Evelyn Scott,Observed during night
+756,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.72,33.9,Subadult,Unknown,25-12-2011,Côte d'Ivoire,Small Streams,Vulnerable,Luna Parker,In flooded grassland
+757,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.61,29.5,Subadult,Male,24-10-2013,Côte d'Ivoire,Small Streams,Vulnerable,Oliver Carter,Active in rain
+758,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.46,31.8,Hatchling,Female,20-06-2012,Côte d'Ivoire,Forest Swamps,Vulnerable,William Brooks,Resting on shore
+759,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.41,25.5,Subadult,Female,07-07-2016,Liberia,Forest Swamps,Vulnerable,Grace Turner,Observed during night
+760,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.57,37.9,Hatchling,Female,09-11-2014,Côte d'Ivoire,Small Streams,Vulnerable,Amelia Nelson,Near nesting area
+761,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.08,22.5,Hatchling,Male,16-04-2014,Gabon,Small Streams,Vulnerable,Luna Parker,Near nesting area
+762,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.6,27.6,Adult,Male,02-01-2007,Liberia,Forest Swamps,Vulnerable,Amelia Nelson,In flooded grassland
+763,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.78,46.5,Subadult,Unknown,22-02-2019,Côte d'Ivoire,Small Streams,Vulnerable,Grace Turner,In flooded grassland
+764,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.4,25.1,Juvenile,Female,12-05-2016,Liberia,Small Streams,Vulnerable,Grace Turner,Observed hunting
+765,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.22,24.9,Juvenile,Female,04-09-2024,Côte d'Ivoire,Forest Swamps,Vulnerable,Grace Turner,Tagged specimen
+766,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.79,45.7,Adult,Female,23-08-2005,Gabon,Small Streams,Vulnerable,Evelyn Scott,Observed hunting
+767,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.77,36.8,Juvenile,Male,20-02-2016,Liberia,Small Streams,Vulnerable,Amelia Nelson,Observed hunting
+768,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.59,39.8,Subadult,Unknown,27-10-2007,Gabon,Small Streams,Vulnerable,Henry Adams,Active in rain
+769,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.67,38.9,Subadult,Unknown,19-08-2022,Côte d'Ivoire,Forest Swamps,Vulnerable,Evelyn Scott,Tagged specimen
+770,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.55,40.4,Subadult,Male,08-07-2022,Liberia,Forest Swamps,Vulnerable,Henry Adams,In flooded grassland
+771,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.19,29.9,Hatchling,Male,28-03-2014,Liberia,Forest Swamps,Vulnerable,Grace Turner,Observed during night
+772,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.03,24.6,Subadult,Male,20-07-2024,Gabon,Small Streams,Vulnerable,James Rivera,Active in rain
+773,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.24,23.3,Subadult,Unknown,27-10-2019,Liberia,Small Streams,Vulnerable,William Brooks,Near nesting area
+774,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.46,29.1,Subadult,Unknown,18-10-2021,Côte d'Ivoire,Small Streams,Vulnerable,Luna Parker,In flooded grassland
+775,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.13,19.3,Subadult,Female,05-12-2007,Liberia,Small Streams,Vulnerable,James Rivera,Tagged specimen
+776,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.16,23.3,Adult,Unknown,09-12-2024,Liberia,Forest Swamps,Vulnerable,Henry Adams,Active in rain
+777,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.54,38.7,Subadult,Unknown,17-02-2009,Gabon,Small Streams,Vulnerable,Oliver Carter,Tagged specimen
+778,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.57,37.5,Juvenile,Male,24-06-2014,Gabon,Forest Swamps,Vulnerable,Grace Turner,Active in rain
+779,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.44,38.1,Hatchling,Male,25-12-2014,Gabon,Forest Swamps,Vulnerable,Evelyn Scott,Active in rain
+780,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.03,20.3,Subadult,Female,01-02-2014,Liberia,Small Streams,Vulnerable,Henry Adams,Observed hunting
+781,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.5,38.9,Subadult,Male,03-09-2020,Gabon,Small Streams,Vulnerable,Grace Turner,Resting on shore
+782,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.39,33.0,Subadult,Male,28-08-2022,Liberia,Small Streams,Vulnerable,Oliver Carter,Observed hunting
+783,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.04,19.1,Adult,Unknown,13-01-2016,Côte d'Ivoire,Small Streams,Vulnerable,Henry Adams,Observed hunting
+784,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.66,33.9,Subadult,Unknown,28-03-2015,Côte d'Ivoire,Small Streams,Vulnerable,James Rivera,Near nesting area
+785,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.54,34.2,Hatchling,Unknown,29-05-2024,Gabon,Forest Swamps,Vulnerable,James Rivera,Observed during night
+786,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.58,28.8,Hatchling,Unknown,29-12-2025,Gabon,Small Streams,Vulnerable,Evelyn Scott,Active in rain
+787,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.2,29.0,Hatchling,Female,05-12-2025,Côte d'Ivoire,Forest Swamps,Vulnerable,Luna Parker,Calm juvenile
+788,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.64,30.7,Juvenile,Male,03-01-2022,Liberia,Forest Swamps,Vulnerable,James Rivera,Tagged specimen
+789,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.19,32.1,Juvenile,Unknown,30-03-2023,Côte d'Ivoire,Small Streams,Vulnerable,William Brooks,Resting on shore
+790,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.0,21.7,Subadult,Unknown,19-02-2020,Gabon,Small Streams,Vulnerable,James Rivera,Active in rain
+791,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.75,32.5,Juvenile,Female,08-06-2010,Gabon,Forest Swamps,Vulnerable,Amelia Nelson,Tagged specimen
+792,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.49,35.3,Juvenile,Male,10-02-2014,Gabon,Forest Swamps,Vulnerable,James Rivera,Observed during night
+793,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.44,27.6,Juvenile,Unknown,27-08-2014,Côte d'Ivoire,Forest Swamps,Vulnerable,William Brooks,Observed hunting
+794,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.61,38.1,Adult,Male,12-03-2014,Gabon,Small Streams,Vulnerable,Grace Turner,In flooded grassland
+795,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.67,40.9,Hatchling,Male,28-03-2009,Liberia,Forest Swamps,Vulnerable,James Rivera,Observed during night
+796,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.74,41.8,Hatchling,Male,07-12-2015,Liberia,Small Streams,Vulnerable,Evelyn Scott,In flooded grassland
+797,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.22,24.1,Juvenile,Male,09-03-2016,Côte d'Ivoire,Forest Swamps,Vulnerable,Evelyn Scott,Observed hunting
+798,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.75,32.8,Adult,Unknown,31-10-2011,Liberia,Small Streams,Vulnerable,James Rivera,In flooded grassland
+799,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.65,34.6,Hatchling,Female,28-11-2022,Côte d'Ivoire,Small Streams,Vulnerable,Grace Turner,Calm juvenile
+800,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.07,24.6,Adult,Female,12-11-2013,Côte d'Ivoire,Forest Swamps,Vulnerable,William Brooks,Calm juvenile

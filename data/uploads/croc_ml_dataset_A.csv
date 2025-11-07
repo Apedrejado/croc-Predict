@@ -1,0 +1,801 @@
+Observation ID,Common Name,Scientific Name,Family,Genus,Observed Length (m),Observed Weight (kg),Age Class,Sex,Date of Observation,Country/Region,Habitat Type,Conservation Status,Observer Name,Notes
+1,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.81,524.0,Juvenile,Female,07-11-2010,Australia,Estuaries,Least Concern,John Smith,Feeding behavior
+2,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.3,620.3,Adult,Unknown,30-03-2012,Philippines,Coastal,Least Concern,Noah Williams,Aggressive display
+3,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.47,447.2,Hatchling,Unknown,18-01-2013,Philippines,Rivers,Least Concern,John Smith,Nest near water
+4,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.91,552.7,Juvenile,Female,15-11-2011,Indonesia,Coastal,Least Concern,Liam Brown,Resting near shore
+5,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.66,453.5,Adult,Unknown,02-12-2017,Philippines,Rivers,Least Concern,Olivia Davis,Aggressive display
+6,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.14,370.1,Subadult,Female,21-03-2020,Indonesia,Estuaries,Least Concern,Olivia Davis,Tagged individual
+7,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.08,482.2,Hatchling,Female,21-07-2014,Australia,Rivers,Least Concern,Emma Johnson,Aggressive display
+8,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.32,604.7,Juvenile,Unknown,12-11-2021,Australia,Estuaries,Least Concern,Liam Brown,Nest near water
+9,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.39,455.8,Subadult,Male,23-12-2022,Australia,Coastal,Least Concern,Noah Williams,Resting near shore
+10,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.65,422.4,Juvenile,Male,05-10-2011,Indonesia,Coastal,Least Concern,Emma Johnson,Feeding behavior
+11,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.67,468.6,Juvenile,Male,11-05-2020,Philippines,Coastal,Least Concern,Noah Williams,Observed basking
+12,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.91,657.1,Adult,Unknown,07-10-2009,Philippines,Rivers,Least Concern,Ethan Martinez,Aggressive display
+13,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.71,667.7,Juvenile,Female,11-02-2022,Australia,Estuaries,Least Concern,Liam Brown,Aggressive display
+14,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.71,528.5,Adult,Unknown,01-11-2013,Indonesia,Rivers,Least Concern,Maria Gonzalez,Unusual coloration
+15,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.27,448.5,Juvenile,Unknown,30-12-2008,Indonesia,Coastal,Least Concern,Sophia Patel,Unusual coloration
+16,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.75,433.8,Adult,Male,25-06-2019,Australia,Rivers,Least Concern,Sophia Patel,Nest near water
+17,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.53,350.6,Hatchling,Female,13-08-2013,Philippines,Estuaries,Least Concern,Liam Brown,Aggressive display
+18,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.39,463.2,Hatchling,Female,17-06-2014,Indonesia,Estuaries,Least Concern,Liam Brown,Nest near water
+19,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.81,525.0,Hatchling,Female,22-05-2020,Australia,Estuaries,Least Concern,Maria Gonzalez,Aggressive display
+20,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.29,582.5,Adult,Unknown,14-03-2015,Philippines,Coastal,Least Concern,John Smith,Resting near shore
+21,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.76,539.9,Subadult,Female,20-10-2010,Philippines,Coastal,Least Concern,Maria Gonzalez,Resting near shore
+22,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.86,493.3,Subadult,Male,14-08-2022,Indonesia,Estuaries,Least Concern,Liam Brown,Aggressive display
+23,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.8,520.5,Juvenile,Male,24-07-2012,Indonesia,Coastal,Least Concern,Emma Johnson,Juvenile group
+24,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.04,627.0,Hatchling,Female,27-04-2011,Philippines,Estuaries,Least Concern,John Smith,Feeding behavior
+25,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.68,515.2,Subadult,Female,20-07-2014,Australia,Rivers,Least Concern,Noah Williams,Tagged individual
+26,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.14,451.6,Subadult,Female,10-05-2014,Philippines,Coastal,Least Concern,John Smith,Resting near shore
+27,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.61,382.8,Subadult,Unknown,27-10-2005,Indonesia,Coastal,Least Concern,Olivia Davis,Juvenile group
+28,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.21,436.7,Juvenile,Unknown,26-01-2016,Australia,Rivers,Least Concern,Olivia Davis,Tagged individual
+29,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.13,338.9,Adult,Male,19-09-2006,Indonesia,Coastal,Least Concern,Noah Williams,Unusual coloration
+30,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.25,703.0,Hatchling,Female,01-07-2016,Indonesia,Rivers,Least Concern,Maria Gonzalez,Unusual coloration
+31,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.93,610.8,Hatchling,Male,01-10-2021,Philippines,Estuaries,Least Concern,Emma Johnson,Feeding behavior
+32,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.31,449.0,Subadult,Female,22-10-2018,Australia,Coastal,Least Concern,Sophia Patel,Observed basking
+33,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.18,681.9,Juvenile,Female,01-04-2016,Philippines,Estuaries,Least Concern,John Smith,Aggressive display
+34,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.96,411.3,Adult,Male,03-06-2005,Philippines,Coastal,Least Concern,Olivia Davis,Nest near water
+35,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.77,408.4,Hatchling,Male,16-01-2010,Indonesia,Estuaries,Least Concern,John Smith,Unusual coloration
+36,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.66,497.4,Adult,Unknown,09-06-2014,Indonesia,Rivers,Least Concern,Noah Williams,Aggressive display
+37,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.62,518.7,Subadult,Female,14-06-2023,Philippines,Estuaries,Least Concern,Ethan Martinez,Nest near water
+38,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.11,359.4,Juvenile,Unknown,01-10-2013,Australia,Rivers,Least Concern,Emma Johnson,Aggressive display
+39,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.62,595.1,Adult,Unknown,29-09-2012,Australia,Rivers,Least Concern,Maria Gonzalez,Juvenile group
+40,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.55,381.8,Subadult,Female,17-02-2020,Philippines,Estuaries,Least Concern,Ethan Martinez,Observed basking
+41,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.95,518.4,Adult,Female,27-02-2022,Indonesia,Estuaries,Least Concern,John Smith,Tagged individual
+42,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.39,422.9,Juvenile,Female,14-08-2018,Australia,Estuaries,Least Concern,Maria Gonzalez,Feeding behavior
+43,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.93,495.8,Subadult,Male,26-05-2024,Australia,Rivers,Least Concern,Liam Brown,Aggressive display
+44,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.32,588.4,Subadult,Female,13-04-2022,Australia,Estuaries,Least Concern,Noah Williams,Feeding behavior
+45,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.01,630.1,Subadult,Unknown,05-01-2017,Indonesia,Rivers,Least Concern,Olivia Davis,Juvenile group
+46,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.01,425.0,Adult,Male,21-09-2025,Philippines,Estuaries,Least Concern,Liam Brown,Aggressive display
+47,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.03,515.8,Juvenile,Unknown,08-05-2025,Philippines,Estuaries,Least Concern,Maria Gonzalez,Aggressive display
+48,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.13,539.2,Juvenile,Unknown,26-08-2005,Philippines,Estuaries,Least Concern,Sophia Patel,Nest near water
+49,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.99,519.7,Adult,Male,16-04-2012,Australia,Rivers,Least Concern,Sophia Patel,Nest near water
+50,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.98,567.2,Hatchling,Unknown,28-06-2018,Australia,Estuaries,Least Concern,Olivia Davis,Juvenile group
+51,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.46,318.1,Juvenile,Male,05-08-2015,Philippines,Rivers,Least Concern,Sophia Patel,Unusual coloration
+52,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.79,690.1,Adult,Female,01-07-2010,Australia,Coastal,Least Concern,Ethan Martinez,Juvenile group
+53,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.86,431.0,Hatchling,Unknown,17-10-2023,Indonesia,Rivers,Least Concern,Noah Williams,Nest near water
+54,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.02,554.5,Hatchling,Unknown,07-03-2020,Australia,Coastal,Least Concern,Olivia Davis,Resting near shore
+55,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.68,523.1,Hatchling,Unknown,02-06-2022,Philippines,Estuaries,Least Concern,John Smith,Resting near shore
+56,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.76,536.3,Hatchling,Female,17-12-2013,Philippines,Estuaries,Least Concern,Ethan Martinez,Aggressive display
+57,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.3,499.6,Hatchling,Unknown,16-10-2008,Philippines,Rivers,Least Concern,Noah Williams,Aggressive display
+58,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.6,511.9,Juvenile,Female,07-03-2007,Australia,Estuaries,Least Concern,Noah Williams,Feeding behavior
+59,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.76,639.3,Subadult,Female,16-06-2020,Australia,Estuaries,Least Concern,Ethan Martinez,Unusual coloration
+60,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.77,381.2,Hatchling,Male,27-04-2008,Indonesia,Estuaries,Least Concern,Emma Johnson,Observed basking
+61,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.66,480.9,Subadult,Female,21-01-2021,Philippines,Rivers,Least Concern,Liam Brown,Tagged individual
+62,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.9,377.7,Juvenile,Male,17-08-2018,Philippines,Coastal,Least Concern,Emma Johnson,Aggressive display
+63,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.27,449.5,Subadult,Male,08-02-2018,Australia,Rivers,Least Concern,John Smith,Tagged individual
+64,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.25,565.0,Adult,Unknown,09-03-2025,Indonesia,Estuaries,Least Concern,Liam Brown,Unusual coloration
+65,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.05,632.0,Subadult,Female,30-05-2024,Indonesia,Estuaries,Least Concern,Ethan Martinez,Nest near water
+66,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.08,394.7,Hatchling,Unknown,15-06-2006,Philippines,Estuaries,Least Concern,Noah Williams,Juvenile group
+67,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.61,541.1,Hatchling,Unknown,02-06-2009,Philippines,Rivers,Least Concern,Noah Williams,Resting near shore
+68,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.39,408.1,Juvenile,Unknown,18-07-2009,Australia,Rivers,Least Concern,Noah Williams,Observed basking
+69,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.56,481.9,Hatchling,Female,30-05-2017,Philippines,Rivers,Least Concern,Maria Gonzalez,Observed basking
+70,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.41,560.9,Juvenile,Unknown,07-08-2019,Australia,Estuaries,Least Concern,Sophia Patel,Juvenile group
+71,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.57,654.6,Subadult,Unknown,24-03-2011,Australia,Rivers,Least Concern,Maria Gonzalez,Juvenile group
+72,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.05,542.6,Subadult,Male,29-08-2009,Australia,Rivers,Least Concern,Sophia Patel,Juvenile group
+73,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.67,482.2,Hatchling,Female,20-09-2022,Philippines,Coastal,Least Concern,Maria Gonzalez,Juvenile group
+74,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.05,365.7,Hatchling,Unknown,22-03-2018,Philippines,Coastal,Least Concern,Sophia Patel,Resting near shore
+75,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.88,396.6,Adult,Unknown,15-05-2009,Philippines,Coastal,Least Concern,Ethan Martinez,Observed basking
+76,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.33,626.6,Juvenile,Female,18-05-2016,Philippines,Estuaries,Least Concern,Ethan Martinez,Tagged individual
+77,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.39,382.0,Subadult,Female,15-03-2020,Indonesia,Coastal,Least Concern,Emma Johnson,Resting near shore
+78,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.57,328.3,Hatchling,Female,14-01-2025,Australia,Estuaries,Least Concern,Ethan Martinez,Resting near shore
+79,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.23,555.2,Subadult,Male,03-10-2025,Philippines,Rivers,Least Concern,Ethan Martinez,Unusual coloration
+80,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.12,436.4,Hatchling,Male,13-10-2009,Australia,Coastal,Least Concern,Emma Johnson,Tagged individual
+81,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.55,401.1,Subadult,Unknown,19-09-2009,Australia,Rivers,Least Concern,Liam Brown,Unusual coloration
+82,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.73,562.0,Juvenile,Female,01-08-2016,Australia,Coastal,Least Concern,Ethan Martinez,Aggressive display
+83,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.54,636.4,Subadult,Female,02-04-2008,Philippines,Estuaries,Least Concern,Emma Johnson,Unusual coloration
+84,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.02,357.0,Subadult,Female,20-08-2017,Philippines,Estuaries,Least Concern,Olivia Davis,Aggressive display
+85,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.68,514.5,Subadult,Unknown,24-01-2023,Australia,Estuaries,Least Concern,Liam Brown,Resting near shore
+86,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.91,536.1,Juvenile,Unknown,27-01-2021,Indonesia,Coastal,Least Concern,Emma Johnson,Tagged individual
+87,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.16,532.5,Subadult,Unknown,24-07-2017,Philippines,Estuaries,Least Concern,Sophia Patel,Juvenile group
+88,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.3,679.1,Hatchling,Male,07-08-2008,Philippines,Coastal,Least Concern,Noah Williams,Resting near shore
+89,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.98,430.6,Adult,Unknown,21-05-2025,Australia,Rivers,Least Concern,Ethan Martinez,Juvenile group
+90,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.88,503.3,Hatchling,Male,07-05-2019,Philippines,Coastal,Least Concern,Noah Williams,Tagged individual
+91,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.42,718.9,Adult,Male,03-10-2024,Philippines,Coastal,Least Concern,Maria Gonzalez,Unusual coloration
+92,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.86,413.7,Subadult,Unknown,27-06-2009,Australia,Coastal,Least Concern,Maria Gonzalez,Resting near shore
+93,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,6.05,671.4,Subadult,Unknown,29-06-2005,Indonesia,Estuaries,Least Concern,Liam Brown,Feeding behavior
+94,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.12,398.9,Subadult,Female,05-10-2021,Indonesia,Estuaries,Least Concern,Sophia Patel,Nest near water
+95,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.11,602.9,Juvenile,Unknown,16-10-2020,Philippines,Estuaries,Least Concern,Emma Johnson,Tagged individual
+96,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.91,542.6,Adult,Female,21-11-2013,Australia,Coastal,Least Concern,Ethan Martinez,Observed basking
+97,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.77,604.5,Hatchling,Unknown,22-10-2014,Indonesia,Estuaries,Least Concern,John Smith,Unusual coloration
+98,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,4.86,553.8,Hatchling,Unknown,11-09-2006,Indonesia,Estuaries,Least Concern,Maria Gonzalez,Feeding behavior
+99,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,5.68,584.6,Adult,Unknown,02-08-2019,Australia,Rivers,Least Concern,Sophia Patel,Feeding behavior
+100,Saltwater Crocodile,Crocodylus porosus,Crocodylidae,Crocodylus,3.64,390.4,Adult,Unknown,31-05-2008,Philippines,Estuaries,Least Concern,Noah Williams,Feeding behavior
+101,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.37,400.7,Adult,Male,02-01-2014,Kenya,Swamps,Least Concern,Emma Johnson,Observed basking
+102,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.25,437.9,Subadult,Female,17-05-2008,Sudan,Rivers,Least Concern,Emma Johnson,Juvenile group
+103,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.07,259.3,Juvenile,Unknown,03-10-2025,Tanzania,Lakes,Least Concern,Noah Williams,Nest near water
+104,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.12,447.6,Hatchling,Male,18-12-2016,Kenya,Rivers,Least Concern,John Smith,Nest near water
+105,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.99,328.1,Juvenile,Unknown,07-09-2009,Kenya,Lakes,Least Concern,Sophia Patel,Tagged individual
+106,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.0,456.3,Subadult,Male,30-01-2008,Sudan,Rivers,Least Concern,Ethan Martinez,Feeding behavior
+107,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.7,318.8,Juvenile,Female,08-02-2006,Kenya,Swamps,Least Concern,Ethan Martinez,Resting near shore
+108,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.77,398.8,Hatchling,Male,05-12-2008,Kenya,Swamps,Least Concern,Maria Gonzalez,Nest near water
+109,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.13,258.9,Subadult,Unknown,09-02-2012,Kenya,Swamps,Least Concern,Olivia Davis,Juvenile group
+110,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.55,233.1,Adult,Female,30-05-2016,Tanzania,Lakes,Least Concern,Maria Gonzalez,Resting near shore
+111,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.8,400.7,Hatchling,Female,31-01-2013,Kenya,Lakes,Least Concern,Emma Johnson,Feeding behavior
+112,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.55,277.8,Hatchling,Unknown,09-06-2019,Kenya,Rivers,Least Concern,Olivia Davis,Resting near shore
+113,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.19,351.3,Subadult,Male,27-02-2008,Tanzania,Swamps,Least Concern,Sophia Patel,Nest near water
+114,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.62,334.7,Adult,Male,17-05-2006,Sudan,Rivers,Least Concern,Sophia Patel,Tagged individual
+115,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.6,387.9,Juvenile,Male,19-08-2016,Sudan,Lakes,Least Concern,Liam Brown,Nest near water
+116,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.23,460.0,Adult,Male,13-11-2011,Sudan,Rivers,Least Concern,Olivia Davis,Unusual coloration
+117,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.7,396.4,Hatchling,Female,22-08-2005,Kenya,Rivers,Least Concern,Ethan Martinez,Observed basking
+118,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.8,253.3,Adult,Unknown,16-03-2021,Kenya,Rivers,Least Concern,Liam Brown,Nest near water
+119,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.45,576.0,Adult,Male,10-07-2007,Sudan,Rivers,Least Concern,Ethan Martinez,Resting near shore
+120,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.93,420.5,Juvenile,Unknown,26-02-2023,Tanzania,Lakes,Least Concern,John Smith,Tagged individual
+121,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.93,402.7,Subadult,Unknown,10-02-2017,Kenya,Rivers,Least Concern,Noah Williams,Feeding behavior
+122,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.18,262.2,Juvenile,Male,18-07-2016,Tanzania,Rivers,Least Concern,Liam Brown,Nest near water
+123,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.18,272.0,Adult,Female,22-11-2024,Sudan,Swamps,Least Concern,Maria Gonzalez,Juvenile group
+124,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.48,317.5,Subadult,Unknown,14-05-2015,Tanzania,Lakes,Least Concern,Emma Johnson,Nest near water
+125,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.88,533.8,Hatchling,Unknown,28-04-2025,Sudan,Swamps,Least Concern,Olivia Davis,Observed basking
+126,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.54,239.8,Hatchling,Male,19-08-2008,Sudan,Rivers,Least Concern,Olivia Davis,Unusual coloration
+127,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.14,345.8,Adult,Female,26-10-2009,Kenya,Rivers,Least Concern,Ethan Martinez,Tagged individual
+128,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.52,373.7,Subadult,Female,07-01-2025,Kenya,Swamps,Least Concern,Liam Brown,Tagged individual
+129,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.69,244.7,Hatchling,Unknown,16-03-2024,Tanzania,Lakes,Least Concern,Noah Williams,Tagged individual
+130,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.86,289.9,Juvenile,Male,04-02-2010,Tanzania,Rivers,Least Concern,Ethan Martinez,Feeding behavior
+131,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.69,399.4,Subadult,Female,14-10-2014,Sudan,Lakes,Least Concern,Maria Gonzalez,Nest near water
+132,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.7,425.9,Juvenile,Unknown,23-12-2009,Tanzania,Rivers,Least Concern,John Smith,Juvenile group
+133,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.62,300.5,Hatchling,Unknown,18-02-2013,Tanzania,Rivers,Least Concern,Sophia Patel,Nest near water
+134,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.34,363.3,Juvenile,Unknown,30-05-2008,Sudan,Swamps,Least Concern,Olivia Davis,Juvenile group
+135,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.47,352.7,Adult,Unknown,13-06-2014,Kenya,Lakes,Least Concern,Ethan Martinez,Resting near shore
+136,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.27,518.5,Hatchling,Female,20-11-2020,Kenya,Rivers,Least Concern,Emma Johnson,Juvenile group
+137,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.79,499.2,Adult,Male,23-03-2008,Sudan,Rivers,Least Concern,Ethan Martinez,Nest near water
+138,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.25,294.2,Juvenile,Unknown,26-05-2014,Sudan,Lakes,Least Concern,Olivia Davis,Juvenile group
+139,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.83,383.6,Juvenile,Female,09-10-2007,Sudan,Lakes,Least Concern,Liam Brown,Juvenile group
+140,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.2,298.1,Hatchling,Unknown,25-12-2011,Kenya,Rivers,Least Concern,Maria Gonzalez,Resting near shore
+141,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.35,434.6,Adult,Male,31-07-2006,Sudan,Swamps,Least Concern,Noah Williams,Tagged individual
+142,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.78,414.6,Adult,Female,14-02-2018,Kenya,Rivers,Least Concern,Liam Brown,Resting near shore
+143,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.77,373.8,Subadult,Male,01-07-2024,Sudan,Rivers,Least Concern,Ethan Martinez,Aggressive display
+144,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.5,393.9,Subadult,Female,13-05-2019,Kenya,Swamps,Least Concern,Noah Williams,Aggressive display
+145,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.26,369.1,Hatchling,Male,29-12-2020,Kenya,Rivers,Least Concern,Ethan Martinez,Juvenile group
+146,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.32,458.4,Subadult,Male,08-07-2022,Kenya,Swamps,Least Concern,Ethan Martinez,Aggressive display
+147,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.85,293.3,Hatchling,Unknown,03-06-2007,Tanzania,Lakes,Least Concern,Maria Gonzalez,Feeding behavior
+148,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.44,413.8,Adult,Female,10-02-2021,Kenya,Swamps,Least Concern,John Smith,Unusual coloration
+149,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.15,269.1,Hatchling,Female,29-03-2023,Kenya,Swamps,Least Concern,Olivia Davis,Observed basking
+150,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.69,494.7,Hatchling,Female,26-08-2025,Tanzania,Lakes,Least Concern,Olivia Davis,Observed basking
+151,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.85,435.2,Subadult,Female,31-07-2010,Kenya,Lakes,Least Concern,Emma Johnson,Resting near shore
+152,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.76,492.3,Subadult,Male,12-09-2009,Tanzania,Swamps,Least Concern,Noah Williams,Aggressive display
+153,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.99,414.4,Hatchling,Female,21-11-2012,Sudan,Lakes,Least Concern,Sophia Patel,Unusual coloration
+154,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.77,410.5,Adult,Female,12-12-2018,Tanzania,Rivers,Least Concern,Ethan Martinez,Nest near water
+155,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.76,517.8,Subadult,Female,28-01-2023,Tanzania,Lakes,Least Concern,Ethan Martinez,Unusual coloration
+156,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.77,458.6,Hatchling,Male,19-01-2018,Kenya,Rivers,Least Concern,Emma Johnson,Tagged individual
+157,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.06,426.9,Hatchling,Male,04-02-2007,Kenya,Swamps,Least Concern,Maria Gonzalez,Aggressive display
+158,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.04,514.5,Subadult,Female,26-12-2007,Kenya,Swamps,Least Concern,Olivia Davis,Feeding behavior
+159,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.24,274.3,Hatchling,Female,16-01-2010,Kenya,Swamps,Least Concern,Ethan Martinez,Observed basking
+160,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.13,478.2,Adult,Male,09-09-2023,Kenya,Rivers,Least Concern,Sophia Patel,Juvenile group
+161,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.01,463.1,Hatchling,Female,20-06-2010,Sudan,Rivers,Least Concern,John Smith,Resting near shore
+162,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.74,479.7,Juvenile,Female,05-03-2009,Tanzania,Swamps,Least Concern,Olivia Davis,Aggressive display
+163,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.12,339.1,Adult,Female,06-03-2013,Kenya,Lakes,Least Concern,Sophia Patel,Unusual coloration
+164,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.44,563.2,Subadult,Unknown,16-07-2010,Tanzania,Rivers,Least Concern,Liam Brown,Feeding behavior
+165,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.66,473.1,Adult,Unknown,13-01-2012,Tanzania,Swamps,Least Concern,Maria Gonzalez,Juvenile group
+166,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.36,413.8,Juvenile,Female,14-01-2011,Tanzania,Swamps,Least Concern,John Smith,Resting near shore
+167,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.19,489.4,Juvenile,Male,24-07-2017,Kenya,Rivers,Least Concern,Ethan Martinez,Observed basking
+168,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.21,456.5,Hatchling,Unknown,13-12-2012,Tanzania,Rivers,Least Concern,Maria Gonzalez,Tagged individual
+169,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.15,294.7,Adult,Female,17-10-2020,Tanzania,Rivers,Least Concern,Liam Brown,Aggressive display
+170,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.8,525.1,Subadult,Female,21-03-2010,Tanzania,Swamps,Least Concern,Olivia Davis,Nest near water
+171,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.82,395.9,Hatchling,Unknown,10-03-2006,Tanzania,Lakes,Least Concern,Noah Williams,Feeding behavior
+172,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.44,561.5,Adult,Unknown,13-08-2008,Sudan,Swamps,Least Concern,Sophia Patel,Juvenile group
+173,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.5,289.9,Hatchling,Unknown,31-10-2025,Sudan,Rivers,Least Concern,Ethan Martinez,Feeding behavior
+174,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.04,430.9,Adult,Female,21-07-2013,Kenya,Swamps,Least Concern,Ethan Martinez,Nest near water
+175,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.77,243.2,Juvenile,Unknown,27-08-2014,Kenya,Lakes,Least Concern,Emma Johnson,Resting near shore
+176,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.86,319.7,Subadult,Unknown,14-03-2019,Sudan,Rivers,Least Concern,Maria Gonzalez,Unusual coloration
+177,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.01,327.8,Hatchling,Unknown,30-04-2006,Kenya,Rivers,Least Concern,Noah Williams,Feeding behavior
+178,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.9,475.5,Hatchling,Female,18-08-2013,Tanzania,Rivers,Least Concern,Emma Johnson,Observed basking
+179,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.11,449.1,Juvenile,Male,12-04-2019,Kenya,Rivers,Least Concern,Ethan Martinez,Nest near water
+180,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.62,491.5,Juvenile,Unknown,24-05-2013,Sudan,Swamps,Least Concern,Liam Brown,Resting near shore
+181,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.92,439.6,Juvenile,Female,06-09-2005,Sudan,Swamps,Least Concern,John Smith,Feeding behavior
+182,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.99,391.4,Subadult,Unknown,17-01-2009,Kenya,Rivers,Least Concern,Liam Brown,Feeding behavior
+183,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.33,533.3,Adult,Unknown,17-04-2017,Tanzania,Lakes,Least Concern,Olivia Davis,Resting near shore
+184,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.07,282.8,Juvenile,Female,04-03-2008,Sudan,Lakes,Least Concern,Sophia Patel,Resting near shore
+185,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.49,402.4,Adult,Unknown,14-11-2020,Kenya,Rivers,Least Concern,Maria Gonzalez,Feeding behavior
+186,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.46,323.3,Adult,Unknown,06-06-2019,Tanzania,Swamps,Least Concern,Sophia Patel,Tagged individual
+187,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,3.97,376.1,Adult,Female,05-10-2014,Sudan,Lakes,Least Concern,Olivia Davis,Feeding behavior
+188,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.48,565.1,Adult,Unknown,21-09-2013,Kenya,Swamps,Least Concern,Emma Johnson,Resting near shore
+189,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.34,476.4,Hatchling,Unknown,24-08-2023,Tanzania,Swamps,Least Concern,John Smith,Juvenile group
+190,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.64,235.2,Juvenile,Unknown,14-01-2012,Tanzania,Swamps,Least Concern,John Smith,Observed basking
+191,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.03,404.7,Hatchling,Unknown,06-08-2024,Sudan,Lakes,Least Concern,Olivia Davis,Nest near water
+192,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.72,234.2,Hatchling,Female,02-03-2009,Sudan,Rivers,Least Concern,Sophia Patel,Unusual coloration
+193,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.2,434.1,Hatchling,Male,06-09-2025,Sudan,Swamps,Least Concern,Olivia Davis,Juvenile group
+194,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.46,572.2,Juvenile,Unknown,02-04-2023,Kenya,Rivers,Least Concern,Noah Williams,Nest near water
+195,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.15,477.3,Hatchling,Male,06-03-2008,Kenya,Lakes,Least Concern,Sophia Patel,Tagged individual
+196,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.57,422.6,Subadult,Male,16-09-2024,Tanzania,Swamps,Least Concern,Emma Johnson,Aggressive display
+197,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.3,424.8,Subadult,Male,27-04-2023,Kenya,Lakes,Least Concern,Ethan Martinez,Tagged individual
+198,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,4.41,368.1,Adult,Male,14-11-2019,Kenya,Rivers,Least Concern,Sophia Patel,Feeding behavior
+199,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,5.37,544.8,Juvenile,Unknown,05-05-2012,Kenya,Rivers,Least Concern,Liam Brown,Tagged individual
+200,Nile Crocodile,Crocodylus niloticus,Crocodylidae,Crocodylus,2.83,236.5,Subadult,Unknown,05-06-2011,Tanzania,Lakes,Least Concern,Emma Johnson,Tagged individual
+201,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.44,269.5,Adult,Male,08-11-2007,Mexico,Mangroves,Vulnerable,John Smith,Resting near shore
+202,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.31,285.1,Juvenile,Male,07-02-2022,Mexico,Estuaries,Vulnerable,Maria Gonzalez,Juvenile group
+203,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.31,417.0,Adult,Unknown,02-04-2022,Cuba,Mangroves,Vulnerable,John Smith,Juvenile group
+204,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.05,247.1,Hatchling,Male,28-08-2012,Mexico,Coastal,Vulnerable,Emma Johnson,Nest near water
+205,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.68,251.4,Adult,Female,08-06-2008,Cuba,Mangroves,Vulnerable,Emma Johnson,Feeding behavior
+206,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.53,421.5,Adult,Male,17-07-2024,Venezuela,Coastal,Vulnerable,Ethan Martinez,Feeding behavior
+207,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.33,179.3,Juvenile,Male,10-04-2017,Venezuela,Coastal,Vulnerable,Noah Williams,Observed basking
+208,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.11,246.6,Hatchling,Unknown,28-02-2021,Cuba,Coastal,Vulnerable,Liam Brown,Unusual coloration
+209,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.44,435.4,Juvenile,Male,20-07-2013,Mexico,Coastal,Vulnerable,John Smith,Observed basking
+210,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.95,404.2,Hatchling,Unknown,28-03-2017,Mexico,Mangroves,Vulnerable,Maria Gonzalez,Observed basking
+211,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.73,388.5,Adult,Female,18-05-2020,Cuba,Coastal,Vulnerable,Olivia Davis,Resting near shore
+212,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.76,378.9,Subadult,Female,13-04-2019,Venezuela,Coastal,Vulnerable,Ethan Martinez,Resting near shore
+213,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,5.0,507.3,Juvenile,Male,08-06-2011,Cuba,Estuaries,Vulnerable,Liam Brown,Aggressive display
+214,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.13,186.0,Hatchling,Female,25-01-2023,Venezuela,Coastal,Vulnerable,Emma Johnson,Nest near water
+215,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.83,423.3,Adult,Male,05-11-2023,Cuba,Mangroves,Vulnerable,Noah Williams,Juvenile group
+216,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.01,285.8,Adult,Female,18-09-2013,Venezuela,Estuaries,Vulnerable,Ethan Martinez,Unusual coloration
+217,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.84,468.9,Juvenile,Male,13-11-2009,Mexico,Coastal,Vulnerable,Sophia Patel,Juvenile group
+218,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.93,319.9,Adult,Unknown,06-05-2024,Cuba,Estuaries,Vulnerable,Olivia Davis,Unusual coloration
+219,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.71,488.3,Hatchling,Unknown,19-08-2019,Mexico,Estuaries,Vulnerable,Ethan Martinez,Tagged individual
+220,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.98,410.4,Hatchling,Male,15-11-2009,Cuba,Estuaries,Vulnerable,Noah Williams,Nest near water
+221,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.7,296.6,Adult,Male,25-07-2020,Venezuela,Mangroves,Vulnerable,Sophia Patel,Aggressive display
+222,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.23,287.7,Juvenile,Unknown,06-01-2014,Cuba,Coastal,Vulnerable,Sophia Patel,Nest near water
+223,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.36,338.2,Adult,Female,10-09-2018,Cuba,Mangroves,Vulnerable,John Smith,Feeding behavior
+224,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.23,438.8,Subadult,Male,11-01-2012,Mexico,Mangroves,Vulnerable,Noah Williams,Juvenile group
+225,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.43,329.7,Subadult,Unknown,24-05-2025,Venezuela,Mangroves,Vulnerable,Noah Williams,Resting near shore
+226,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.25,295.6,Hatchling,Unknown,02-08-2008,Venezuela,Estuaries,Vulnerable,Liam Brown,Nest near water
+227,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.07,415.6,Juvenile,Unknown,22-05-2017,Cuba,Estuaries,Vulnerable,Ethan Martinez,Tagged individual
+228,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.64,413.8,Juvenile,Female,07-03-2007,Mexico,Coastal,Vulnerable,John Smith,Nest near water
+229,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.75,301.7,Hatchling,Unknown,08-06-2020,Venezuela,Mangroves,Vulnerable,Noah Williams,Resting near shore
+230,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.53,237.1,Subadult,Female,28-11-2006,Mexico,Estuaries,Vulnerable,Noah Williams,Feeding behavior
+231,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.88,284.5,Juvenile,Male,21-12-2025,Cuba,Estuaries,Vulnerable,Sophia Patel,Unusual coloration
+232,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.1,256.0,Adult,Male,13-12-2018,Mexico,Estuaries,Vulnerable,Olivia Davis,Nest near water
+233,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.95,379.3,Hatchling,Female,23-02-2012,Cuba,Estuaries,Vulnerable,Liam Brown,Observed basking
+234,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.98,338.3,Adult,Female,28-11-2005,Venezuela,Estuaries,Vulnerable,Emma Johnson,Resting near shore
+235,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.14,320.7,Hatchling,Unknown,13-11-2017,Mexico,Mangroves,Vulnerable,John Smith,Tagged individual
+236,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.01,298.3,Hatchling,Unknown,27-01-2020,Venezuela,Estuaries,Vulnerable,Emma Johnson,Aggressive display
+237,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.47,288.0,Subadult,Male,07-10-2012,Venezuela,Estuaries,Vulnerable,Emma Johnson,Juvenile group
+238,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.07,163.2,Hatchling,Unknown,27-06-2025,Venezuela,Coastal,Vulnerable,Noah Williams,Feeding behavior
+239,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.72,305.4,Hatchling,Male,17-05-2013,Mexico,Mangroves,Vulnerable,Maria Gonzalez,Nest near water
+240,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.47,231.6,Hatchling,Unknown,21-04-2005,Mexico,Mangroves,Vulnerable,Noah Williams,Feeding behavior
+241,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.11,332.9,Subadult,Unknown,17-05-2007,Venezuela,Coastal,Vulnerable,Maria Gonzalez,Observed basking
+242,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.3,315.4,Juvenile,Male,09-02-2021,Cuba,Mangroves,Vulnerable,Maria Gonzalez,Observed basking
+243,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.45,428.3,Hatchling,Female,09-03-2012,Mexico,Mangroves,Vulnerable,Sophia Patel,Resting near shore
+244,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.55,191.7,Juvenile,Female,18-06-2011,Venezuela,Coastal,Vulnerable,John Smith,Resting near shore
+245,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.11,317.6,Subadult,Male,12-09-2024,Mexico,Mangroves,Vulnerable,Sophia Patel,Feeding behavior
+246,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.52,294.1,Juvenile,Male,08-11-2013,Mexico,Estuaries,Vulnerable,Emma Johnson,Aggressive display
+247,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.84,226.7,Subadult,Unknown,27-05-2010,Venezuela,Estuaries,Vulnerable,John Smith,Tagged individual
+248,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.24,219.4,Adult,Female,31-03-2025,Mexico,Mangroves,Vulnerable,John Smith,Aggressive display
+249,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.76,385.4,Hatchling,Unknown,17-02-2020,Cuba,Estuaries,Vulnerable,Maria Gonzalez,Unusual coloration
+250,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.07,304.9,Hatchling,Unknown,20-11-2010,Venezuela,Coastal,Vulnerable,Noah Williams,Resting near shore
+251,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.76,286.8,Subadult,Female,12-01-2012,Venezuela,Estuaries,Vulnerable,Sophia Patel,Juvenile group
+252,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.61,410.0,Adult,Female,11-04-2012,Venezuela,Estuaries,Vulnerable,Olivia Davis,Resting near shore
+253,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.14,317.5,Adult,Female,20-07-2005,Mexico,Mangroves,Vulnerable,Liam Brown,Unusual coloration
+254,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.78,304.4,Subadult,Male,29-09-2014,Mexico,Estuaries,Vulnerable,Liam Brown,Nest near water
+255,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.59,232.9,Adult,Female,12-05-2008,Mexico,Mangroves,Vulnerable,Emma Johnson,Unusual coloration
+256,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.3,341.3,Subadult,Male,06-04-2009,Mexico,Estuaries,Vulnerable,Ethan Martinez,Resting near shore
+257,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.12,384.1,Hatchling,Female,19-05-2007,Mexico,Estuaries,Vulnerable,Maria Gonzalez,Unusual coloration
+258,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.87,457.5,Adult,Male,04-05-2014,Mexico,Mangroves,Vulnerable,Ethan Martinez,Observed basking
+259,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.8,345.4,Subadult,Unknown,15-11-2018,Venezuela,Coastal,Vulnerable,Olivia Davis,Feeding behavior
+260,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.7,330.1,Subadult,Unknown,19-05-2024,Venezuela,Coastal,Vulnerable,Liam Brown,Unusual coloration
+261,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.06,415.4,Subadult,Female,10-07-2010,Mexico,Estuaries,Vulnerable,Sophia Patel,Unusual coloration
+262,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.09,417.4,Adult,Female,13-06-2017,Venezuela,Coastal,Vulnerable,Noah Williams,Unusual coloration
+263,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.47,309.2,Juvenile,Unknown,19-04-2018,Venezuela,Coastal,Vulnerable,Sophia Patel,Juvenile group
+264,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.24,201.0,Hatchling,Female,29-10-2021,Mexico,Estuaries,Vulnerable,Liam Brown,Unusual coloration
+265,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.37,364.0,Subadult,Male,31-01-2015,Cuba,Coastal,Vulnerable,Olivia Davis,Juvenile group
+266,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.98,297.2,Hatchling,Female,14-07-2010,Mexico,Estuaries,Vulnerable,Sophia Patel,Observed basking
+267,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.81,347.1,Juvenile,Female,06-03-2012,Venezuela,Coastal,Vulnerable,Ethan Martinez,Unusual coloration
+268,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.57,321.7,Hatchling,Female,14-06-2021,Cuba,Mangroves,Vulnerable,John Smith,Juvenile group
+269,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.78,220.5,Adult,Unknown,12-05-2023,Mexico,Estuaries,Vulnerable,John Smith,Tagged individual
+270,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.34,288.8,Adult,Male,08-04-2013,Mexico,Mangroves,Vulnerable,Ethan Martinez,Nest near water
+271,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.83,272.2,Adult,Female,02-06-2007,Mexico,Coastal,Vulnerable,Emma Johnson,Resting near shore
+272,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.37,239.4,Juvenile,Unknown,19-11-2007,Venezuela,Estuaries,Vulnerable,Noah Williams,Observed basking
+273,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.89,367.2,Subadult,Male,27-01-2012,Cuba,Estuaries,Vulnerable,Olivia Davis,Observed basking
+274,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.97,290.2,Subadult,Unknown,03-10-2023,Venezuela,Mangroves,Vulnerable,John Smith,Tagged individual
+275,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.19,168.7,Hatchling,Unknown,01-02-2021,Mexico,Coastal,Vulnerable,Liam Brown,Resting near shore
+276,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.92,418.9,Juvenile,Unknown,10-04-2010,Mexico,Mangroves,Vulnerable,Maria Gonzalez,Unusual coloration
+277,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.93,341.4,Hatchling,Female,26-12-2013,Venezuela,Estuaries,Vulnerable,John Smith,Aggressive display
+278,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.29,433.5,Hatchling,Male,23-01-2015,Mexico,Coastal,Vulnerable,Liam Brown,Feeding behavior
+279,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.93,377.0,Hatchling,Unknown,01-05-2020,Mexico,Mangroves,Vulnerable,John Smith,Observed basking
+280,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.86,384.6,Hatchling,Male,05-01-2022,Venezuela,Mangroves,Vulnerable,Sophia Patel,Nest near water
+281,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.53,295.4,Adult,Unknown,13-01-2020,Venezuela,Estuaries,Vulnerable,Olivia Davis,Observed basking
+282,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.77,306.4,Adult,Unknown,11-07-2006,Mexico,Coastal,Vulnerable,John Smith,Juvenile group
+283,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.53,352.5,Hatchling,Female,28-09-2020,Cuba,Estuaries,Vulnerable,Maria Gonzalez,Unusual coloration
+284,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.67,331.5,Juvenile,Unknown,02-03-2005,Venezuela,Mangroves,Vulnerable,Emma Johnson,Tagged individual
+285,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.18,300.6,Subadult,Female,23-05-2009,Mexico,Mangroves,Vulnerable,Noah Williams,Tagged individual
+286,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.55,194.4,Adult,Unknown,12-08-2019,Venezuela,Mangroves,Vulnerable,Olivia Davis,Juvenile group
+287,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.66,463.8,Juvenile,Male,15-01-2022,Mexico,Coastal,Vulnerable,Emma Johnson,Juvenile group
+288,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.65,200.6,Hatchling,Unknown,17-01-2019,Venezuela,Estuaries,Vulnerable,Sophia Patel,Tagged individual
+289,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.16,369.1,Juvenile,Female,18-08-2009,Mexico,Mangroves,Vulnerable,Ethan Martinez,Aggressive display
+290,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.23,174.4,Juvenile,Female,09-10-2015,Venezuela,Coastal,Vulnerable,Emma Johnson,Juvenile group
+291,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.34,323.5,Hatchling,Male,25-02-2011,Mexico,Mangroves,Vulnerable,John Smith,Tagged individual
+292,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.23,364.6,Hatchling,Female,30-10-2009,Mexico,Mangroves,Vulnerable,Sophia Patel,Aggressive display
+293,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.91,241.2,Hatchling,Female,13-04-2022,Venezuela,Estuaries,Vulnerable,John Smith,Feeding behavior
+294,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.26,185.4,Hatchling,Female,01-12-2008,Mexico,Mangroves,Vulnerable,John Smith,Feeding behavior
+295,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.19,333.5,Subadult,Female,04-07-2005,Cuba,Coastal,Vulnerable,Ethan Martinez,Feeding behavior
+296,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.49,392.3,Adult,Male,01-11-2005,Mexico,Estuaries,Vulnerable,Ethan Martinez,Aggressive display
+297,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.16,337.3,Hatchling,Unknown,01-06-2006,Mexico,Coastal,Vulnerable,Emma Johnson,Tagged individual
+298,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,4.99,380.9,Subadult,Male,08-04-2010,Venezuela,Mangroves,Vulnerable,Ethan Martinez,Observed basking
+299,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,3.09,287.2,Adult,Male,18-01-2021,Cuba,Estuaries,Vulnerable,John Smith,Tagged individual
+300,American Crocodile,Crocodylus acutus,Crocodylidae,Crocodylus,2.96,278.8,Juvenile,Female,10-10-2019,Venezuela,Estuaries,Vulnerable,Noah Williams,Nest near water
+301,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.72,120.7,Adult,Female,27-06-2015,Mexico,Swamps,Least Concern,Noah Williams,Tagged individual
+302,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.83,169.8,Adult,Female,07-09-2014,Mexico,Rivers,Least Concern,Maria Gonzalez,Tagged individual
+303,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.02,156.6,Adult,Female,27-11-2021,Mexico,Rivers,Least Concern,Liam Brown,Observed basking
+304,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.97,219.1,Subadult,Unknown,12-03-2019,Guatemala,Swamps,Least Concern,Liam Brown,Nest near water
+305,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.28,153.4,Hatchling,Female,02-10-2024,Guatemala,Lakes,Least Concern,Maria Gonzalez,Observed basking
+306,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.68,120.9,Juvenile,Unknown,01-02-2010,Mexico,Rivers,Least Concern,Noah Williams,Resting near shore
+307,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.37,171.8,Adult,Unknown,26-09-2019,Mexico,Rivers,Least Concern,Olivia Davis,Juvenile group
+308,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.75,211.4,Juvenile,Unknown,11-06-2019,Guatemala,Swamps,Least Concern,Ethan Martinez,Nest near water
+309,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.72,89.7,Hatchling,Unknown,11-12-2022,Belize,Rivers,Least Concern,Maria Gonzalez,Resting near shore
+310,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.93,163.3,Adult,Female,06-07-2023,Mexico,Swamps,Least Concern,Sophia Patel,Feeding behavior
+311,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.6,101.7,Subadult,Male,24-08-2009,Belize,Swamps,Least Concern,Liam Brown,Feeding behavior
+312,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.01,123.1,Subadult,Unknown,15-01-2014,Belize,Lakes,Least Concern,John Smith,Tagged individual
+313,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.97,193.0,Adult,Unknown,16-10-2018,Mexico,Lakes,Least Concern,John Smith,Resting near shore
+314,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.13,144.0,Subadult,Unknown,16-08-2015,Mexico,Swamps,Least Concern,Olivia Davis,Feeding behavior
+315,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.64,138.9,Adult,Male,10-07-2013,Mexico,Rivers,Least Concern,John Smith,Resting near shore
+316,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.07,124.5,Hatchling,Male,04-07-2010,Mexico,Rivers,Least Concern,Maria Gonzalez,Resting near shore
+317,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.42,127.9,Hatchling,Female,13-12-2011,Guatemala,Lakes,Least Concern,Ethan Martinez,Juvenile group
+318,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.19,155.3,Hatchling,Unknown,20-12-2014,Guatemala,Swamps,Least Concern,Maria Gonzalez,Nest near water
+319,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.76,111.9,Hatchling,Female,19-02-2018,Mexico,Rivers,Least Concern,Maria Gonzalez,Resting near shore
+320,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.53,200.0,Subadult,Unknown,07-06-2012,Belize,Swamps,Least Concern,Olivia Davis,Feeding behavior
+321,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.66,197.4,Adult,Female,03-08-2010,Belize,Swamps,Least Concern,John Smith,Aggressive display
+322,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.8,189.0,Hatchling,Female,05-02-2009,Belize,Lakes,Least Concern,Sophia Patel,Unusual coloration
+323,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.75,94.4,Adult,Unknown,13-06-2025,Mexico,Swamps,Least Concern,Maria Gonzalez,Feeding behavior
+324,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.53,100.6,Hatchling,Female,17-02-2016,Guatemala,Rivers,Least Concern,Noah Williams,Aggressive display
+325,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.15,152.8,Hatchling,Female,17-08-2015,Guatemala,Lakes,Least Concern,John Smith,Tagged individual
+326,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.1,162.9,Hatchling,Female,08-09-2024,Belize,Swamps,Least Concern,Noah Williams,Resting near shore
+327,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.17,173.4,Hatchling,Male,09-12-2006,Belize,Swamps,Least Concern,Liam Brown,Juvenile group
+328,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.67,85.5,Subadult,Female,02-07-2006,Mexico,Rivers,Least Concern,Liam Brown,Aggressive display
+329,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.06,134.5,Subadult,Male,30-09-2021,Belize,Swamps,Least Concern,Olivia Davis,Observed basking
+330,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.82,152.6,Subadult,Unknown,25-11-2016,Belize,Swamps,Least Concern,John Smith,Tagged individual
+331,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.22,117.6,Juvenile,Male,23-11-2019,Belize,Lakes,Least Concern,Ethan Martinez,Resting near shore
+332,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.79,145.2,Hatchling,Male,18-12-2019,Mexico,Rivers,Least Concern,Liam Brown,Nest near water
+333,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.91,217.8,Juvenile,Male,23-01-2019,Guatemala,Swamps,Least Concern,Olivia Davis,Unusual coloration
+334,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.54,108.0,Adult,Male,12-07-2024,Mexico,Swamps,Least Concern,Noah Williams,Aggressive display
+335,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.22,174.2,Adult,Unknown,05-10-2023,Mexico,Lakes,Least Concern,Sophia Patel,Nest near water
+336,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.66,167.5,Juvenile,Male,08-06-2018,Guatemala,Lakes,Least Concern,Emma Johnson,Resting near shore
+337,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.05,126.7,Hatchling,Unknown,27-11-2006,Belize,Lakes,Least Concern,Liam Brown,Observed basking
+338,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.78,178.2,Subadult,Female,05-10-2023,Mexico,Rivers,Least Concern,Noah Williams,Tagged individual
+339,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.96,195.3,Juvenile,Female,24-07-2012,Mexico,Lakes,Least Concern,Maria Gonzalez,Resting near shore
+340,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.81,190.6,Hatchling,Female,10-02-2019,Guatemala,Rivers,Least Concern,Emma Johnson,Tagged individual
+341,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.96,165.0,Subadult,Male,11-09-2017,Belize,Lakes,Least Concern,Sophia Patel,Unusual coloration
+342,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.65,203.3,Adult,Female,02-12-2010,Mexico,Rivers,Least Concern,Olivia Davis,Juvenile group
+343,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.81,115.6,Subadult,Male,30-05-2020,Belize,Rivers,Least Concern,Noah Williams,Unusual coloration
+344,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.81,133.4,Hatchling,Unknown,18-03-2021,Guatemala,Swamps,Least Concern,Emma Johnson,Juvenile group
+345,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.58,201.2,Adult,Female,06-07-2010,Mexico,Swamps,Least Concern,Olivia Davis,Resting near shore
+346,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.69,103.6,Subadult,Male,18-09-2010,Mexico,Rivers,Least Concern,Maria Gonzalez,Tagged individual
+347,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.18,173.8,Hatchling,Male,28-03-2009,Guatemala,Lakes,Least Concern,Emma Johnson,Resting near shore
+348,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.44,157.8,Adult,Male,17-12-2010,Guatemala,Lakes,Least Concern,John Smith,Aggressive display
+349,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.77,107.7,Adult,Female,10-01-2012,Belize,Lakes,Least Concern,Maria Gonzalez,Nest near water
+350,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.68,208.4,Hatchling,Female,31-05-2007,Belize,Swamps,Least Concern,Emma Johnson,Nest near water
+351,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.67,132.4,Juvenile,Male,28-12-2024,Guatemala,Lakes,Least Concern,John Smith,Observed basking
+352,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.43,163.1,Subadult,Female,26-05-2010,Guatemala,Lakes,Least Concern,Sophia Patel,Juvenile group
+353,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.64,145.6,Subadult,Male,27-05-2008,Mexico,Rivers,Least Concern,John Smith,Unusual coloration
+354,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.69,97.0,Hatchling,Male,17-01-2007,Mexico,Swamps,Least Concern,Emma Johnson,Resting near shore
+355,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.88,168.1,Juvenile,Female,03-09-2018,Mexico,Swamps,Least Concern,Liam Brown,Nest near water
+356,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.82,96.5,Subadult,Female,01-01-2018,Belize,Swamps,Least Concern,Olivia Davis,Resting near shore
+357,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.53,111.6,Adult,Female,16-05-2008,Belize,Lakes,Least Concern,Olivia Davis,Aggressive display
+358,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.53,99.8,Adult,Female,17-09-2022,Belize,Rivers,Least Concern,Noah Williams,Unusual coloration
+359,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.75,108.7,Juvenile,Female,29-03-2008,Mexico,Lakes,Least Concern,Maria Gonzalez,Aggressive display
+360,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.85,174.9,Subadult,Female,24-02-2011,Belize,Lakes,Least Concern,Sophia Patel,Tagged individual
+361,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.57,130.2,Juvenile,Unknown,24-08-2020,Mexico,Swamps,Least Concern,Maria Gonzalez,Resting near shore
+362,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.59,200.1,Subadult,Female,17-06-2005,Guatemala,Lakes,Least Concern,Ethan Martinez,Aggressive display
+363,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.87,165.9,Subadult,Female,16-02-2010,Belize,Lakes,Least Concern,Emma Johnson,Unusual coloration
+364,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.97,181.0,Juvenile,Unknown,20-06-2019,Belize,Swamps,Least Concern,Sophia Patel,Observed basking
+365,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.62,126.3,Juvenile,Male,21-10-2018,Belize,Swamps,Least Concern,John Smith,Tagged individual
+366,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.81,156.2,Subadult,Male,03-04-2024,Mexico,Swamps,Least Concern,Olivia Davis,Tagged individual
+367,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.43,163.2,Juvenile,Unknown,02-07-2006,Mexico,Lakes,Least Concern,Sophia Patel,Feeding behavior
+368,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.85,137.3,Subadult,Unknown,20-07-2015,Guatemala,Swamps,Least Concern,Olivia Davis,Nest near water
+369,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.73,151.1,Hatchling,Male,03-05-2022,Belize,Rivers,Least Concern,Maria Gonzalez,Tagged individual
+370,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.87,94.0,Subadult,Unknown,05-01-2009,Belize,Lakes,Least Concern,Liam Brown,Nest near water
+371,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.7,87.5,Hatchling,Unknown,25-04-2016,Belize,Lakes,Least Concern,John Smith,Aggressive display
+372,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.19,139.4,Juvenile,Unknown,18-09-2023,Belize,Swamps,Least Concern,Noah Williams,Tagged individual
+373,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.97,160.6,Juvenile,Male,11-05-2019,Guatemala,Swamps,Least Concern,John Smith,Feeding behavior
+374,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.83,181.1,Adult,Unknown,01-12-2021,Mexico,Lakes,Least Concern,Olivia Davis,Aggressive display
+375,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.29,142.5,Subadult,Unknown,14-12-2017,Guatemala,Rivers,Least Concern,Olivia Davis,Tagged individual
+376,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.76,147.6,Juvenile,Male,22-08-2009,Guatemala,Lakes,Least Concern,Maria Gonzalez,Unusual coloration
+377,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.23,161.7,Adult,Female,19-05-2013,Mexico,Lakes,Least Concern,John Smith,Unusual coloration
+378,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.09,113.4,Juvenile,Female,28-05-2024,Belize,Lakes,Least Concern,Liam Brown,Tagged individual
+379,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.06,115.6,Subadult,Female,15-12-2013,Belize,Lakes,Least Concern,Ethan Martinez,Resting near shore
+380,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.06,124.7,Hatchling,Male,07-04-2008,Belize,Lakes,Least Concern,Maria Gonzalez,Tagged individual
+381,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.73,181.7,Adult,Male,02-06-2018,Mexico,Rivers,Least Concern,Emma Johnson,Unusual coloration
+382,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.88,158.3,Hatchling,Female,08-06-2012,Belize,Lakes,Least Concern,Sophia Patel,Tagged individual
+383,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.54,95.6,Subadult,Male,22-07-2005,Belize,Swamps,Least Concern,Sophia Patel,Unusual coloration
+384,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.58,103.5,Subadult,Unknown,29-04-2012,Guatemala,Lakes,Least Concern,Emma Johnson,Unusual coloration
+385,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,3.0,163.8,Adult,Female,16-02-2022,Belize,Lakes,Least Concern,John Smith,Feeding behavior
+386,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.71,132.4,Adult,Unknown,17-03-2021,Mexico,Lakes,Least Concern,Emma Johnson,Nest near water
+387,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.57,79.1,Adult,Female,05-11-2013,Belize,Rivers,Least Concern,Sophia Patel,Observed basking
+388,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.14,143.5,Adult,Unknown,06-05-2009,Belize,Swamps,Least Concern,Olivia Davis,Nest near water
+389,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.59,190.7,Hatchling,Male,06-04-2024,Belize,Swamps,Least Concern,John Smith,Tagged individual
+390,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.5,185.9,Juvenile,Unknown,26-01-2016,Belize,Lakes,Least Concern,Maria Gonzalez,Feeding behavior
+391,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.29,160.4,Subadult,Female,16-10-2010,Mexico,Rivers,Least Concern,Noah Williams,Unusual coloration
+392,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.72,171.4,Subadult,Unknown,16-06-2022,Guatemala,Rivers,Least Concern,Sophia Patel,Juvenile group
+393,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.93,172.9,Subadult,Female,31-03-2021,Mexico,Lakes,Least Concern,Olivia Davis,Observed basking
+394,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.2,120.1,Juvenile,Unknown,06-01-2010,Mexico,Swamps,Least Concern,Sophia Patel,Juvenile group
+395,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.35,138.6,Subadult,Female,27-08-2021,Belize,Rivers,Least Concern,Olivia Davis,Aggressive display
+396,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.15,160.1,Adult,Unknown,28-06-2006,Belize,Swamps,Least Concern,Noah Williams,Observed basking
+397,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.96,126.6,Adult,Male,27-06-2012,Belize,Lakes,Least Concern,Noah Williams,Feeding behavior
+398,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.86,137.9,Juvenile,Female,25-08-2014,Mexico,Lakes,Least Concern,Sophia Patel,Tagged individual
+399,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,1.62,119.7,Subadult,Unknown,15-06-2013,Mexico,Swamps,Least Concern,Maria Gonzalez,Feeding behavior
+400,Morelet's Crocodile,Crocodylus moreletii,Crocodylidae,Crocodylus,2.99,149.7,Adult,Female,09-02-2025,Belize,Swamps,Least Concern,Maria Gonzalez,Nest near water
+401,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.17,365.4,Juvenile,Female,03-12-2023,Venezuela,Rivers,Critically Endangered,Noah Williams,Unusual coloration
+402,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.04,443.0,Subadult,Male,16-11-2005,Venezuela,Flooded Savannas,Critically Endangered,Maria Gonzalez,Observed basking
+403,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.04,407.2,Adult,Female,31-05-2007,Venezuela,Rivers,Critically Endangered,Emma Johnson,Tagged individual
+404,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.11,435.7,Hatchling,Female,06-08-2018,Colombia,Rivers,Critically Endangered,Emma Johnson,Nest near water
+405,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.63,485.9,Juvenile,Unknown,14-05-2011,Venezuela,Flooded Savannas,Critically Endangered,John Smith,Aggressive display
+406,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.54,399.7,Subadult,Unknown,16-11-2011,Colombia,Flooded Savannas,Critically Endangered,Emma Johnson,Aggressive display
+407,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.26,366.8,Subadult,Male,26-05-2010,Colombia,Swamps,Critically Endangered,Ethan Martinez,Nest near water
+408,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.87,250.3,Hatchling,Male,02-06-2007,Venezuela,Swamps,Critically Endangered,Ethan Martinez,Nest near water
+409,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.52,397.4,Subadult,Unknown,14-05-2010,Colombia,Swamps,Critically Endangered,Ethan Martinez,Aggressive display
+410,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.89,262.3,Juvenile,Female,20-09-2019,Colombia,Swamps,Critically Endangered,John Smith,Unusual coloration
+411,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.66,417.2,Hatchling,Female,27-09-2013,Venezuela,Rivers,Critically Endangered,Liam Brown,Resting near shore
+412,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.9,527.0,Juvenile,Female,19-09-2021,Colombia,Flooded Savannas,Critically Endangered,Olivia Davis,Unusual coloration
+413,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.69,445.7,Juvenile,Female,30-04-2014,Venezuela,Rivers,Critically Endangered,Maria Gonzalez,Resting near shore
+414,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.77,508.6,Juvenile,Unknown,19-07-2018,Venezuela,Rivers,Critically Endangered,Ethan Martinez,Tagged individual
+415,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.34,294.4,Hatchling,Unknown,03-02-2013,Colombia,Rivers,Critically Endangered,Noah Williams,Unusual coloration
+416,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.72,541.9,Juvenile,Female,05-04-2020,Venezuela,Rivers,Critically Endangered,Emma Johnson,Aggressive display
+417,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.61,247.9,Hatchling,Female,16-02-2021,Venezuela,Flooded Savannas,Critically Endangered,Emma Johnson,Resting near shore
+418,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.79,494.6,Hatchling,Female,10-08-2023,Colombia,Swamps,Critically Endangered,Olivia Davis,Resting near shore
+419,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.54,476.9,Juvenile,Female,09-12-2010,Venezuela,Flooded Savannas,Critically Endangered,Emma Johnson,Observed basking
+420,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.05,334.4,Subadult,Male,26-11-2016,Colombia,Flooded Savannas,Critically Endangered,Sophia Patel,Observed basking
+421,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.84,430.0,Hatchling,Female,27-01-2006,Venezuela,Flooded Savannas,Critically Endangered,Maria Gonzalez,Tagged individual
+422,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.97,454.3,Subadult,Unknown,17-11-2019,Colombia,Rivers,Critically Endangered,John Smith,Resting near shore
+423,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.86,351.3,Juvenile,Female,30-07-2017,Colombia,Rivers,Critically Endangered,Noah Williams,Nest near water
+424,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.75,310.6,Subadult,Unknown,05-07-2010,Colombia,Rivers,Critically Endangered,Ethan Martinez,Observed basking
+425,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.76,433.7,Subadult,Unknown,08-10-2010,Colombia,Rivers,Critically Endangered,Olivia Davis,Nest near water
+426,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.96,551.5,Hatchling,Female,11-12-2011,Venezuela,Flooded Savannas,Critically Endangered,Maria Gonzalez,Feeding behavior
+427,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.34,334.0,Hatchling,Female,06-01-2009,Venezuela,Rivers,Critically Endangered,Maria Gonzalez,Resting near shore
+428,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.39,297.5,Hatchling,Female,26-12-2019,Colombia,Swamps,Critically Endangered,Emma Johnson,Feeding behavior
+429,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.98,447.5,Juvenile,Unknown,13-08-2010,Venezuela,Flooded Savannas,Critically Endangered,John Smith,Feeding behavior
+430,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.35,323.9,Juvenile,Female,28-09-2025,Colombia,Rivers,Critically Endangered,Noah Williams,Observed basking
+431,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.43,475.9,Adult,Male,04-10-2008,Colombia,Rivers,Critically Endangered,Sophia Patel,Resting near shore
+432,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.47,361.8,Juvenile,Unknown,11-12-2025,Venezuela,Swamps,Critically Endangered,Ethan Martinez,Resting near shore
+433,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.54,266.5,Hatchling,Female,21-03-2009,Venezuela,Rivers,Critically Endangered,John Smith,Unusual coloration
+434,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.66,408.0,Subadult,Female,25-10-2021,Colombia,Swamps,Critically Endangered,John Smith,Unusual coloration
+435,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.88,394.0,Hatchling,Unknown,18-01-2008,Venezuela,Swamps,Critically Endangered,Ethan Martinez,Resting near shore
+436,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.84,375.4,Hatchling,Unknown,11-02-2012,Colombia,Rivers,Critically Endangered,Sophia Patel,Tagged individual
+437,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.54,522.0,Hatchling,Female,30-11-2019,Venezuela,Rivers,Critically Endangered,Liam Brown,Tagged individual
+438,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.75,401.8,Adult,Male,28-11-2016,Colombia,Flooded Savannas,Critically Endangered,Noah Williams,Feeding behavior
+439,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.67,527.4,Hatchling,Female,08-05-2012,Colombia,Rivers,Critically Endangered,Liam Brown,Feeding behavior
+440,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.72,427.1,Hatchling,Male,05-12-2010,Venezuela,Flooded Savannas,Critically Endangered,Noah Williams,Unusual coloration
+441,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.6,466.9,Hatchling,Male,07-02-2006,Venezuela,Swamps,Critically Endangered,Emma Johnson,Tagged individual
+442,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.74,509.9,Subadult,Unknown,04-10-2019,Venezuela,Swamps,Critically Endangered,Emma Johnson,Feeding behavior
+443,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.35,387.6,Adult,Male,04-10-2019,Venezuela,Flooded Savannas,Critically Endangered,Noah Williams,Tagged individual
+444,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.67,351.7,Hatchling,Male,29-12-2024,Venezuela,Swamps,Critically Endangered,Ethan Martinez,Observed basking
+445,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.34,302.4,Juvenile,Unknown,03-08-2017,Venezuela,Flooded Savannas,Critically Endangered,Sophia Patel,Feeding behavior
+446,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.34,475.9,Hatchling,Female,25-11-2009,Venezuela,Swamps,Critically Endangered,Liam Brown,Nest near water
+447,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.73,343.7,Hatchling,Unknown,24-09-2016,Venezuela,Flooded Savannas,Critically Endangered,Emma Johnson,Juvenile group
+448,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.84,324.4,Adult,Male,04-07-2023,Colombia,Rivers,Critically Endangered,Emma Johnson,Unusual coloration
+449,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.14,323.9,Subadult,Female,03-08-2010,Colombia,Swamps,Critically Endangered,Maria Gonzalez,Aggressive display
+450,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.94,431.2,Adult,Unknown,16-04-2009,Venezuela,Rivers,Critically Endangered,Emma Johnson,Nest near water
+451,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,5.0,536.7,Juvenile,Male,13-12-2020,Venezuela,Swamps,Critically Endangered,John Smith,Juvenile group
+452,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.94,411.9,Adult,Male,22-11-2009,Venezuela,Swamps,Critically Endangered,Emma Johnson,Feeding behavior
+453,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.62,323.7,Hatchling,Female,27-05-2007,Venezuela,Swamps,Critically Endangered,Noah Williams,Juvenile group
+454,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.16,460.6,Subadult,Female,30-06-2013,Venezuela,Flooded Savannas,Critically Endangered,Emma Johnson,Resting near shore
+455,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.72,346.8,Adult,Female,21-03-2009,Venezuela,Rivers,Critically Endangered,Sophia Patel,Resting near shore
+456,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.45,489.5,Hatchling,Female,26-05-2015,Venezuela,Flooded Savannas,Critically Endangered,Liam Brown,Observed basking
+457,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.85,266.1,Subadult,Male,10-04-2014,Colombia,Swamps,Critically Endangered,Maria Gonzalez,Tagged individual
+458,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.26,299.0,Adult,Unknown,19-06-2006,Colombia,Rivers,Critically Endangered,Ethan Martinez,Unusual coloration
+459,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.7,363.1,Subadult,Female,05-10-2013,Venezuela,Swamps,Critically Endangered,Emma Johnson,Nest near water
+460,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.97,504.7,Juvenile,Unknown,25-11-2015,Venezuela,Rivers,Critically Endangered,Olivia Davis,Juvenile group
+461,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.18,333.1,Subadult,Unknown,26-04-2013,Venezuela,Rivers,Critically Endangered,Emma Johnson,Feeding behavior
+462,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.75,439.7,Adult,Male,31-05-2006,Colombia,Swamps,Critically Endangered,Maria Gonzalez,Juvenile group
+463,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.9,464.6,Juvenile,Unknown,24-02-2016,Venezuela,Swamps,Critically Endangered,John Smith,Nest near water
+464,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.77,260.9,Subadult,Male,16-10-2015,Colombia,Swamps,Critically Endangered,Sophia Patel,Nest near water
+465,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.74,271.7,Subadult,Unknown,23-06-2009,Colombia,Flooded Savannas,Critically Endangered,Olivia Davis,Unusual coloration
+466,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.68,339.4,Subadult,Male,29-03-2024,Venezuela,Rivers,Critically Endangered,Noah Williams,Unusual coloration
+467,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.76,308.8,Juvenile,Female,13-08-2017,Colombia,Flooded Savannas,Critically Endangered,John Smith,Feeding behavior
+468,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.76,316.6,Hatchling,Male,24-06-2015,Venezuela,Flooded Savannas,Critically Endangered,Olivia Davis,Feeding behavior
+469,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.43,295.3,Juvenile,Male,21-07-2021,Colombia,Swamps,Critically Endangered,Sophia Patel,Juvenile group
+470,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.73,307.7,Adult,Male,17-04-2011,Venezuela,Swamps,Critically Endangered,Ethan Martinez,Juvenile group
+471,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.69,344.3,Subadult,Unknown,16-01-2017,Venezuela,Rivers,Critically Endangered,Sophia Patel,Observed basking
+472,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.72,415.4,Hatchling,Female,30-04-2023,Venezuela,Swamps,Critically Endangered,Sophia Patel,Aggressive display
+473,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.38,445.4,Subadult,Male,31-07-2014,Venezuela,Swamps,Critically Endangered,Noah Williams,Unusual coloration
+474,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.98,326.8,Hatchling,Unknown,28-10-2017,Venezuela,Rivers,Critically Endangered,John Smith,Tagged individual
+475,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.99,280.6,Hatchling,Unknown,09-01-2009,Venezuela,Swamps,Critically Endangered,Sophia Patel,Juvenile group
+476,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.79,313.5,Adult,Male,16-11-2018,Venezuela,Swamps,Critically Endangered,Liam Brown,Observed basking
+477,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.58,411.2,Subadult,Unknown,08-09-2014,Venezuela,Flooded Savannas,Critically Endangered,Liam Brown,Feeding behavior
+478,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.77,299.0,Juvenile,Female,15-10-2005,Colombia,Rivers,Critically Endangered,Liam Brown,Aggressive display
+479,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.25,382.4,Juvenile,Female,08-06-2007,Venezuela,Rivers,Critically Endangered,Olivia Davis,Juvenile group
+480,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.56,367.8,Juvenile,Unknown,14-12-2016,Colombia,Flooded Savannas,Critically Endangered,Sophia Patel,Resting near shore
+481,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.99,280.7,Subadult,Female,07-08-2018,Colombia,Flooded Savannas,Critically Endangered,Sophia Patel,Observed basking
+482,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.34,438.4,Hatchling,Unknown,05-11-2007,Colombia,Rivers,Critically Endangered,John Smith,Juvenile group
+483,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.79,383.4,Adult,Female,25-05-2025,Venezuela,Swamps,Critically Endangered,Liam Brown,Observed basking
+484,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.85,336.9,Juvenile,Male,27-05-2016,Venezuela,Rivers,Critically Endangered,Maria Gonzalez,Juvenile group
+485,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.61,260.3,Subadult,Female,24-04-2017,Venezuela,Flooded Savannas,Critically Endangered,Liam Brown,Nest near water
+486,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.06,353.8,Juvenile,Unknown,10-04-2019,Venezuela,Rivers,Critically Endangered,Maria Gonzalez,Nest near water
+487,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.57,277.5,Subadult,Female,10-09-2008,Venezuela,Swamps,Critically Endangered,Emma Johnson,Unusual coloration
+488,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.91,312.1,Hatchling,Unknown,06-09-2005,Venezuela,Swamps,Critically Endangered,Maria Gonzalez,Unusual coloration
+489,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.46,451.2,Juvenile,Female,24-01-2023,Venezuela,Rivers,Critically Endangered,Maria Gonzalez,Resting near shore
+490,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.45,305.2,Hatchling,Unknown,11-05-2008,Colombia,Rivers,Critically Endangered,Noah Williams,Unusual coloration
+491,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.22,324.1,Subadult,Male,28-11-2006,Colombia,Flooded Savannas,Critically Endangered,Liam Brown,Resting near shore
+492,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.45,297.4,Juvenile,Female,31-03-2016,Venezuela,Rivers,Critically Endangered,John Smith,Unusual coloration
+493,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.16,464.1,Hatchling,Male,10-06-2018,Colombia,Flooded Savannas,Critically Endangered,John Smith,Observed basking
+494,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.51,357.6,Subadult,Male,09-02-2013,Colombia,Flooded Savannas,Critically Endangered,Emma Johnson,Nest near water
+495,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.42,295.7,Juvenile,Female,23-06-2016,Venezuela,Flooded Savannas,Critically Endangered,Sophia Patel,Unusual coloration
+496,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.63,240.0,Adult,Unknown,10-12-2005,Colombia,Rivers,Critically Endangered,John Smith,Resting near shore
+497,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,2.81,244.0,Adult,Unknown,18-12-2012,Colombia,Swamps,Critically Endangered,John Smith,Nest near water
+498,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.15,337.0,Adult,Female,23-09-2023,Venezuela,Rivers,Critically Endangered,Maria Gonzalez,Observed basking
+499,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,3.45,372.3,Adult,Female,30-09-2024,Venezuela,Swamps,Critically Endangered,Sophia Patel,Juvenile group
+500,Orinoco Crocodile,Crocodylus intermedius,Crocodylidae,Crocodylus,4.24,439.1,Subadult,Male,22-06-2008,Venezuela,Flooded Savannas,Critically Endangered,Maria Gonzalez,Nest near water
+501,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.45,172.8,Juvenile,Unknown,26-10-2017,Thailand,Lakes,Critically Endangered,Emma Johnson,Aggressive display
+502,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.16,203.1,Juvenile,Female,14-03-2021,Thailand,Lakes,Critically Endangered,Olivia Davis,Juvenile group
+503,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.42,293.4,Adult,Male,10-06-2023,Thailand,Rivers,Critically Endangered,Olivia Davis,Tagged individual
+504,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.6,196.9,Subadult,Female,06-06-2024,Cambodia,Swamps,Critically Endangered,John Smith,Nest near water
+505,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.29,209.8,Subadult,Unknown,28-04-2020,Vietnam,Swamps,Critically Endangered,Liam Brown,Tagged individual
+506,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.19,292.1,Hatchling,Female,18-06-2013,Vietnam,Rivers,Critically Endangered,Emma Johnson,Aggressive display
+507,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.36,206.3,Hatchling,Male,23-05-2021,Vietnam,Lakes,Critically Endangered,Maria Gonzalez,Unusual coloration
+508,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.92,255.3,Subadult,Female,10-04-2021,Vietnam,Rivers,Critically Endangered,Liam Brown,Resting near shore
+509,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.36,219.3,Subadult,Male,02-07-2011,Vietnam,Lakes,Critically Endangered,John Smith,Tagged individual
+510,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.59,195.7,Juvenile,Unknown,13-10-2010,Cambodia,Swamps,Critically Endangered,Noah Williams,Feeding behavior
+511,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.08,276.2,Hatchling,Male,15-12-2020,Cambodia,Rivers,Critically Endangered,Ethan Martinez,Resting near shore
+512,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.74,201.0,Juvenile,Male,23-04-2018,Vietnam,Rivers,Critically Endangered,Maria Gonzalez,Juvenile group
+513,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.09,290.2,Juvenile,Male,16-10-2024,Vietnam,Swamps,Critically Endangered,Olivia Davis,Observed basking
+514,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.44,314.6,Adult,Female,25-09-2013,Vietnam,Lakes,Critically Endangered,Maria Gonzalez,Resting near shore
+515,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.23,306.6,Hatchling,Male,12-06-2025,Vietnam,Lakes,Critically Endangered,Liam Brown,Juvenile group
+516,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.82,256.5,Hatchling,Female,19-06-2022,Cambodia,Lakes,Critically Endangered,Olivia Davis,Feeding behavior
+517,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.96,244.0,Juvenile,Unknown,18-06-2013,Vietnam,Rivers,Critically Endangered,Noah Williams,Resting near shore
+518,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.32,288.9,Hatchling,Unknown,13-05-2025,Vietnam,Swamps,Critically Endangered,Olivia Davis,Observed basking
+519,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.47,177.3,Subadult,Male,14-11-2024,Thailand,Swamps,Critically Endangered,John Smith,Feeding behavior
+520,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.35,195.6,Subadult,Male,04-02-2017,Cambodia,Lakes,Critically Endangered,Emma Johnson,Juvenile group
+521,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.41,290.4,Juvenile,Female,15-05-2009,Thailand,Rivers,Critically Endangered,Liam Brown,Nest near water
+522,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.51,180.5,Hatchling,Male,14-02-2015,Vietnam,Rivers,Critically Endangered,Emma Johnson,Unusual coloration
+523,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.24,277.9,Subadult,Male,28-08-2016,Thailand,Rivers,Critically Endangered,Olivia Davis,Observed basking
+524,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.78,201.3,Adult,Female,13-08-2014,Thailand,Rivers,Critically Endangered,Olivia Davis,Observed basking
+525,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.78,208.7,Adult,Male,12-12-2005,Vietnam,Rivers,Critically Endangered,Sophia Patel,Observed basking
+526,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.11,197.3,Hatchling,Male,31-08-2013,Thailand,Swamps,Critically Endangered,Liam Brown,Resting near shore
+527,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.08,167.9,Juvenile,Male,12-09-2010,Cambodia,Rivers,Critically Endangered,Noah Williams,Unusual coloration
+528,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.64,221.9,Adult,Unknown,11-06-2007,Vietnam,Rivers,Critically Endangered,Ethan Martinez,Resting near shore
+529,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.12,221.5,Juvenile,Unknown,25-08-2023,Cambodia,Lakes,Critically Endangered,Emma Johnson,Tagged individual
+530,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.45,200.7,Hatchling,Unknown,14-01-2015,Cambodia,Swamps,Critically Endangered,Sophia Patel,Unusual coloration
+531,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.97,253.5,Juvenile,Female,13-01-2006,Vietnam,Lakes,Critically Endangered,Sophia Patel,Juvenile group
+532,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.91,207.2,Hatchling,Unknown,24-04-2013,Cambodia,Rivers,Critically Endangered,Ethan Martinez,Observed basking
+533,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.07,249.7,Hatchling,Female,30-05-2011,Thailand,Lakes,Critically Endangered,Liam Brown,Observed basking
+534,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.3,285.2,Juvenile,Female,17-12-2021,Thailand,Lakes,Critically Endangered,Olivia Davis,Aggressive display
+535,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.8,221.6,Adult,Male,10-12-2024,Vietnam,Lakes,Critically Endangered,Emma Johnson,Nest near water
+536,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.03,167.5,Juvenile,Male,30-05-2012,Thailand,Lakes,Critically Endangered,Maria Gonzalez,Tagged individual
+537,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.28,204.1,Juvenile,Male,22-12-2024,Thailand,Lakes,Critically Endangered,Sophia Patel,Feeding behavior
+538,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.93,206.8,Juvenile,Female,25-01-2014,Cambodia,Swamps,Critically Endangered,John Smith,Aggressive display
+539,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.15,297.1,Juvenile,Female,12-05-2019,Vietnam,Swamps,Critically Endangered,Maria Gonzalez,Resting near shore
+540,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.84,269.4,Adult,Male,22-10-2021,Cambodia,Lakes,Critically Endangered,Sophia Patel,Tagged individual
+541,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.35,278.1,Juvenile,Female,12-01-2020,Cambodia,Lakes,Critically Endangered,Noah Williams,Juvenile group
+542,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.44,317.1,Hatchling,Female,29-07-2023,Vietnam,Lakes,Critically Endangered,John Smith,Unusual coloration
+543,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.89,228.2,Adult,Female,03-09-2005,Cambodia,Rivers,Critically Endangered,Liam Brown,Aggressive display
+544,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.86,224.8,Adult,Unknown,20-12-2010,Vietnam,Rivers,Critically Endangered,Maria Gonzalez,Aggressive display
+545,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.15,195.1,Juvenile,Male,08-08-2017,Vietnam,Rivers,Critically Endangered,Ethan Martinez,Aggressive display
+546,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.26,291.5,Subadult,Unknown,22-07-2012,Cambodia,Rivers,Critically Endangered,Maria Gonzalez,Tagged individual
+547,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.94,208.8,Juvenile,Male,07-03-2018,Thailand,Lakes,Critically Endangered,Emma Johnson,Tagged individual
+548,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.9,268.8,Adult,Male,09-01-2005,Cambodia,Rivers,Critically Endangered,John Smith,Aggressive display
+549,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.11,183.0,Hatchling,Male,13-09-2023,Thailand,Rivers,Critically Endangered,Olivia Davis,Juvenile group
+550,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.92,224.8,Hatchling,Male,27-06-2006,Vietnam,Swamps,Critically Endangered,Olivia Davis,Observed basking
+551,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.61,194.3,Hatchling,Unknown,17-03-2012,Thailand,Lakes,Critically Endangered,John Smith,Resting near shore
+552,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.08,164.8,Juvenile,Unknown,11-12-2014,Vietnam,Lakes,Critically Endangered,Olivia Davis,Nest near water
+553,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.66,204.9,Subadult,Male,02-02-2025,Vietnam,Swamps,Critically Endangered,Ethan Martinez,Resting near shore
+554,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.01,255.6,Adult,Male,14-04-2021,Cambodia,Rivers,Critically Endangered,Olivia Davis,Aggressive display
+555,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.38,314.6,Hatchling,Unknown,27-07-2024,Thailand,Rivers,Critically Endangered,Ethan Martinez,Resting near shore
+556,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.1,157.3,Hatchling,Female,06-07-2005,Cambodia,Lakes,Critically Endangered,Olivia Davis,Tagged individual
+557,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.07,228.0,Juvenile,Male,23-12-2007,Cambodia,Swamps,Critically Endangered,Noah Williams,Unusual coloration
+558,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.02,184.3,Hatchling,Female,21-03-2017,Thailand,Swamps,Critically Endangered,Maria Gonzalez,Resting near shore
+559,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.57,194.0,Hatchling,Male,11-07-2018,Cambodia,Lakes,Critically Endangered,Liam Brown,Observed basking
+560,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.56,191.4,Subadult,Male,29-06-2015,Thailand,Rivers,Critically Endangered,Ethan Martinez,Unusual coloration
+561,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.3,257.6,Subadult,Female,08-12-2010,Thailand,Rivers,Critically Endangered,John Smith,Nest near water
+562,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.41,228.6,Subadult,Unknown,19-12-2005,Cambodia,Swamps,Critically Endangered,Maria Gonzalez,Aggressive display
+563,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.71,197.0,Juvenile,Unknown,12-08-2010,Cambodia,Swamps,Critically Endangered,Maria Gonzalez,Aggressive display
+564,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.11,191.7,Adult,Unknown,07-07-2016,Cambodia,Swamps,Critically Endangered,Liam Brown,Nest near water
+565,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.94,225.0,Adult,Unknown,10-01-2017,Vietnam,Rivers,Critically Endangered,Liam Brown,Feeding behavior
+566,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.35,189.5,Subadult,Unknown,12-08-2023,Thailand,Rivers,Critically Endangered,Ethan Martinez,Resting near shore
+567,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.61,204.8,Juvenile,Male,09-01-2024,Cambodia,Lakes,Critically Endangered,Liam Brown,Unusual coloration
+568,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.02,286.5,Hatchling,Female,15-08-2022,Vietnam,Swamps,Critically Endangered,Olivia Davis,Aggressive display
+569,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.35,277.9,Hatchling,Female,23-04-2024,Thailand,Swamps,Critically Endangered,Ethan Martinez,Juvenile group
+570,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.99,222.1,Subadult,Male,09-06-2013,Cambodia,Rivers,Critically Endangered,Liam Brown,Feeding behavior
+571,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.49,303.5,Subadult,Female,12-02-2020,Cambodia,Lakes,Critically Endangered,Liam Brown,Feeding behavior
+572,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.03,242.8,Hatchling,Female,03-02-2017,Vietnam,Swamps,Critically Endangered,Ethan Martinez,Feeding behavior
+573,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.47,254.9,Hatchling,Unknown,11-08-2019,Cambodia,Lakes,Critically Endangered,Liam Brown,Feeding behavior
+574,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.64,225.0,Adult,Unknown,20-11-2005,Vietnam,Swamps,Critically Endangered,Emma Johnson,Juvenile group
+575,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.2,300.1,Hatchling,Male,06-11-2007,Thailand,Lakes,Critically Endangered,John Smith,Unusual coloration
+576,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.76,213.3,Juvenile,Unknown,18-11-2023,Vietnam,Lakes,Critically Endangered,Olivia Davis,Tagged individual
+577,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.43,197.6,Subadult,Unknown,04-09-2018,Cambodia,Swamps,Critically Endangered,Maria Gonzalez,Feeding behavior
+578,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.54,189.2,Adult,Male,05-08-2020,Vietnam,Lakes,Critically Endangered,Ethan Martinez,Feeding behavior
+579,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.04,174.2,Adult,Female,18-09-2015,Vietnam,Swamps,Critically Endangered,Sophia Patel,Nest near water
+580,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.92,240.4,Hatchling,Unknown,05-06-2006,Thailand,Swamps,Critically Endangered,Ethan Martinez,Resting near shore
+581,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.48,209.4,Adult,Unknown,26-02-2016,Vietnam,Rivers,Critically Endangered,Liam Brown,Nest near water
+582,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.6,194.1,Hatchling,Unknown,08-12-2016,Thailand,Lakes,Critically Endangered,Noah Williams,Observed basking
+583,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.0,275.1,Subadult,Male,07-08-2020,Vietnam,Rivers,Critically Endangered,Emma Johnson,Observed basking
+584,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.01,223.3,Subadult,Unknown,30-03-2015,Thailand,Swamps,Critically Endangered,John Smith,Observed basking
+585,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.4,271.4,Subadult,Female,08-01-2011,Vietnam,Rivers,Critically Endangered,Emma Johnson,Nest near water
+586,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.96,254.1,Juvenile,Male,01-12-2012,Vietnam,Swamps,Critically Endangered,Emma Johnson,Nest near water
+587,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.82,261.0,Subadult,Female,16-08-2023,Cambodia,Lakes,Critically Endangered,Sophia Patel,Juvenile group
+588,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.03,281.5,Subadult,Female,08-09-2008,Vietnam,Rivers,Critically Endangered,Emma Johnson,Feeding behavior
+589,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.37,264.8,Subadult,Unknown,28-11-2025,Cambodia,Lakes,Critically Endangered,Ethan Martinez,Nest near water
+590,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.51,213.8,Juvenile,Female,20-03-2018,Cambodia,Lakes,Critically Endangered,Sophia Patel,Juvenile group
+591,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.55,180.1,Hatchling,Male,19-04-2024,Vietnam,Swamps,Critically Endangered,Maria Gonzalez,Aggressive display
+592,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.91,258.7,Subadult,Female,26-01-2024,Vietnam,Swamps,Critically Endangered,Noah Williams,Observed basking
+593,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.94,214.6,Subadult,Male,04-03-2005,Vietnam,Swamps,Critically Endangered,Sophia Patel,Tagged individual
+594,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.25,168.7,Hatchling,Male,01-07-2025,Vietnam,Lakes,Critically Endangered,Ethan Martinez,Resting near shore
+595,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.26,245.3,Juvenile,Female,18-10-2022,Vietnam,Swamps,Critically Endangered,John Smith,Feeding behavior
+596,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.24,243.2,Subadult,Female,06-03-2015,Thailand,Rivers,Critically Endangered,Maria Gonzalez,Unusual coloration
+597,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.71,247.0,Juvenile,Female,22-11-2018,Cambodia,Lakes,Critically Endangered,Sophia Patel,Aggressive display
+598,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.02,172.7,Juvenile,Female,13-01-2015,Vietnam,Rivers,Critically Endangered,Noah Williams,Observed basking
+599,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,3.16,235.2,Hatchling,Female,07-04-2022,Cambodia,Lakes,Critically Endangered,Maria Gonzalez,Observed basking
+600,Siamese Crocodile,Crocodylus siamensis,Crocodylidae,Crocodylus,2.91,264.4,Hatchling,Unknown,10-04-2018,Thailand,Lakes,Critically Endangered,Ethan Martinez,Observed basking
+601,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.6,252.9,Subadult,Female,30-11-2007,Cuba,Swamps,Critically Endangered,Sophia Patel,Unusual coloration
+602,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.81,230.4,Adult,Male,11-04-2012,Cuba,Lakes,Critically Endangered,Olivia Davis,Resting near shore
+603,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.81,234.6,Adult,Unknown,30-07-2012,Cuba,Swamps,Critically Endangered,Noah Williams,Tagged individual
+604,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.75,227.2,Subadult,Unknown,17-11-2023,Cuba,Lakes,Critically Endangered,Emma Johnson,Nest near water
+605,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.32,252.6,Adult,Female,28-07-2005,Cuba,Swamps,Critically Endangered,Liam Brown,Observed basking
+606,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.44,269.3,Juvenile,Unknown,10-07-2019,Cuba,Lakes,Critically Endangered,Sophia Patel,Feeding behavior
+607,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.51,190.4,Subadult,Male,03-09-2009,Cuba,Lakes,Critically Endangered,John Smith,Unusual coloration
+608,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.43,213.8,Juvenile,Unknown,03-04-2007,Cuba,Lakes,Critically Endangered,Emma Johnson,Tagged individual
+609,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.67,242.8,Adult,Male,16-03-2016,Cuba,Lakes,Critically Endangered,Sophia Patel,Aggressive display
+610,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.55,224.1,Adult,Male,02-10-2021,Cuba,Lakes,Critically Endangered,John Smith,Nest near water
+611,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.06,291.3,Subadult,Male,25-07-2006,Cuba,Lakes,Critically Endangered,Sophia Patel,Nest near water
+612,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.32,302.5,Juvenile,Male,01-11-2007,Cuba,Swamps,Critically Endangered,Sophia Patel,Nest near water
+613,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.78,237.4,Hatchling,Female,24-07-2021,Cuba,Swamps,Critically Endangered,John Smith,Feeding behavior
+614,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.04,161.4,Juvenile,Unknown,26-05-2017,Cuba,Swamps,Critically Endangered,Ethan Martinez,Unusual coloration
+615,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.35,291.5,Hatchling,Unknown,25-03-2015,Cuba,Lakes,Critically Endangered,Liam Brown,Nest near water
+616,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.2,173.5,Subadult,Unknown,30-01-2019,Cuba,Lakes,Critically Endangered,Emma Johnson,Resting near shore
+617,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.35,297.6,Juvenile,Unknown,10-01-2007,Cuba,Lakes,Critically Endangered,Ethan Martinez,Aggressive display
+618,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.44,313.5,Hatchling,Unknown,29-06-2024,Cuba,Lakes,Critically Endangered,Liam Brown,Resting near shore
+619,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.18,296.4,Adult,Unknown,28-10-2009,Cuba,Swamps,Critically Endangered,Sophia Patel,Resting near shore
+620,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.11,301.8,Subadult,Male,14-11-2008,Cuba,Swamps,Critically Endangered,Liam Brown,Juvenile group
+621,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.35,208.6,Subadult,Unknown,25-02-2024,Cuba,Lakes,Critically Endangered,Maria Gonzalez,Tagged individual
+622,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.48,244.3,Subadult,Unknown,27-02-2013,Cuba,Swamps,Critically Endangered,Sophia Patel,Juvenile group
+623,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.33,221.8,Hatchling,Female,04-04-2021,Cuba,Lakes,Critically Endangered,Ethan Martinez,Resting near shore
+624,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.87,283.6,Hatchling,Unknown,17-06-2012,Cuba,Swamps,Critically Endangered,Emma Johnson,Tagged individual
+625,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.28,180.9,Juvenile,Female,16-07-2018,Cuba,Swamps,Critically Endangered,Ethan Martinez,Observed basking
+626,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.08,247.5,Hatchling,Female,13-07-2010,Cuba,Swamps,Critically Endangered,Ethan Martinez,Resting near shore
+627,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.2,185.0,Juvenile,Male,07-05-2008,Cuba,Swamps,Critically Endangered,John Smith,Feeding behavior
+628,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.14,273.9,Juvenile,Male,24-10-2024,Cuba,Swamps,Critically Endangered,John Smith,Tagged individual
+629,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.28,207.3,Subadult,Unknown,22-09-2009,Cuba,Lakes,Critically Endangered,Noah Williams,Unusual coloration
+630,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.35,199.0,Hatchling,Male,23-05-2005,Cuba,Swamps,Critically Endangered,Emma Johnson,Tagged individual
+631,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.43,332.0,Hatchling,Female,29-06-2006,Cuba,Lakes,Critically Endangered,Noah Williams,Nest near water
+632,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.0,231.9,Juvenile,Unknown,12-12-2017,Cuba,Swamps,Critically Endangered,Liam Brown,Unusual coloration
+633,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.92,233.3,Subadult,Unknown,19-06-2024,Cuba,Lakes,Critically Endangered,Sophia Patel,Observed basking
+634,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.91,226.6,Adult,Male,20-09-2009,Cuba,Lakes,Critically Endangered,Ethan Martinez,Feeding behavior
+635,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.24,216.5,Juvenile,Unknown,28-05-2008,Cuba,Swamps,Critically Endangered,Maria Gonzalez,Juvenile group
+636,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.91,272.5,Adult,Unknown,18-02-2008,Cuba,Lakes,Critically Endangered,John Smith,Feeding behavior
+637,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.37,256.3,Hatchling,Female,12-01-2014,Cuba,Swamps,Critically Endangered,Maria Gonzalez,Nest near water
+638,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.3,208.3,Juvenile,Unknown,10-09-2012,Cuba,Lakes,Critically Endangered,Ethan Martinez,Juvenile group
+639,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.51,221.9,Subadult,Unknown,26-04-2009,Cuba,Swamps,Critically Endangered,Olivia Davis,Aggressive display
+640,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.26,174.6,Subadult,Unknown,29-04-2007,Cuba,Lakes,Critically Endangered,Liam Brown,Tagged individual
+641,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.47,273.3,Juvenile,Female,14-04-2024,Cuba,Lakes,Critically Endangered,John Smith,Unusual coloration
+642,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.49,292.3,Juvenile,Male,04-11-2023,Cuba,Lakes,Critically Endangered,Sophia Patel,Unusual coloration
+643,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.17,284.0,Hatchling,Male,19-01-2021,Cuba,Swamps,Critically Endangered,Noah Williams,Nest near water
+644,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.29,225.3,Juvenile,Female,30-08-2007,Cuba,Swamps,Critically Endangered,Liam Brown,Tagged individual
+645,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.27,266.5,Adult,Female,07-02-2022,Cuba,Lakes,Critically Endangered,Liam Brown,Juvenile group
+646,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.18,197.0,Hatchling,Male,23-10-2015,Cuba,Swamps,Critically Endangered,John Smith,Aggressive display
+647,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.66,247.5,Adult,Female,10-05-2006,Cuba,Swamps,Critically Endangered,Liam Brown,Observed basking
+648,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.19,211.3,Adult,Unknown,03-07-2005,Cuba,Lakes,Critically Endangered,Olivia Davis,Juvenile group
+649,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.33,216.1,Subadult,Female,19-05-2024,Cuba,Lakes,Critically Endangered,Liam Brown,Observed basking
+650,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.36,286.1,Juvenile,Male,19-10-2007,Cuba,Swamps,Critically Endangered,John Smith,Unusual coloration
+651,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.56,229.8,Subadult,Female,11-01-2025,Cuba,Lakes,Critically Endangered,Emma Johnson,Feeding behavior
+652,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.38,228.6,Subadult,Female,02-12-2023,Cuba,Lakes,Critically Endangered,Liam Brown,Juvenile group
+653,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.83,266.7,Adult,Female,23-01-2005,Cuba,Lakes,Critically Endangered,Maria Gonzalez,Observed basking
+654,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.15,182.7,Juvenile,Male,30-01-2023,Cuba,Swamps,Critically Endangered,Olivia Davis,Juvenile group
+655,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.78,265.0,Juvenile,Female,31-07-2016,Cuba,Lakes,Critically Endangered,John Smith,Observed basking
+656,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.46,320.4,Hatchling,Male,18-04-2018,Cuba,Lakes,Critically Endangered,John Smith,Feeding behavior
+657,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.15,164.1,Juvenile,Unknown,14-12-2005,Cuba,Swamps,Critically Endangered,Olivia Davis,Resting near shore
+658,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.45,341.0,Hatchling,Male,28-03-2023,Cuba,Lakes,Critically Endangered,Emma Johnson,Unusual coloration
+659,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.04,181.8,Juvenile,Female,04-12-2008,Cuba,Lakes,Critically Endangered,Maria Gonzalez,Juvenile group
+660,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.74,219.5,Subadult,Female,22-07-2014,Cuba,Lakes,Critically Endangered,Olivia Davis,Tagged individual
+661,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.23,212.4,Juvenile,Unknown,10-01-2023,Cuba,Lakes,Critically Endangered,Sophia Patel,Aggressive display
+662,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.53,193.8,Adult,Female,19-10-2014,Cuba,Lakes,Critically Endangered,Liam Brown,Feeding behavior
+663,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.6,222.7,Adult,Male,20-09-2005,Cuba,Swamps,Critically Endangered,John Smith,Tagged individual
+664,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.67,232.7,Hatchling,Male,01-11-2022,Cuba,Lakes,Critically Endangered,Maria Gonzalez,Observed basking
+665,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.82,277.9,Subadult,Male,10-06-2005,Cuba,Swamps,Critically Endangered,Emma Johnson,Juvenile group
+666,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.18,241.9,Hatchling,Female,05-08-2010,Cuba,Lakes,Critically Endangered,Maria Gonzalez,Unusual coloration
+667,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.97,237.5,Adult,Female,28-07-2022,Cuba,Lakes,Critically Endangered,Ethan Martinez,Juvenile group
+668,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.62,221.5,Adult,Female,11-07-2018,Cuba,Swamps,Critically Endangered,Emma Johnson,Feeding behavior
+669,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.72,222.1,Juvenile,Female,07-06-2011,Cuba,Swamps,Critically Endangered,John Smith,Resting near shore
+670,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.87,280.7,Subadult,Female,08-02-2009,Cuba,Swamps,Critically Endangered,Sophia Patel,Tagged individual
+671,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.33,320.4,Hatchling,Unknown,14-06-2023,Cuba,Swamps,Critically Endangered,Emma Johnson,Nest near water
+672,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.16,184.2,Juvenile,Female,22-02-2006,Cuba,Swamps,Critically Endangered,Ethan Martinez,Nest near water
+673,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.55,236.0,Subadult,Male,22-01-2024,Cuba,Swamps,Critically Endangered,Maria Gonzalez,Juvenile group
+674,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.39,297.3,Hatchling,Male,20-12-2014,Cuba,Swamps,Critically Endangered,John Smith,Tagged individual
+675,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.14,270.9,Subadult,Female,01-01-2017,Cuba,Lakes,Critically Endangered,Liam Brown,Nest near water
+676,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.81,215.1,Adult,Unknown,21-05-2013,Cuba,Swamps,Critically Endangered,Ethan Martinez,Observed basking
+677,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.0,287.2,Hatchling,Female,22-08-2015,Cuba,Lakes,Critically Endangered,Noah Williams,Resting near shore
+678,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.14,195.2,Adult,Unknown,29-11-2006,Cuba,Swamps,Critically Endangered,Emma Johnson,Aggressive display
+679,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.9,248.2,Adult,Unknown,01-05-2023,Cuba,Swamps,Critically Endangered,Emma Johnson,Nest near water
+680,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.4,215.3,Adult,Unknown,13-01-2020,Cuba,Lakes,Critically Endangered,Ethan Martinez,Observed basking
+681,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.53,192.5,Subadult,Male,21-09-2022,Cuba,Swamps,Critically Endangered,Olivia Davis,Feeding behavior
+682,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.08,258.3,Adult,Female,14-02-2020,Cuba,Swamps,Critically Endangered,Sophia Patel,Unusual coloration
+683,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.05,250.3,Juvenile,Female,10-05-2019,Cuba,Lakes,Critically Endangered,John Smith,Aggressive display
+684,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.4,210.7,Juvenile,Unknown,10-12-2010,Cuba,Lakes,Critically Endangered,Olivia Davis,Observed basking
+685,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.58,203.8,Adult,Male,06-06-2008,Cuba,Swamps,Critically Endangered,Noah Williams,Feeding behavior
+686,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.75,245.7,Adult,Female,04-03-2017,Cuba,Swamps,Critically Endangered,Liam Brown,Observed basking
+687,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.32,260.4,Adult,Unknown,17-08-2020,Cuba,Lakes,Critically Endangered,Sophia Patel,Observed basking
+688,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.64,239.1,Adult,Male,20-11-2021,Cuba,Lakes,Critically Endangered,Ethan Martinez,Feeding behavior
+689,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.54,238.5,Subadult,Male,23-10-2009,Cuba,Swamps,Critically Endangered,Maria Gonzalez,Juvenile group
+690,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.08,299.9,Adult,Male,21-03-2010,Cuba,Swamps,Critically Endangered,Sophia Patel,Resting near shore
+691,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.83,218.9,Juvenile,Male,07-08-2025,Cuba,Swamps,Critically Endangered,Emma Johnson,Unusual coloration
+692,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.74,223.5,Juvenile,Female,01-05-2025,Cuba,Swamps,Critically Endangered,Emma Johnson,Tagged individual
+693,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.41,228.2,Subadult,Unknown,16-09-2005,Cuba,Lakes,Critically Endangered,Sophia Patel,Tagged individual
+694,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.16,247.0,Hatchling,Female,12-12-2021,Cuba,Lakes,Critically Endangered,Ethan Martinez,Feeding behavior
+695,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.41,207.4,Hatchling,Female,11-05-2015,Cuba,Swamps,Critically Endangered,Liam Brown,Feeding behavior
+696,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.94,290.1,Juvenile,Female,18-12-2018,Cuba,Swamps,Critically Endangered,Liam Brown,Aggressive display
+697,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.4,287.4,Adult,Unknown,16-11-2018,Cuba,Swamps,Critically Endangered,Ethan Martinez,Tagged individual
+698,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.21,244.7,Subadult,Female,13-03-2018,Cuba,Swamps,Critically Endangered,Emma Johnson,Unusual coloration
+699,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,2.37,232.8,Juvenile,Male,13-12-2023,Cuba,Swamps,Critically Endangered,Ethan Martinez,Unusual coloration
+700,Cuban Crocodile,Crocodylus rhombifer,Crocodylidae,Crocodylus,3.02,231.2,Hatchling,Male,23-08-2015,Cuba,Lakes,Critically Endangered,Maria Gonzalez,Aggressive display
+701,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.78,38.2,Juvenile,Female,20-01-2012,Gabon,Small Streams,Vulnerable,Sophia Patel,Aggressive display
+702,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.39,21.5,Subadult,Female,13-06-2018,Liberia,Small Streams,Vulnerable,John Smith,Aggressive display
+703,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.04,25.2,Juvenile,Female,23-11-2016,Gabon,Small Streams,Vulnerable,Emma Johnson,Nest near water
+704,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.26,24.4,Adult,Female,28-02-2016,Côte d'Ivoire,Small Streams,Vulnerable,Olivia Davis,Observed basking
+705,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.61,29.6,Subadult,Female,03-07-2014,Liberia,Forest Swamps,Vulnerable,Noah Williams,Resting near shore
+706,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.34,23.3,Subadult,Female,14-12-2009,Liberia,Small Streams,Vulnerable,Sophia Patel,Observed basking
+707,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.62,29.8,Adult,Female,27-07-2022,Côte d'Ivoire,Small Streams,Vulnerable,Liam Brown,Nest near water
+708,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.18,18.3,Hatchling,Female,11-03-2019,Côte d'Ivoire,Forest Swamps,Vulnerable,Noah Williams,Unusual coloration
+709,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.24,30.5,Juvenile,Male,29-08-2007,Gabon,Small Streams,Vulnerable,Liam Brown,Nest near water
+710,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.32,29.9,Adult,Unknown,24-09-2019,Côte d'Ivoire,Small Streams,Vulnerable,Ethan Martinez,Tagged individual
+711,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.22,30.3,Adult,Male,30-04-2007,Gabon,Forest Swamps,Vulnerable,Maria Gonzalez,Nest near water
+712,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.0,24.0,Subadult,Unknown,16-11-2022,Liberia,Small Streams,Vulnerable,Olivia Davis,Observed basking
+713,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.57,39.1,Hatchling,Female,17-03-2018,Gabon,Forest Swamps,Vulnerable,Olivia Davis,Resting near shore
+714,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.74,41.7,Hatchling,Male,17-12-2017,Liberia,Forest Swamps,Vulnerable,Noah Williams,Resting near shore
+715,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.51,29.1,Juvenile,Unknown,01-03-2014,Côte d'Ivoire,Small Streams,Vulnerable,Emma Johnson,Nest near water
+716,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.59,37.9,Juvenile,Male,29-07-2009,Liberia,Forest Swamps,Vulnerable,Emma Johnson,Juvenile group
+717,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.37,25.3,Adult,Female,15-08-2020,Côte d'Ivoire,Forest Swamps,Vulnerable,Olivia Davis,Observed basking
+718,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.1,23.9,Subadult,Female,13-07-2016,Gabon,Forest Swamps,Vulnerable,Liam Brown,Tagged individual
+719,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.03,25.2,Subadult,Female,13-02-2013,Gabon,Forest Swamps,Vulnerable,Emma Johnson,Observed basking
+720,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.59,37.7,Subadult,Female,18-08-2019,Côte d'Ivoire,Small Streams,Vulnerable,Ethan Martinez,Unusual coloration
+721,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.62,34.3,Juvenile,Male,16-06-2008,Liberia,Forest Swamps,Vulnerable,Ethan Martinez,Tagged individual
+722,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.19,21.3,Hatchling,Female,01-11-2014,Gabon,Small Streams,Vulnerable,Olivia Davis,Juvenile group
+723,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.55,36.0,Adult,Male,09-09-2005,Gabon,Forest Swamps,Vulnerable,Sophia Patel,Aggressive display
+724,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.49,28.1,Hatchling,Unknown,06-03-2017,Côte d'Ivoire,Small Streams,Vulnerable,John Smith,Feeding behavior
+725,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.31,32.7,Subadult,Female,12-01-2021,Liberia,Forest Swamps,Vulnerable,Sophia Patel,Observed basking
+726,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.68,40.0,Juvenile,Female,31-12-2018,Liberia,Small Streams,Vulnerable,Sophia Patel,Unusual coloration
+727,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.38,24.7,Hatchling,Unknown,21-07-2006,Liberia,Forest Swamps,Vulnerable,Olivia Davis,Resting near shore
+728,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.73,42.5,Subadult,Male,04-04-2011,Liberia,Small Streams,Vulnerable,Emma Johnson,Tagged individual
+729,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.55,30.6,Adult,Male,11-07-2023,Côte d'Ivoire,Small Streams,Vulnerable,Sophia Patel,Unusual coloration
+730,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.51,32.5,Adult,Unknown,04-08-2022,Gabon,Forest Swamps,Vulnerable,Maria Gonzalez,Observed basking
+731,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.43,35.2,Juvenile,Unknown,13-05-2018,Gabon,Small Streams,Vulnerable,Maria Gonzalez,Nest near water
+732,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.71,38.7,Adult,Unknown,27-09-2017,Gabon,Small Streams,Vulnerable,Olivia Davis,Nest near water
+733,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.08,25.3,Subadult,Female,18-10-2015,Gabon,Forest Swamps,Vulnerable,Liam Brown,Resting near shore
+734,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.69,42.0,Subadult,Female,21-03-2010,Gabon,Forest Swamps,Vulnerable,John Smith,Feeding behavior
+735,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.67,35.9,Subadult,Male,03-01-2011,Gabon,Small Streams,Vulnerable,Liam Brown,Juvenile group
+736,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.12,18.1,Juvenile,Unknown,13-04-2010,Gabon,Small Streams,Vulnerable,Sophia Patel,Feeding behavior
+737,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.79,36.1,Hatchling,Female,20-08-2025,Gabon,Small Streams,Vulnerable,Liam Brown,Juvenile group
+738,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.65,25.0,Juvenile,Male,08-04-2008,Gabon,Forest Swamps,Vulnerable,Maria Gonzalez,Observed basking
+739,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.35,21.8,Hatchling,Male,01-06-2006,Liberia,Forest Swamps,Vulnerable,Olivia Davis,Resting near shore
+740,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.15,21.7,Adult,Male,02-04-2005,Liberia,Small Streams,Vulnerable,Maria Gonzalez,Tagged individual
+741,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.52,32.5,Hatchling,Unknown,12-04-2010,Liberia,Small Streams,Vulnerable,Emma Johnson,Unusual coloration
+742,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.25,23.9,Adult,Female,12-06-2014,Liberia,Forest Swamps,Vulnerable,Liam Brown,Juvenile group
+743,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.37,30.8,Hatchling,Male,30-01-2005,Gabon,Small Streams,Vulnerable,Sophia Patel,Observed basking
+744,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.67,30.6,Subadult,Female,22-05-2012,Liberia,Forest Swamps,Vulnerable,Olivia Davis,Resting near shore
+745,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.21,19.0,Adult,Female,12-02-2025,Gabon,Forest Swamps,Vulnerable,Olivia Davis,Aggressive display
+746,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.56,37.3,Subadult,Female,16-06-2024,Gabon,Small Streams,Vulnerable,Maria Gonzalez,Feeding behavior
+747,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.32,30.6,Hatchling,Female,24-02-2017,Liberia,Small Streams,Vulnerable,Noah Williams,Feeding behavior
+748,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.62,36.6,Adult,Male,22-09-2016,Gabon,Small Streams,Vulnerable,John Smith,Unusual coloration
+749,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.43,29.6,Juvenile,Female,05-06-2017,Côte d'Ivoire,Small Streams,Vulnerable,Liam Brown,Aggressive display
+750,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.42,29.0,Juvenile,Female,12-08-2018,Gabon,Small Streams,Vulnerable,Ethan Martinez,Observed basking
+751,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.29,24.1,Adult,Unknown,19-04-2020,Gabon,Forest Swamps,Vulnerable,Ethan Martinez,Feeding behavior
+752,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.72,26.2,Juvenile,Female,05-03-2015,Gabon,Small Streams,Vulnerable,Maria Gonzalez,Resting near shore
+753,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.7,38.5,Juvenile,Male,14-12-2006,Gabon,Forest Swamps,Vulnerable,Liam Brown,Aggressive display
+754,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.44,21.7,Juvenile,Female,01-05-2005,Côte d'Ivoire,Small Streams,Vulnerable,Emma Johnson,Feeding behavior
+755,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.27,23.0,Juvenile,Male,02-08-2022,Gabon,Small Streams,Vulnerable,Ethan Martinez,Unusual coloration
+756,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.39,26.2,Adult,Female,11-07-2011,Liberia,Small Streams,Vulnerable,Maria Gonzalez,Nest near water
+757,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.07,23.7,Hatchling,Unknown,05-02-2020,Liberia,Forest Swamps,Vulnerable,Liam Brown,Tagged individual
+758,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.48,29.3,Adult,Female,21-12-2008,Côte d'Ivoire,Forest Swamps,Vulnerable,Liam Brown,Nest near water
+759,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.21,19.7,Adult,Male,13-03-2023,Gabon,Forest Swamps,Vulnerable,Emma Johnson,Unusual coloration
+760,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.35,27.1,Subadult,Female,27-11-2015,Gabon,Small Streams,Vulnerable,John Smith,Unusual coloration
+761,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.75,27.1,Juvenile,Female,23-02-2016,Liberia,Forest Swamps,Vulnerable,John Smith,Observed basking
+762,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.22,18.9,Juvenile,Unknown,25-02-2025,Gabon,Small Streams,Vulnerable,Noah Williams,Aggressive display
+763,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.4,33.9,Juvenile,Female,05-01-2024,Liberia,Forest Swamps,Vulnerable,Ethan Martinez,Nest near water
+764,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.42,34.7,Subadult,Male,24-04-2006,Gabon,Small Streams,Vulnerable,Maria Gonzalez,Resting near shore
+765,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.07,26.7,Juvenile,Unknown,15-11-2010,Gabon,Forest Swamps,Vulnerable,Ethan Martinez,Juvenile group
+766,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.63,39.8,Subadult,Male,20-10-2015,Liberia,Small Streams,Vulnerable,Maria Gonzalez,Observed basking
+767,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.49,34.9,Hatchling,Male,19-11-2017,Gabon,Forest Swamps,Vulnerable,Noah Williams,Observed basking
+768,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.6,27.6,Subadult,Male,03-08-2014,Liberia,Forest Swamps,Vulnerable,Maria Gonzalez,Observed basking
+769,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.06,20.5,Juvenile,Male,26-12-2005,Côte d'Ivoire,Forest Swamps,Vulnerable,John Smith,Resting near shore
+770,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.45,26.5,Hatchling,Female,02-10-2010,Côte d'Ivoire,Forest Swamps,Vulnerable,Maria Gonzalez,Tagged individual
+771,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.47,30.5,Juvenile,Unknown,15-09-2016,Côte d'Ivoire,Forest Swamps,Vulnerable,Ethan Martinez,Aggressive display
+772,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.61,30.8,Juvenile,Unknown,08-10-2010,Côte d'Ivoire,Small Streams,Vulnerable,Emma Johnson,Resting near shore
+773,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.17,26.6,Juvenile,Female,15-07-2009,Gabon,Forest Swamps,Vulnerable,Emma Johnson,Feeding behavior
+774,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.62,35.1,Subadult,Female,07-01-2006,Liberia,Forest Swamps,Vulnerable,Liam Brown,Unusual coloration
+775,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.78,40.6,Juvenile,Male,04-07-2015,Côte d'Ivoire,Forest Swamps,Vulnerable,Emma Johnson,Juvenile group
+776,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.7,28.1,Adult,Female,02-10-2016,Gabon,Small Streams,Vulnerable,Sophia Patel,Unusual coloration
+777,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.6,31.2,Adult,Female,29-03-2017,Gabon,Forest Swamps,Vulnerable,Olivia Davis,Observed basking
+778,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.77,32.2,Subadult,Female,18-11-2025,Gabon,Forest Swamps,Vulnerable,Sophia Patel,Tagged individual
+779,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.26,19.6,Subadult,Female,10-07-2025,Liberia,Small Streams,Vulnerable,Liam Brown,Observed basking
+780,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.28,23.9,Hatchling,Female,28-01-2013,Côte d'Ivoire,Small Streams,Vulnerable,Ethan Martinez,Unusual coloration
+781,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.43,26.2,Juvenile,Unknown,06-02-2009,Côte d'Ivoire,Forest Swamps,Vulnerable,John Smith,Observed basking
+782,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.53,32.1,Hatchling,Female,09-02-2019,Côte d'Ivoire,Forest Swamps,Vulnerable,Emma Johnson,Observed basking
+783,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.48,32.4,Hatchling,Male,19-05-2015,Liberia,Forest Swamps,Vulnerable,Olivia Davis,Feeding behavior
+784,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.55,26.0,Subadult,Unknown,26-12-2014,Liberia,Small Streams,Vulnerable,Olivia Davis,Observed basking
+785,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.25,30.2,Adult,Unknown,06-12-2018,Gabon,Forest Swamps,Vulnerable,Noah Williams,Juvenile group
+786,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.15,27.6,Juvenile,Male,11-01-2025,Côte d'Ivoire,Forest Swamps,Vulnerable,Maria Gonzalez,Nest near water
+787,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.06,17.1,Hatchling,Male,17-07-2008,Gabon,Small Streams,Vulnerable,Olivia Davis,Observed basking
+788,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.51,32.0,Subadult,Unknown,24-05-2020,Liberia,Forest Swamps,Vulnerable,Emma Johnson,Resting near shore
+789,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.61,35.5,Subadult,Male,22-09-2023,Liberia,Small Streams,Vulnerable,Ethan Martinez,Feeding behavior
+790,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.73,37.5,Hatchling,Female,20-11-2020,Liberia,Small Streams,Vulnerable,Noah Williams,Observed basking
+791,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.62,24.5,Hatchling,Female,17-06-2011,Liberia,Forest Swamps,Vulnerable,Sophia Patel,Tagged individual
+792,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.7,32.8,Hatchling,Female,23-10-2012,Gabon,Forest Swamps,Vulnerable,Liam Brown,Observed basking
+793,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.76,43.8,Hatchling,Male,05-03-2017,Gabon,Small Streams,Vulnerable,Emma Johnson,Feeding behavior
+794,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.55,28.5,Subadult,Female,17-01-2022,Côte d'Ivoire,Forest Swamps,Vulnerable,Sophia Patel,Unusual coloration
+795,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.77,36.6,Adult,Male,30-09-2005,Liberia,Small Streams,Vulnerable,John Smith,Aggressive display
+796,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.06,20.0,Hatchling,Female,24-10-2017,Gabon,Forest Swamps,Vulnerable,Olivia Davis,Observed basking
+797,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.4,30.7,Subadult,Male,16-06-2022,Côte d'Ivoire,Small Streams,Vulnerable,Sophia Patel,Resting near shore
+798,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.46,36.0,Juvenile,Unknown,11-01-2024,Liberia,Forest Swamps,Vulnerable,Emma Johnson,Tagged individual
+799,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.3,30.5,Hatchling,Male,22-10-2013,Côte d'Ivoire,Forest Swamps,Vulnerable,Ethan Martinez,Resting near shore
+800,West African Dwarf Crocodile,Osteolaemus tetraspis,Crocodylidae,Osteolaemus,1.66,26.1,Subadult,Male,21-11-2009,Liberia,Small Streams,Vulnerable,Liam Brown,Unusual coloration
