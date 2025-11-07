@@ -31,11 +31,20 @@ instance/
 .webassets-cache
 
 
-# Manter estrutura de pastas vazias
-!data/uploads/.gitkeep
-!data/models/.gitkeep
-!data/charts/.gitkeep
+# Ignorar tudo dentro de data/
+data/*
 
+# Permitir apenas a pasta uploads
+!data/uploads/
+
+# Ignorar tudo dentro de uploads...
+data/uploads/*
+
+# ...exceto arquivos CSV
+!data/uploads/*.csv
+
+# (opcional) manter estrutura com .gitkeep
+!data/uploads/.gitkeep
 # IDE
 .vscode/
 .idea/
